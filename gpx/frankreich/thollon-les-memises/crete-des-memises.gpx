@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="EditGPX">
+  <metadata>
+    <name>circuit de la crête</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="46.379725" lon="6.723927">
+        <ele>1592.2</ele>
+      </trkpt>
+      <trkpt lat="46.380021" lon="6.725258">
+        <ele>1603.8</ele>
+      </trkpt>
+      <trkpt lat="46.380672" lon="6.726845">
+        <ele>1629.1</ele>
+      </trkpt>
+      <trkpt lat="46.381205" lon="6.727661">
+        <ele>1643.9</ele>
+      </trkpt>
+      <trkpt lat="46.381146" lon="6.729248">
+        <ele>1654.8</ele>
+      </trkpt>
+      <trkpt lat="46.381590" lon="6.731179">
+        <ele>1665.2</ele>
+      </trkpt>
+      <trkpt lat="46.381827" lon="6.733153">
+        <ele>1679.1</ele>
+      </trkpt>
+      <trkpt lat="46.381945" lon="6.734097">
+        <ele>1675.7</ele>
+      </trkpt>
+      <trkpt lat="46.381797" lon="6.734698">
+        <ele>1668.1</ele>
+      </trkpt>
+      <trkpt lat="46.381768" lon="6.735384">
+        <ele>1664.7</ele>
+      </trkpt>
+      <trkpt lat="46.381501" lon="6.736114">
+        <ele>1651.1</ele>
+      </trkpt>
+      <trkpt lat="46.381383" lon="6.737487">
+        <ele>1631.1</ele>
+      </trkpt>
+      <trkpt lat="46.381087" lon="6.738345">
+        <ele>1623.7</ele>
+      </trkpt>
+      <trkpt lat="46.380258" lon="6.738474">
+        <ele>1625</ele>
+      </trkpt>
+      <trkpt lat="46.380169" lon="6.738131">
+        <ele>1625</ele>
+      </trkpt>
+      <trkpt lat="46.380080" lon="6.737315">
+        <ele>1623.8</ele>
+      </trkpt>
+      <trkpt lat="46.379695" lon="6.736414">
+        <ele>1615.8</ele>
+      </trkpt>
+      <trkpt lat="46.379488" lon="6.735084">
+        <ele>1606.2</ele>
+      </trkpt>
+      <trkpt lat="46.380021" lon="6.733153">
+        <ele>1608.6</ele>
+      </trkpt>
+      <trkpt lat="46.380169" lon="6.731952">
+        <ele>1608.3</ele>
+      </trkpt>
+      <trkpt lat="46.380317" lon="6.730750">
+        <ele>1615.7</ele>
+      </trkpt>
+      <trkpt lat="46.380199" lon="6.729849">
+        <ele>1617.5</ele>
+      </trkpt>
+      <trkpt lat="46.380169" lon="6.728347">
+        <ele>1619.2</ele>
+      </trkpt>
+      <trkpt lat="46.379962" lon="6.726245">
+        <ele>1605.2</ele>
+      </trkpt>
+      <trkpt lat="46.380080" lon="6.724528">
+        <ele>1596.2</ele>
+      </trkpt>
+      <trkpt lat="46.379903" lon="6.723842">
+        <ele>1593.1</ele>
+      </trkpt>
+      <trkpt lat="46.379843" lon="6.722726">
+        <ele>1591.7</ele>
+      </trkpt>
+      <trkpt lat="46.379903" lon="6.720709">
+        <ele>1603.9</ele>
+      </trkpt>
+      <trkpt lat="46.379695" lon="6.720023">
+        <ele>1609.2</ele>
+      </trkpt>
+      <trkpt lat="46.379755" lon="6.718778">
+        <ele>1615.1</ele>
+      </trkpt>
+      <trkpt lat="46.379932" lon="6.718564">
+        <ele>1613.2</ele>
+      </trkpt>
+      <trkpt lat="46.379755" lon="6.718049">
+        <ele>1617.5</ele>
+      </trkpt>
+      <trkpt lat="46.379814" lon="6.717448">
+        <ele>1617</ele>
+      </trkpt>
+      <trkpt lat="46.379725" lon="6.716676">
+        <ele>1635.7</ele>
+      </trkpt>
+      <trkpt lat="46.379577" lon="6.715818">
+        <ele>1633.5</ele>
+      </trkpt>
+      <trkpt lat="46.378777" lon="6.712513">
+        <ele>1666.4</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

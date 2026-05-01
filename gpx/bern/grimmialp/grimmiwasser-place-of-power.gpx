@@ -1,0 +1,4651 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.outdooractive.com/GPX/Extensions/1 https://www.outdooractive.com/schema/gpx_extensions.xsd">
+  <metadata>
+    <name>Mountain hike Power Spot Grimmiwasser</name>
+    <author>
+      <name>Rahel Mazenauer - Naturpark Diemtigtal</name>
+    </author>
+    <link href="https://www.outdooractive.com/r/37104374"/>
+    <time>2026-03-19T08:13:27.704Z</time>
+    <extensions>
+      <oa:oaCategory>themeTrail</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>Mountain hike Power Spot Grimmiwasser</name>
+    <desc>The power spot impresses with its wild character: a moorland, rare alpine flowers, and the red iron-rich springs act as natural energy sources.</desc>
+    <type>themeTrail</type>
+    <trkseg>
+      <trkpt lat="46.568253" lon="7.482989">
+        <ele>1227.3</ele>
+        <name>46.568286,7.482951</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.568237" lon="7.48296">
+        <ele>1227.3</ele>
+      </trkpt>
+      <trkpt lat="46.568115" lon="7.482753">
+        <ele>1226.9</ele>
+      </trkpt>
+      <trkpt lat="46.568037" lon="7.482628">
+        <ele>1226.5</ele>
+      </trkpt>
+      <trkpt lat="46.567944" lon="7.482501">
+        <ele>1225.9</ele>
+      </trkpt>
+      <trkpt lat="46.567873" lon="7.482396">
+        <ele>1226.1</ele>
+      </trkpt>
+      <trkpt lat="46.567832" lon="7.482311">
+        <ele>1225.8</ele>
+      </trkpt>
+      <trkpt lat="46.567782" lon="7.482159">
+        <ele>1225.8</ele>
+      </trkpt>
+      <trkpt lat="46.567746" lon="7.482026">
+        <ele>1225.8</ele>
+      </trkpt>
+      <trkpt lat="46.567706" lon="7.481927">
+        <ele>1225.7</ele>
+      </trkpt>
+      <trkpt lat="46.567645" lon="7.481825">
+        <ele>1225.1</ele>
+      </trkpt>
+      <trkpt lat="46.567567" lon="7.481728">
+        <ele>1224.5</ele>
+      </trkpt>
+      <trkpt lat="46.567461" lon="7.481612">
+        <ele>1223.9</ele>
+      </trkpt>
+      <trkpt lat="46.567331" lon="7.481468">
+        <ele>1223.0</ele>
+      </trkpt>
+      <trkpt lat="46.567192" lon="7.481294">
+        <ele>1223.1</ele>
+      </trkpt>
+      <trkpt lat="46.567072" lon="7.48114">
+        <ele>1222.5</ele>
+      </trkpt>
+      <trkpt lat="46.566979" lon="7.48101">
+        <ele>1222.7</ele>
+      </trkpt>
+      <trkpt lat="46.566914" lon="7.480897">
+        <ele>1222.3</ele>
+      </trkpt>
+      <trkpt lat="46.566857" lon="7.480772">
+        <ele>1222.5</ele>
+      </trkpt>
+      <trkpt lat="46.566796" lon="7.480637">
+        <ele>1222.4</ele>
+      </trkpt>
+      <trkpt lat="46.566734" lon="7.480515">
+        <ele>1222.0</ele>
+      </trkpt>
+      <trkpt lat="46.566646" lon="7.480361">
+        <ele>1221.9</ele>
+      </trkpt>
+      <trkpt lat="46.566572" lon="7.480214">
+        <ele>1222.1</ele>
+      </trkpt>
+      <trkpt lat="46.566488" lon="7.480068">
+        <ele>1222.0</ele>
+      </trkpt>
+      <trkpt lat="46.566425" lon="7.479969">
+        <ele>1222.2</ele>
+      </trkpt>
+      <trkpt lat="46.566364" lon="7.479877">
+        <ele>1222.5</ele>
+      </trkpt>
+      <trkpt lat="46.566294" lon="7.479789">
+        <ele>1222.5</ele>
+      </trkpt>
+      <trkpt lat="46.566199" lon="7.479687">
+        <ele>1223.1</ele>
+      </trkpt>
+      <trkpt lat="46.566188" lon="7.479676">
+        <ele>1223.2</ele>
+      </trkpt>
+      <trkpt lat="46.566089" lon="7.479579">
+        <ele>1223.5</ele>
+      </trkpt>
+      <trkpt lat="46.566012" lon="7.479499">
+        <ele>1224.3</ele>
+      </trkpt>
+      <trkpt lat="46.565989" lon="7.479469">
+        <ele>1224.1</ele>
+      </trkpt>
+      <trkpt lat="46.565938" lon="7.479377">
+        <ele>1224.7</ele>
+      </trkpt>
+      <trkpt lat="46.565919" lon="7.479311">
+        <ele>1224.3</ele>
+      </trkpt>
+      <trkpt lat="46.565914" lon="7.47927">
+        <ele>1224.4</ele>
+      </trkpt>
+      <trkpt lat="46.565908" lon="7.47922">
+        <ele>1224.3</ele>
+      </trkpt>
+      <trkpt lat="46.565902" lon="7.479115">
+        <ele>1224.3</ele>
+      </trkpt>
+      <trkpt lat="46.565902" lon="7.478988">
+        <ele>1223.7</ele>
+      </trkpt>
+      <trkpt lat="46.565895" lon="7.47885">
+        <ele>1224.2</ele>
+      </trkpt>
+      <trkpt lat="46.565883" lon="7.478745">
+        <ele>1224.5</ele>
+      </trkpt>
+      <trkpt lat="46.565862" lon="7.478662">
+        <ele>1224.6</ele>
+      </trkpt>
+      <trkpt lat="46.565826" lon="7.478574">
+        <ele>1224.7</ele>
+      </trkpt>
+      <trkpt lat="46.565765" lon="7.478455">
+        <ele>1225.7</ele>
+      </trkpt>
+      <trkpt lat="46.565661" lon="7.47829">
+        <ele>1226.1</ele>
+      </trkpt>
+      <trkpt lat="46.565541" lon="7.478099">
+        <ele>1227.2</ele>
+      </trkpt>
+      <trkpt lat="46.565463" lon="7.477986">
+        <ele>1228.5</ele>
+      </trkpt>
+      <trkpt lat="46.565388" lon="7.477889">
+        <ele>1228.6</ele>
+      </trkpt>
+      <trkpt lat="46.565236" lon="7.477715">
+        <ele>1229.9</ele>
+      </trkpt>
+      <trkpt lat="46.565101" lon="7.477566">
+        <ele>1231.5</ele>
+      </trkpt>
+      <trkpt lat="46.564987" lon="7.47745">
+        <ele>1233.1</ele>
+      </trkpt>
+      <trkpt lat="46.564913" lon="7.477428">
+        <ele>1233.7</ele>
+      </trkpt>
+      <trkpt lat="46.564855" lon="7.477414">
+        <ele>1233.4</ele>
+      </trkpt>
+      <trkpt lat="46.564794" lon="7.477392">
+        <ele>1233.5</ele>
+      </trkpt>
+      <trkpt lat="46.564728" lon="7.477339">
+        <ele>1234.0</ele>
+      </trkpt>
+      <trkpt lat="46.564642" lon="7.477262">
+        <ele>1233.5</ele>
+      </trkpt>
+      <trkpt lat="46.564579" lon="7.477204">
+        <ele>1233.7</ele>
+      </trkpt>
+      <trkpt lat="46.564517" lon="7.477157">
+        <ele>1233.7</ele>
+      </trkpt>
+      <trkpt lat="46.564433" lon="7.477115">
+        <ele>1233.3</ele>
+      </trkpt>
+      <trkpt lat="46.564359" lon="7.477085">
+        <ele>1233.5</ele>
+      </trkpt>
+      <trkpt lat="46.56426" lon="7.477052">
+        <ele>1233.8</ele>
+      </trkpt>
+      <trkpt lat="46.564185" lon="7.47701">
+        <ele>1234.3</ele>
+      </trkpt>
+      <trkpt lat="46.564145" lon="7.476988">
+        <ele>1234.5</ele>
+      </trkpt>
+      <trkpt lat="46.564048" lon="7.476905">
+        <ele>1235.1</ele>
+      </trkpt>
+      <trkpt lat="46.56401" lon="7.476875">
+        <ele>1235.1</ele>
+      </trkpt>
+      <trkpt lat="46.563974" lon="7.476828">
+        <ele>1235.3</ele>
+      </trkpt>
+      <trkpt lat="46.563944" lon="7.476759">
+        <ele>1235.7</ele>
+      </trkpt>
+      <trkpt lat="46.563915" lon="7.476651">
+        <ele>1236.1</ele>
+      </trkpt>
+      <trkpt lat="46.563883" lon="7.476555">
+        <ele>1236.4</ele>
+      </trkpt>
+      <trkpt lat="46.563848" lon="7.476488">
+        <ele>1237.1</ele>
+      </trkpt>
+      <trkpt lat="46.563809" lon="7.476439">
+        <ele>1237.9</ele>
+      </trkpt>
+      <trkpt lat="46.563767" lon="7.476411">
+        <ele>1238.1</ele>
+      </trkpt>
+      <trkpt lat="46.563719" lon="7.476394">
+        <ele>1238.4</ele>
+      </trkpt>
+      <trkpt lat="46.563654" lon="7.476383">
+        <ele>1238.3</ele>
+      </trkpt>
+      <trkpt lat="46.563576" lon="7.476383">
+        <ele>1238.6</ele>
+      </trkpt>
+      <trkpt lat="46.563504" lon="7.476378">
+        <ele>1239.1</ele>
+      </trkpt>
+      <trkpt lat="46.563432" lon="7.476358">
+        <ele>1239.8</ele>
+      </trkpt>
+      <trkpt lat="46.563323" lon="7.476295">
+        <ele>1240.5</ele>
+      </trkpt>
+      <trkpt lat="46.563239" lon="7.476228">
+        <ele>1240.9</ele>
+      </trkpt>
+      <trkpt lat="46.563154" lon="7.476137">
+        <ele>1241.3</ele>
+      </trkpt>
+      <trkpt lat="46.563034" lon="7.476005">
+        <ele>1242.5</ele>
+      </trkpt>
+      <trkpt lat="46.56291" lon="7.475869">
+        <ele>1243.5</ele>
+      </trkpt>
+      <trkpt lat="46.562821" lon="7.475784">
+        <ele>1243.9</ele>
+      </trkpt>
+      <trkpt lat="46.562714" lon="7.475693">
+        <ele>1244.5</ele>
+      </trkpt>
+      <trkpt lat="46.562613" lon="7.47559">
+        <ele>1245.5</ele>
+      </trkpt>
+      <trkpt lat="46.562527" lon="7.475519">
+        <ele>1245.9</ele>
+      </trkpt>
+      <trkpt lat="46.56243" lon="7.475452">
+        <ele>1247.1</ele>
+      </trkpt>
+      <trkpt lat="46.562301" lon="7.475367">
+        <ele>1249.4</ele>
+      </trkpt>
+      <trkpt lat="46.562202" lon="7.475306">
+        <ele>1250.5</ele>
+      </trkpt>
+      <trkpt lat="46.562116" lon="7.475267">
+        <ele>1251.5</ele>
+      </trkpt>
+      <trkpt lat="46.56203" lon="7.475237">
+        <ele>1252.6</ele>
+      </trkpt>
+      <trkpt lat="46.561977" lon="7.475204">
+        <ele>1253.4</ele>
+      </trkpt>
+      <trkpt lat="46.561941" lon="7.475154">
+        <ele>1254.2</ele>
+      </trkpt>
+      <trkpt lat="46.561909" lon="7.475071">
+        <ele>1254.8</ele>
+      </trkpt>
+      <trkpt lat="46.561888" lon="7.475007">
+        <ele>1255.1</ele>
+      </trkpt>
+      <trkpt lat="46.561848" lon="7.474936">
+        <ele>1255.2</ele>
+      </trkpt>
+      <trkpt lat="46.561789" lon="7.474845">
+        <ele>1255.4</ele>
+      </trkpt>
+      <trkpt lat="46.561705" lon="7.474729">
+        <ele>1256.0</ele>
+      </trkpt>
+      <trkpt lat="46.561606" lon="7.474593">
+        <ele>1256.5</ele>
+      </trkpt>
+      <trkpt lat="46.561543" lon="7.474513">
+        <ele>1256.8</ele>
+      </trkpt>
+      <trkpt lat="46.56148" lon="7.474452">
+        <ele>1257.3</ele>
+      </trkpt>
+      <trkpt lat="46.56142" lon="7.474422">
+        <ele>1257.6</ele>
+      </trkpt>
+      <trkpt lat="46.561362" lon="7.474416">
+        <ele>1257.9</ele>
+      </trkpt>
+      <trkpt lat="46.561292" lon="7.474427">
+        <ele>1258.2</ele>
+      </trkpt>
+      <trkpt lat="46.56121" lon="7.474447">
+        <ele>1258.8</ele>
+      </trkpt>
+      <trkpt lat="46.561121" lon="7.474449">
+        <ele>1259.1</ele>
+      </trkpt>
+      <trkpt lat="46.561046" lon="7.474427">
+        <ele>1259.3</ele>
+      </trkpt>
+      <trkpt lat="46.560989" lon="7.474397">
+        <ele>1259.8</ele>
+      </trkpt>
+      <trkpt lat="46.5609" lon="7.474306">
+        <ele>1261.5</ele>
+      </trkpt>
+      <trkpt lat="46.560835" lon="7.474234">
+        <ele>1263.3</ele>
+      </trkpt>
+      <trkpt lat="46.560799" lon="7.474176">
+        <ele>1263.9</ele>
+      </trkpt>
+      <trkpt lat="46.560759" lon="7.474087">
+        <ele>1264.3</ele>
+      </trkpt>
+      <trkpt lat="46.560732" lon="7.474018">
+        <ele>1264.7</ele>
+      </trkpt>
+      <trkpt lat="46.560702" lon="7.473949">
+        <ele>1264.8</ele>
+      </trkpt>
+      <trkpt lat="46.560658" lon="7.473891">
+        <ele>1264.9</ele>
+      </trkpt>
+      <trkpt lat="46.560605" lon="7.473836">
+        <ele>1264.8</ele>
+      </trkpt>
+      <trkpt lat="46.560544" lon="7.473781">
+        <ele>1265.0</ele>
+      </trkpt>
+      <trkpt lat="46.560491" lon="7.473715">
+        <ele>1266.3</ele>
+      </trkpt>
+      <trkpt lat="46.560441" lon="7.473665">
+        <ele>1267.4</ele>
+      </trkpt>
+      <trkpt lat="46.560392" lon="7.473601">
+        <ele>1268.3</ele>
+      </trkpt>
+      <trkpt lat="46.560361" lon="7.473541">
+        <ele>1268.2</ele>
+      </trkpt>
+      <trkpt lat="46.560336" lon="7.473452">
+        <ele>1268.1</ele>
+      </trkpt>
+      <trkpt lat="46.5603" lon="7.473281">
+        <ele>1268.1</ele>
+      </trkpt>
+      <trkpt lat="46.560276" lon="7.47319">
+        <ele>1268.8</ele>
+      </trkpt>
+      <trkpt lat="46.560249" lon="7.473121">
+        <ele>1269.4</ele>
+      </trkpt>
+      <trkpt lat="46.560215" lon="7.473058">
+        <ele>1269.7</ele>
+      </trkpt>
+      <trkpt lat="46.560144" lon="7.472942">
+        <ele>1270.5</ele>
+      </trkpt>
+      <trkpt lat="46.560074" lon="7.472815">
+        <ele>1270.7</ele>
+      </trkpt>
+      <trkpt lat="46.560017" lon="7.472715">
+        <ele>1270.8</ele>
+      </trkpt>
+      <trkpt lat="46.559979" lon="7.47266">
+        <ele>1270.8</ele>
+      </trkpt>
+      <trkpt lat="46.55991" lon="7.472558">
+        <ele>1270.0</ele>
+      </trkpt>
+      <trkpt lat="46.559842" lon="7.472467">
+        <ele>1270.0</ele>
+      </trkpt>
+      <trkpt lat="46.559775" lon="7.472373">
+        <ele>1269.8</ele>
+      </trkpt>
+      <trkpt lat="46.559726" lon="7.472315">
+        <ele>1269.7</ele>
+      </trkpt>
+      <trkpt lat="46.559693" lon="7.472254">
+        <ele>1269.6</ele>
+      </trkpt>
+      <trkpt lat="46.559667" lon="7.472166">
+        <ele>1269.6</ele>
+      </trkpt>
+      <trkpt lat="46.559648" lon="7.472066">
+        <ele>1270.1</ele>
+      </trkpt>
+      <trkpt lat="46.559627" lon="7.471986">
+        <ele>1270.1</ele>
+      </trkpt>
+      <trkpt lat="46.559587" lon="7.471903">
+        <ele>1270.1</ele>
+      </trkpt>
+      <trkpt lat="46.559535" lon="7.47182">
+        <ele>1270.4</ele>
+      </trkpt>
+      <trkpt lat="46.559495" lon="7.471754">
+        <ele>1270.9</ele>
+      </trkpt>
+      <trkpt lat="46.559467" lon="7.471685">
+        <ele>1271.4</ele>
+      </trkpt>
+      <trkpt lat="46.559448" lon="7.471605">
+        <ele>1270.9</ele>
+      </trkpt>
+      <trkpt lat="46.55944" lon="7.471528">
+        <ele>1271.1</ele>
+      </trkpt>
+      <trkpt lat="46.559465" lon="7.471426">
+        <ele>1271.4</ele>
+      </trkpt>
+      <trkpt lat="46.559507" lon="7.471379">
+        <ele>1271.8</ele>
+      </trkpt>
+      <trkpt lat="46.559534" lon="7.471369">
+        <ele>1272.4</ele>
+        <name>Robidog, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.559599" lon="7.471344">
+        <ele>1273.72307</ele>
+      </trkpt>
+      <trkpt lat="46.559528" lon="7.471194">
+        <ele>1272.89612</ele>
+      </trkpt>
+      <trkpt lat="46.559403" lon="7.471114">
+        <ele>1272.52813</ele>
+      </trkpt>
+      <trkpt lat="46.559193" lon="7.470995">
+        <ele>1275.24498</ele>
+      </trkpt>
+      <trkpt lat="46.558986" lon="7.470899">
+        <ele>1277.89232</ele>
+      </trkpt>
+      <trkpt lat="46.558798" lon="7.470786">
+        <ele>1277.72784</ele>
+      </trkpt>
+      <trkpt lat="46.558628" lon="7.470706">
+        <ele>1279.53661</ele>
+      </trkpt>
+      <trkpt lat="46.558503" lon="7.470566">
+        <ele>1282.45806</ele>
+      </trkpt>
+      <trkpt lat="46.558355" lon="7.470395">
+        <ele>1283.03817</ele>
+      </trkpt>
+      <trkpt lat="46.558142" lon="7.470303">
+        <ele>1283.40557</ele>
+      </trkpt>
+      <trkpt lat="46.558046" lon="7.470094">
+        <ele>1284.70871</ele>
+      </trkpt>
+      <trkpt lat="46.557824" lon="7.46989">
+        <ele>1286.07835</ele>
+      </trkpt>
+      <trkpt lat="46.557699" lon="7.469837">
+        <ele>1286.90652</ele>
+      </trkpt>
+      <trkpt lat="46.557703" lon="7.469923">
+        <ele>1286.61116</ele>
+      </trkpt>
+      <trkpt lat="46.557518" lon="7.470094">
+        <ele>1285.89944</ele>
+      </trkpt>
+      <trkpt lat="46.557522" lon="7.470159">
+        <ele>1285.63109</ele>
+      </trkpt>
+      <trkpt lat="46.557444" lon="7.470105">
+        <ele>1286.12136</ele>
+      </trkpt>
+      <trkpt lat="46.5574" lon="7.470094">
+        <ele>1286.58133</ele>
+      </trkpt>
+      <trkpt lat="46.557415" lon="7.470234">
+        <ele>1286.30174</ele>
+      </trkpt>
+      <trkpt lat="46.557352" lon="7.470244">
+        <ele>1287.19434</ele>
+      </trkpt>
+      <trkpt lat="46.557352" lon="7.470325">
+        <ele>1290.10036</ele>
+      </trkpt>
+      <trkpt lat="46.557297" lon="7.470341">
+        <ele>1291.64403</ele>
+      </trkpt>
+      <trkpt lat="46.557319" lon="7.470411">
+        <ele>1292.88476</ele>
+      </trkpt>
+      <trkpt lat="46.557271" lon="7.470427">
+        <ele>1294.08195</ele>
+      </trkpt>
+      <trkpt lat="46.557297" lon="7.470566">
+        <ele>1297.35352</ele>
+      </trkpt>
+      <trkpt lat="46.557308" lon="7.470604">
+        <ele>1298.13211</ele>
+      </trkpt>
+      <trkpt lat="46.557245" lon="7.470631">
+        <ele>1300.43213</ele>
+      </trkpt>
+      <trkpt lat="46.557271" lon="7.470759">
+        <ele>1303.64151</ele>
+      </trkpt>
+      <trkpt lat="46.55726" lon="7.47092">
+        <ele>1304.88423</ele>
+      </trkpt>
+      <trkpt lat="46.55726" lon="7.471108">
+        <ele>1306.03234</ele>
+      </trkpt>
+      <trkpt lat="46.557278" lon="7.471333">
+        <ele>1305.98087</ele>
+      </trkpt>
+      <trkpt lat="46.557348" lon="7.471441">
+        <ele>1304.47972</ele>
+      </trkpt>
+      <trkpt lat="46.55754" lon="7.471564">
+        <ele>1301.77392</ele>
+      </trkpt>
+      <trkpt lat="46.557455" lon="7.471773">
+        <ele>1306.77996</ele>
+      </trkpt>
+      <trkpt lat="46.557492" lon="7.471891">
+        <ele>1306.83056</ele>
+      </trkpt>
+      <trkpt lat="46.557422" lon="7.472138">
+        <ele>1311.47605</ele>
+      </trkpt>
+      <trkpt lat="46.557363" lon="7.472149">
+        <ele>1313.63472</ele>
+      </trkpt>
+      <trkpt lat="46.55736" lon="7.47224">
+        <ele>1315.65446</ele>
+      </trkpt>
+      <trkpt lat="46.557267" lon="7.472208">
+        <ele>1317.75632</ele>
+      </trkpt>
+      <trkpt lat="46.557278" lon="7.472299">
+        <ele>1319.23375</ele>
+      </trkpt>
+      <trkpt lat="46.557142" lon="7.472331">
+        <ele>1323.54585</ele>
+      </trkpt>
+      <trkpt lat="46.557138" lon="7.47239">
+        <ele>1324.7721</ele>
+      </trkpt>
+      <trkpt lat="46.557146" lon="7.472455">
+        <ele>1323.40842</ele>
+      </trkpt>
+      <trkpt lat="46.557016" lon="7.472471">
+        <ele>1329.32633</ele>
+      </trkpt>
+      <trkpt lat="46.556902" lon="7.472481">
+        <ele>1332.72661</ele>
+      </trkpt>
+      <trkpt lat="46.556769" lon="7.472701">
+        <ele>1338.21433</ele>
+      </trkpt>
+      <trkpt lat="46.556404" lon="7.473163">
+        <ele>1350.47375</ele>
+      </trkpt>
+      <trkpt lat="46.556386" lon="7.473334">
+        <ele>1345.10857</ele>
+      </trkpt>
+      <trkpt lat="46.556197" lon="7.473321">
+        <ele>1358.32668</ele>
+      </trkpt>
+      <trkpt lat="46.556131" lon="7.473527">
+        <ele>1354.98519</ele>
+      </trkpt>
+      <trkpt lat="46.556039" lon="7.47349">
+        <ele>1360.67177</ele>
+      </trkpt>
+      <trkpt lat="46.555936" lon="7.473495">
+        <ele>1366.63277</ele>
+      </trkpt>
+      <trkpt lat="46.55588" lon="7.473742">
+        <ele>1368.79939</ele>
+      </trkpt>
+      <trkpt lat="46.555748" lon="7.473785">
+        <ele>1372.67657</ele>
+      </trkpt>
+      <trkpt lat="46.555644" lon="7.473806">
+        <ele>1375.77653</ele>
+      </trkpt>
+      <trkpt lat="46.555589" lon="7.473721">
+        <ele>1378.299</ele>
+      </trkpt>
+      <trkpt lat="46.55554" lon="7.473906">
+        <ele>1380.01217</ele>
+      </trkpt>
+      <trkpt lat="46.55529" lon="7.474273">
+        <ele>1387.3045</ele>
+      </trkpt>
+      <trkpt lat="46.555236" lon="7.474167">
+        <ele>1390.6</ele>
+        <name>Tränenbrunnen, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.555233" lon="7.474166">
+        <ele>1390.7</ele>
+      </trkpt>
+      <trkpt lat="46.555209" lon="7.474172">
+        <ele>1391.0</ele>
+      </trkpt>
+      <trkpt lat="46.555157" lon="7.474261">
+        <ele>1392.1</ele>
+      </trkpt>
+      <trkpt lat="46.555104" lon="7.474335">
+        <ele>1393.1</ele>
+      </trkpt>
+      <trkpt lat="46.55502" lon="7.474421">
+        <ele>1394.3</ele>
+      </trkpt>
+      <trkpt lat="46.554932" lon="7.474512">
+        <ele>1395.8</ele>
+      </trkpt>
+      <trkpt lat="46.554864" lon="7.474594">
+        <ele>1396.8</ele>
+      </trkpt>
+      <trkpt lat="46.554767" lon="7.474727">
+        <ele>1398.5</ele>
+      </trkpt>
+      <trkpt lat="46.554656" lon="7.474876">
+        <ele>1400.8</ele>
+      </trkpt>
+      <trkpt lat="46.554561" lon="7.474997">
+        <ele>1402.5</ele>
+      </trkpt>
+      <trkpt lat="46.554477" lon="7.475085">
+        <ele>1403.7</ele>
+      </trkpt>
+      <trkpt lat="46.554388" lon="7.47516">
+        <ele>1405.2</ele>
+      </trkpt>
+      <trkpt lat="46.554281" lon="7.475248">
+        <ele>1406.5</ele>
+      </trkpt>
+      <trkpt lat="46.554234" lon="7.475287">
+        <ele>1407.3</ele>
+        <name>Türli, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.554165" lon="7.475345">
+        <ele>1408.4</ele>
+      </trkpt>
+      <trkpt lat="46.554091" lon="7.4754">
+        <ele>1409.3</ele>
+      </trkpt>
+      <trkpt lat="46.554047" lon="7.475419">
+        <ele>1409.8</ele>
+      </trkpt>
+      <trkpt lat="46.553969" lon="7.475458">
+        <ele>1410.7</ele>
+      </trkpt>
+      <trkpt lat="46.553894" lon="7.475502">
+        <ele>1411.8</ele>
+      </trkpt>
+      <trkpt lat="46.553811" lon="7.475565">
+        <ele>1412.9</ele>
+      </trkpt>
+      <trkpt lat="46.553691" lon="7.475659">
+        <ele>1414.6</ele>
+      </trkpt>
+      <trkpt lat="46.553593" lon="7.475747">
+        <ele>1416.3</ele>
+      </trkpt>
+      <trkpt lat="46.553424" lon="7.47588">
+        <ele>1419.0</ele>
+      </trkpt>
+      <trkpt lat="46.553262" lon="7.476009">
+        <ele>1421.3</ele>
+      </trkpt>
+      <trkpt lat="46.553112" lon="7.47612">
+        <ele>1423.7</ele>
+      </trkpt>
+      <trkpt lat="46.553076" lon="7.476144">
+        <ele>1424.2</ele>
+        <name>Türli, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.552997" lon="7.476199">
+        <ele>1425.3</ele>
+      </trkpt>
+      <trkpt lat="46.552853" lon="7.476277">
+        <ele>1427.5</ele>
+      </trkpt>
+      <trkpt lat="46.552763" lon="7.476324">
+        <ele>1428.7</ele>
+      </trkpt>
+      <trkpt lat="46.55266" lon="7.476392">
+        <ele>1430.3</ele>
+      </trkpt>
+      <trkpt lat="46.552529" lon="7.476475">
+        <ele>1432.2</ele>
+      </trkpt>
+      <trkpt lat="46.552411" lon="7.476536">
+        <ele>1433.9</ele>
+      </trkpt>
+      <trkpt lat="46.552298" lon="7.47655">
+        <ele>1435.9</ele>
+      </trkpt>
+      <trkpt lat="46.552211" lon="7.476572">
+        <ele>1438.2</ele>
+      </trkpt>
+      <trkpt lat="46.552195" lon="7.476576">
+        <ele>1438.5</ele>
+        <name>Türli, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.552074" lon="7.476613">
+        <ele>1441.3</ele>
+      </trkpt>
+      <trkpt lat="46.551866" lon="7.476682">
+        <ele>1446.3</ele>
+      </trkpt>
+      <trkpt lat="46.55172" lon="7.476742">
+        <ele>1449.9</ele>
+      </trkpt>
+      <trkpt lat="46.551598" lon="7.476814">
+        <ele>1452.4</ele>
+      </trkpt>
+      <trkpt lat="46.551453" lon="7.476891">
+        <ele>1455.3</ele>
+      </trkpt>
+      <trkpt lat="46.551253" lon="7.476982">
+        <ele>1459.2</ele>
+      </trkpt>
+      <trkpt lat="46.55107" lon="7.477065">
+        <ele>1462.9</ele>
+      </trkpt>
+      <trkpt lat="46.551002" lon="7.477104">
+        <ele>1464.5</ele>
+        <name>Türli, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.550903" lon="7.477161">
+        <ele>1466.9</ele>
+      </trkpt>
+      <trkpt lat="46.550752" lon="7.477255">
+        <ele>1470.4</ele>
+      </trkpt>
+      <trkpt lat="46.550638" lon="7.477329">
+        <ele>1473.1</ele>
+      </trkpt>
+      <trkpt lat="46.550539" lon="7.477387">
+        <ele>1475.7</ele>
+      </trkpt>
+      <trkpt lat="46.550424" lon="7.47743">
+        <ele>1478.1</ele>
+        <name>Türli, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.550405" lon="7.477437">
+        <ele>1478.5</ele>
+      </trkpt>
+      <trkpt lat="46.550276" lon="7.477462">
+        <ele>1481.5</ele>
+      </trkpt>
+      <trkpt lat="46.550122" lon="7.47747">
+        <ele>1484.4</ele>
+      </trkpt>
+      <trkpt lat="46.549985" lon="7.477467">
+        <ele>1486.5</ele>
+      </trkpt>
+      <trkpt lat="46.549859" lon="7.477481">
+        <ele>1488.6</ele>
+      </trkpt>
+      <trkpt lat="46.549745" lon="7.477508">
+        <ele>1491.0</ele>
+      </trkpt>
+      <trkpt lat="46.549646" lon="7.477552">
+        <ele>1492.7</ele>
+      </trkpt>
+      <trkpt lat="46.549568" lon="7.477574">
+        <ele>1493.8</ele>
+      </trkpt>
+      <trkpt lat="46.54945" lon="7.477588">
+        <ele>1495.1</ele>
+      </trkpt>
+      <trkpt lat="46.549305" lon="7.477582">
+        <ele>1497.5</ele>
+      </trkpt>
+      <trkpt lat="46.5492" lon="7.47758">
+        <ele>1499.7</ele>
+        <name>Türli, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.549175" lon="7.47758">
+        <ele>1500.3</ele>
+      </trkpt>
+      <trkpt lat="46.549103" lon="7.477585">
+        <ele>1501.1</ele>
+      </trkpt>
+      <trkpt lat="46.549035" lon="7.477615">
+        <ele>1502.5</ele>
+      </trkpt>
+      <trkpt lat="46.548964" lon="7.477659">
+        <ele>1504.1</ele>
+      </trkpt>
+      <trkpt lat="46.548865" lon="7.477695">
+        <ele>1506.0</ele>
+      </trkpt>
+      <trkpt lat="46.548736" lon="7.477739">
+        <ele>1508.5</ele>
+      </trkpt>
+      <trkpt lat="46.548646" lon="7.477764">
+        <ele>1509.1</ele>
+      </trkpt>
+      <trkpt lat="46.548562" lon="7.477761">
+        <ele>1509.6</ele>
+      </trkpt>
+      <trkpt lat="46.548433" lon="7.477764">
+        <ele>1510.9</ele>
+      </trkpt>
+      <trkpt lat="46.548347" lon="7.477761">
+        <ele>1512.6</ele>
+      </trkpt>
+      <trkpt lat="46.548263" lon="7.477753">
+        <ele>1513.5</ele>
+      </trkpt>
+      <trkpt lat="46.548153" lon="7.477775">
+        <ele>1514.4</ele>
+      </trkpt>
+      <trkpt lat="46.548046" lon="7.477808">
+        <ele>1515.6</ele>
+      </trkpt>
+      <trkpt lat="46.547915" lon="7.477844">
+        <ele>1518.6</ele>
+      </trkpt>
+      <trkpt lat="46.547789" lon="7.477868">
+        <ele>1521.5</ele>
+      </trkpt>
+      <trkpt lat="46.547662" lon="7.47789">
+        <ele>1524.6</ele>
+      </trkpt>
+      <trkpt lat="46.547536" lon="7.477915">
+        <ele>1527.2</ele>
+      </trkpt>
+      <trkpt lat="46.547471" lon="7.477951">
+        <ele>1528.6</ele>
+      </trkpt>
+      <trkpt lat="46.547403" lon="7.47797">
+        <ele>1530.0</ele>
+      </trkpt>
+      <trkpt lat="46.547309" lon="7.477981">
+        <ele>1531.7</ele>
+      </trkpt>
+      <trkpt lat="46.547227" lon="7.477992">
+        <ele>1533.5</ele>
+      </trkpt>
+      <trkpt lat="46.54713" lon="7.478036">
+        <ele>1536.2</ele>
+      </trkpt>
+      <trkpt lat="46.547012" lon="7.478086">
+        <ele>1539.0</ele>
+      </trkpt>
+      <trkpt lat="46.546965" lon="7.478101">
+        <ele>1540.4</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.546936" lon="7.478111">
+        <ele>1541.3</ele>
+      </trkpt>
+      <trkpt lat="46.546881" lon="7.478113">
+        <ele>1542.6</ele>
+      </trkpt>
+      <trkpt lat="46.546807" lon="7.478111">
+        <ele>1544.4</ele>
+      </trkpt>
+      <trkpt lat="46.546763" lon="7.478122">
+        <ele>1545.4</ele>
+      </trkpt>
+      <trkpt lat="46.546671" lon="7.478146">
+        <ele>1547.6</ele>
+      </trkpt>
+      <trkpt lat="46.546544" lon="7.478166">
+        <ele>1551.0</ele>
+      </trkpt>
+      <trkpt lat="46.546405" lon="7.478182">
+        <ele>1554.1</ele>
+      </trkpt>
+      <trkpt lat="46.546279" lon="7.478185">
+        <ele>1557.5</ele>
+      </trkpt>
+      <trkpt lat="46.546176" lon="7.478182">
+        <ele>1560.4</ele>
+      </trkpt>
+      <trkpt lat="46.546112" lon="7.478201">
+        <ele>1562.0</ele>
+      </trkpt>
+      <trkpt lat="46.546051" lon="7.478234">
+        <ele>1563.5</ele>
+      </trkpt>
+      <trkpt lat="46.546014" lon="7.478292">
+        <ele>1564.0</ele>
+      </trkpt>
+      <trkpt lat="46.546003" lon="7.478353">
+        <ele>1564.4</ele>
+      </trkpt>
+      <trkpt lat="46.546012" lon="7.478405">
+        <ele>1564.6</ele>
+      </trkpt>
+      <trkpt lat="46.546062" lon="7.478521">
+        <ele>1564.5</ele>
+      </trkpt>
+      <trkpt lat="46.546094" lon="7.478563">
+        <ele>1564.7</ele>
+      </trkpt>
+      <trkpt lat="46.546115" lon="7.478578">
+        <ele>1564.8</ele>
+      </trkpt>
+      <trkpt lat="46.546143" lon="7.478596">
+        <ele>1565.1</ele>
+      </trkpt>
+      <trkpt lat="46.546176" lon="7.478614">
+        <ele>1565.4</ele>
+      </trkpt>
+      <trkpt lat="46.546213" lon="7.478636">
+        <ele>1566.1</ele>
+      </trkpt>
+      <trkpt lat="46.546232" lon="7.478662">
+        <ele>1566.6</ele>
+      </trkpt>
+      <trkpt lat="46.546241" lon="7.478686">
+        <ele>1566.9</ele>
+      </trkpt>
+      <trkpt lat="46.546243" lon="7.478698">
+        <ele>1567.0</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.546245" lon="7.478709">
+        <ele>1567.1</ele>
+      </trkpt>
+      <trkpt lat="46.546239" lon="7.47874">
+        <ele>1567.3</ele>
+      </trkpt>
+      <trkpt lat="46.546227" lon="7.478759">
+        <ele>1567.6</ele>
+      </trkpt>
+      <trkpt lat="46.546197" lon="7.478782">
+        <ele>1568.2</ele>
+      </trkpt>
+      <trkpt lat="46.54617" lon="7.478803">
+        <ele>1569.2</ele>
+      </trkpt>
+      <trkpt lat="46.546062" lon="7.478839">
+        <ele>1573.2</ele>
+      </trkpt>
+      <trkpt lat="46.545951" lon="7.478883">
+        <ele>1575.9</ele>
+      </trkpt>
+      <trkpt lat="46.545849" lon="7.478927">
+        <ele>1579.2</ele>
+      </trkpt>
+      <trkpt lat="46.545763" lon="7.478968">
+        <ele>1582.0</ele>
+      </trkpt>
+      <trkpt lat="46.545658" lon="7.479031">
+        <ele>1586.0</ele>
+      </trkpt>
+      <trkpt lat="46.545569" lon="7.47907">
+        <ele>1589.1</ele>
+      </trkpt>
+      <trkpt lat="46.545506" lon="7.479106">
+        <ele>1591.3</ele>
+      </trkpt>
+      <trkpt lat="46.545447" lon="7.479117">
+        <ele>1592.9</ele>
+      </trkpt>
+      <trkpt lat="46.545374" lon="7.479097">
+        <ele>1594.9</ele>
+      </trkpt>
+      <trkpt lat="46.545241" lon="7.479084">
+        <ele>1599.1</ele>
+      </trkpt>
+      <trkpt lat="46.545227" lon="7.479079">
+        <ele>1599.5</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.54515" lon="7.479053">
+        <ele>1601.8</ele>
+      </trkpt>
+      <trkpt lat="46.5451" lon="7.47902">
+        <ele>1602.8</ele>
+      </trkpt>
+      <trkpt lat="46.545053" lon="7.478945">
+        <ele>1605.0</ele>
+      </trkpt>
+      <trkpt lat="46.545005" lon="7.478882">
+        <ele>1607.0</ele>
+      </trkpt>
+      <trkpt lat="46.544967" lon="7.478838">
+        <ele>1608.6</ele>
+      </trkpt>
+      <trkpt lat="46.544946" lon="7.478763">
+        <ele>1610.1</ele>
+      </trkpt>
+      <trkpt lat="46.544944" lon="7.478744">
+        <ele>1610.6</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.544935" lon="7.478658">
+        <ele>1612.4</ele>
+      </trkpt>
+      <trkpt lat="46.544914" lon="7.4786">
+        <ele>1613.9</ele>
+      </trkpt>
+      <trkpt lat="46.544881" lon="7.478573">
+        <ele>1614.6</ele>
+      </trkpt>
+      <trkpt lat="46.544815" lon="7.478562">
+        <ele>1616.1</ele>
+      </trkpt>
+      <trkpt lat="46.544773" lon="7.478537">
+        <ele>1616.6</ele>
+      </trkpt>
+      <trkpt lat="46.544744" lon="7.478473">
+        <ele>1617.2</ele>
+      </trkpt>
+      <trkpt lat="46.54472" lon="7.478352">
+        <ele>1617.8</ele>
+      </trkpt>
+      <trkpt lat="46.544708" lon="7.478277">
+        <ele>1619.6</ele>
+      </trkpt>
+      <trkpt lat="46.544693" lon="7.478156">
+        <ele>1620.6</ele>
+      </trkpt>
+      <trkpt lat="46.544684" lon="7.47804">
+        <ele>1622.5</ele>
+      </trkpt>
+      <trkpt lat="46.544689" lon="7.477974">
+        <ele>1623.0</ele>
+      </trkpt>
+      <trkpt lat="46.544741" lon="7.477897">
+        <ele>1623.7</ele>
+      </trkpt>
+      <trkpt lat="46.544771" lon="7.477861">
+        <ele>1624.7</ele>
+      </trkpt>
+      <trkpt lat="46.544808" lon="7.477816">
+        <ele>1626.0</ele>
+      </trkpt>
+      <trkpt lat="46.544829" lon="7.477797">
+        <ele>1626.8</ele>
+      </trkpt>
+      <trkpt lat="46.544845" lon="7.477765">
+        <ele>1627.4</ele>
+      </trkpt>
+      <trkpt lat="46.544847" lon="7.477734">
+        <ele>1627.9</ele>
+      </trkpt>
+      <trkpt lat="46.544842" lon="7.477703">
+        <ele>1628.3</ele>
+      </trkpt>
+      <trkpt lat="46.544827" lon="7.477672">
+        <ele>1629.2</ele>
+      </trkpt>
+      <trkpt lat="46.54482" lon="7.477664">
+        <ele>1629.6</ele>
+      </trkpt>
+      <trkpt lat="46.54479" lon="7.477641">
+        <ele>1630.5</ele>
+      </trkpt>
+      <trkpt lat="46.544754" lon="7.477604">
+        <ele>1631.5</ele>
+      </trkpt>
+      <trkpt lat="46.544722" lon="7.477546">
+        <ele>1632.3</ele>
+      </trkpt>
+      <trkpt lat="46.544684" lon="7.477488">
+        <ele>1633.7</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.544619" lon="7.477469">
+        <ele>1634.5</ele>
+      </trkpt>
+      <trkpt lat="46.544587" lon="7.477466">
+        <ele>1634.9</ele>
+      </trkpt>
+      <trkpt lat="46.544545" lon="7.477449">
+        <ele>1635.5</ele>
+      </trkpt>
+      <trkpt lat="46.544522" lon="7.477408">
+        <ele>1636.2</ele>
+      </trkpt>
+      <trkpt lat="46.544518" lon="7.477364">
+        <ele>1636.9</ele>
+      </trkpt>
+      <trkpt lat="46.544533" lon="7.477325">
+        <ele>1637.7</ele>
+      </trkpt>
+      <trkpt lat="46.544571" lon="7.477287">
+        <ele>1638.3</ele>
+      </trkpt>
+      <trkpt lat="46.544596" lon="7.477276">
+        <ele>1638.4</ele>
+      </trkpt>
+      <trkpt lat="46.544631" lon="7.47727">
+        <ele>1638.7</ele>
+      </trkpt>
+      <trkpt lat="46.54469" lon="7.477281">
+        <ele>1639.0</ele>
+      </trkpt>
+      <trkpt lat="46.54476" lon="7.477303">
+        <ele>1639.2</ele>
+      </trkpt>
+      <trkpt lat="46.544804" lon="7.477306">
+        <ele>1640.4</ele>
+      </trkpt>
+      <trkpt lat="46.544859" lon="7.477295">
+        <ele>1641.2</ele>
+      </trkpt>
+      <trkpt lat="46.54487" lon="7.47729">
+        <ele>1641.3</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.54491" lon="7.477273">
+        <ele>1641.6</ele>
+      </trkpt>
+      <trkpt lat="46.544956" lon="7.477254">
+        <ele>1641.7</ele>
+      </trkpt>
+      <trkpt lat="46.545025" lon="7.477237">
+        <ele>1642.0</ele>
+      </trkpt>
+      <trkpt lat="46.545084" lon="7.477221">
+        <ele>1642.8</ele>
+      </trkpt>
+      <trkpt lat="46.545171" lon="7.477185">
+        <ele>1644.9</ele>
+      </trkpt>
+      <trkpt lat="46.545267" lon="7.477146">
+        <ele>1646.0</ele>
+      </trkpt>
+      <trkpt lat="46.545335" lon="7.477105">
+        <ele>1647.7</ele>
+      </trkpt>
+      <trkpt lat="46.545409" lon="7.477042">
+        <ele>1649.4</ele>
+      </trkpt>
+      <trkpt lat="46.545486" lon="7.476967">
+        <ele>1651.9</ele>
+      </trkpt>
+      <trkpt lat="46.545539" lon="7.476926">
+        <ele>1653.1</ele>
+      </trkpt>
+      <trkpt lat="46.545602" lon="7.47689">
+        <ele>1654.3</ele>
+      </trkpt>
+      <trkpt lat="46.545686" lon="7.476857">
+        <ele>1655.8</ele>
+      </trkpt>
+      <trkpt lat="46.545764" lon="7.476827">
+        <ele>1656.9</ele>
+      </trkpt>
+      <trkpt lat="46.545849" lon="7.476788">
+        <ele>1658.7</ele>
+      </trkpt>
+      <trkpt lat="46.545917" lon="7.476745">
+        <ele>1660.5</ele>
+      </trkpt>
+      <trkpt lat="46.545927" lon="7.476738">
+        <ele>1660.8</ele>
+      </trkpt>
+      <trkpt lat="46.545986" lon="7.476692">
+        <ele>1661.8</ele>
+      </trkpt>
+      <trkpt lat="46.546034" lon="7.47662">
+        <ele>1664.2</ele>
+      </trkpt>
+      <trkpt lat="46.546051" lon="7.476551">
+        <ele>1665.8</ele>
+      </trkpt>
+      <trkpt lat="46.546049" lon="7.476476">
+        <ele>1667.0</ele>
+      </trkpt>
+      <trkpt lat="46.546025" lon="7.476438">
+        <ele>1668.0</ele>
+      </trkpt>
+      <trkpt lat="46.545971" lon="7.476424">
+        <ele>1670.0</ele>
+      </trkpt>
+      <trkpt lat="46.54588" lon="7.476427">
+        <ele>1672.7</ele>
+      </trkpt>
+      <trkpt lat="46.545794" lon="7.476418">
+        <ele>1675.5</ele>
+      </trkpt>
+      <trkpt lat="46.54572" lon="7.476407">
+        <ele>1677.7</ele>
+      </trkpt>
+      <trkpt lat="46.545623" lon="7.476399">
+        <ele>1681.1</ele>
+      </trkpt>
+      <trkpt lat="46.545537" lon="7.476371">
+        <ele>1683.2</ele>
+      </trkpt>
+      <trkpt lat="46.545461" lon="7.476357">
+        <ele>1684.7</ele>
+      </trkpt>
+      <trkpt lat="46.545422" lon="7.476359">
+        <ele>1685.4</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.545391" lon="7.47636">
+        <ele>1686.0</ele>
+      </trkpt>
+      <trkpt lat="46.545314" lon="7.476368">
+        <ele>1687.4</ele>
+      </trkpt>
+      <trkpt lat="46.545242" lon="7.476343">
+        <ele>1689.7</ele>
+      </trkpt>
+      <trkpt lat="46.54516" lon="7.476277">
+        <ele>1692.9</ele>
+      </trkpt>
+      <trkpt lat="46.54509" lon="7.476208">
+        <ele>1695.3</ele>
+      </trkpt>
+      <trkpt lat="46.545" lon="7.476144">
+        <ele>1697.9</ele>
+      </trkpt>
+      <trkpt lat="46.54492" lon="7.476097">
+        <ele>1699.1</ele>
+      </trkpt>
+      <trkpt lat="46.544861" lon="7.476048">
+        <ele>1700.5</ele>
+      </trkpt>
+      <trkpt lat="46.544837" lon="7.476006">
+        <ele>1701.2</ele>
+      </trkpt>
+      <trkpt lat="46.544808" lon="7.475932">
+        <ele>1702.0</ele>
+      </trkpt>
+      <trkpt lat="46.544774" lon="7.475868">
+        <ele>1702.3</ele>
+      </trkpt>
+      <trkpt lat="46.544721" lon="7.475772">
+        <ele>1702.5</ele>
+      </trkpt>
+      <trkpt lat="46.544692" lon="7.475694">
+        <ele>1702.4</ele>
+      </trkpt>
+      <trkpt lat="46.544682" lon="7.475623">
+        <ele>1703.0</ele>
+      </trkpt>
+      <trkpt lat="46.544686" lon="7.475556">
+        <ele>1703.4</ele>
+      </trkpt>
+      <trkpt lat="46.544717" lon="7.475396">
+        <ele>1706.3</ele>
+      </trkpt>
+      <trkpt lat="46.544745" lon="7.4753">
+        <ele>1708.9</ele>
+      </trkpt>
+      <trkpt lat="46.544782" lon="7.475256">
+        <ele>1709.8</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.544835" lon="7.475217">
+        <ele>1710.6</ele>
+      </trkpt>
+      <trkpt lat="46.544864" lon="7.475178">
+        <ele>1711.2</ele>
+      </trkpt>
+      <trkpt lat="46.544881" lon="7.475118">
+        <ele>1712.2</ele>
+      </trkpt>
+      <trkpt lat="46.544871" lon="7.475041">
+        <ele>1713.3</ele>
+      </trkpt>
+      <trkpt lat="46.544845" lon="7.474947">
+        <ele>1713.8</ele>
+      </trkpt>
+      <trkpt lat="46.544801" lon="7.47485">
+        <ele>1714.6</ele>
+      </trkpt>
+      <trkpt lat="46.544747" lon="7.474767">
+        <ele>1716.1</ele>
+      </trkpt>
+      <trkpt lat="46.544696" lon="7.474632">
+        <ele>1716.5</ele>
+      </trkpt>
+      <trkpt lat="46.54466" lon="7.474513">
+        <ele>1717.3</ele>
+      </trkpt>
+      <trkpt lat="46.544658" lon="7.474442">
+        <ele>1717.8</ele>
+      </trkpt>
+      <trkpt lat="46.544666" lon="7.474386">
+        <ele>1718.0</ele>
+      </trkpt>
+      <trkpt lat="46.544692" lon="7.474342">
+        <ele>1718.0</ele>
+      </trkpt>
+      <trkpt lat="46.54474" lon="7.474279">
+        <ele>1718.4</ele>
+      </trkpt>
+      <trkpt lat="46.544765" lon="7.474221">
+        <ele>1718.8</ele>
+      </trkpt>
+      <trkpt lat="46.544774" lon="7.474141">
+        <ele>1719.3</ele>
+      </trkpt>
+      <trkpt lat="46.544772" lon="7.474022">
+        <ele>1720.1</ele>
+      </trkpt>
+      <trkpt lat="46.544782" lon="7.473961">
+        <ele>1721.0</ele>
+      </trkpt>
+      <trkpt lat="46.544793" lon="7.473898">
+        <ele>1721.8</ele>
+      </trkpt>
+      <trkpt lat="46.544782" lon="7.473848">
+        <ele>1723.0</ele>
+      </trkpt>
+      <trkpt lat="46.544757" lon="7.473818">
+        <ele>1723.8</ele>
+      </trkpt>
+      <trkpt lat="46.544698" lon="7.473796">
+        <ele>1724.9</ele>
+      </trkpt>
+      <trkpt lat="46.544626" lon="7.473768">
+        <ele>1726.2</ele>
+      </trkpt>
+      <trkpt lat="46.544531" lon="7.473721">
+        <ele>1728.4</ele>
+      </trkpt>
+      <trkpt lat="46.544415" lon="7.473677">
+        <ele>1731.0</ele>
+      </trkpt>
+      <trkpt lat="46.544323" lon="7.473649">
+        <ele>1733.4</ele>
+      </trkpt>
+      <trkpt lat="46.544219" lon="7.473652">
+        <ele>1735.3</ele>
+      </trkpt>
+      <trkpt lat="46.544172" lon="7.473663">
+        <ele>1736.2</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.54415" lon="7.473669">
+        <ele>1736.6</ele>
+      </trkpt>
+      <trkpt lat="46.544093" lon="7.473674">
+        <ele>1737.5</ele>
+      </trkpt>
+      <trkpt lat="46.544049" lon="7.473688">
+        <ele>1737.7</ele>
+      </trkpt>
+      <trkpt lat="46.544022" lon="7.473729">
+        <ele>1738.0</ele>
+      </trkpt>
+      <trkpt lat="46.54398" lon="7.473864">
+        <ele>1739.3</ele>
+      </trkpt>
+      <trkpt lat="46.543965" lon="7.473947">
+        <ele>1739.6</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.543969" lon="7.474008">
+        <ele>1739.9</ele>
+      </trkpt>
+      <trkpt lat="46.54399" lon="7.474074">
+        <ele>1740.2</ele>
+      </trkpt>
+      <trkpt lat="46.544032" lon="7.474146">
+        <ele>1740.1</ele>
+      </trkpt>
+      <trkpt lat="46.54406" lon="7.474198">
+        <ele>1739.7</ele>
+      </trkpt>
+      <trkpt lat="46.544064" lon="7.474234">
+        <ele>1739.6</ele>
+      </trkpt>
+      <trkpt lat="46.544056" lon="7.474284">
+        <ele>1739.3</ele>
+      </trkpt>
+      <trkpt lat="46.544041" lon="7.474317">
+        <ele>1739.1</ele>
+      </trkpt>
+      <trkpt lat="46.544011" lon="7.474345">
+        <ele>1738.7</ele>
+      </trkpt>
+      <trkpt lat="46.543965" lon="7.474375">
+        <ele>1738.4</ele>
+      </trkpt>
+      <trkpt lat="46.543921" lon="7.474383">
+        <ele>1738.3</ele>
+      </trkpt>
+      <trkpt lat="46.543868" lon="7.474369">
+        <ele>1739.0</ele>
+      </trkpt>
+      <trkpt lat="46.543822" lon="7.474336">
+        <ele>1739.8</ele>
+      </trkpt>
+      <trkpt lat="46.543796" lon="7.474281">
+        <ele>1739.9</ele>
+      </trkpt>
+      <trkpt lat="46.543763" lon="7.474245">
+        <ele>1739.8</ele>
+      </trkpt>
+      <trkpt lat="46.543687" lon="7.474212">
+        <ele>1739.3</ele>
+      </trkpt>
+      <trkpt lat="46.543665" lon="7.474205">
+        <ele>1739.3</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.543582" lon="7.474179">
+        <ele>1739.4</ele>
+      </trkpt>
+      <trkpt lat="46.543502" lon="7.47414">
+        <ele>1739.4</ele>
+      </trkpt>
+      <trkpt lat="46.543422" lon="7.474076">
+        <ele>1740.1</ele>
+      </trkpt>
+      <trkpt lat="46.543341" lon="7.474005">
+        <ele>1741.2</ele>
+      </trkpt>
+      <trkpt lat="46.543331" lon="7.473998">
+        <ele>1741.2</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.543249" lon="7.473936">
+        <ele>1741.5</ele>
+      </trkpt>
+      <trkpt lat="46.543179" lon="7.473897">
+        <ele>1741.2</ele>
+      </trkpt>
+      <trkpt lat="46.543129" lon="7.473878">
+        <ele>1741.3</ele>
+      </trkpt>
+      <trkpt lat="46.543089" lon="7.473844">
+        <ele>1741.9</ele>
+      </trkpt>
+      <trkpt lat="46.54307" lon="7.473814">
+        <ele>1742.7</ele>
+      </trkpt>
+      <trkpt lat="46.543061" lon="7.473767">
+        <ele>1743.7</ele>
+      </trkpt>
+      <trkpt lat="46.543049" lon="7.473671">
+        <ele>1745.2</ele>
+      </trkpt>
+      <trkpt lat="46.54303" lon="7.47356">
+        <ele>1746.6</ele>
+      </trkpt>
+      <trkpt lat="46.543006" lon="7.47348">
+        <ele>1748.1</ele>
+      </trkpt>
+      <trkpt lat="46.542989" lon="7.473449">
+        <ele>1748.8</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.542973" lon="7.473419">
+        <ele>1749.5</ele>
+      </trkpt>
+      <trkpt lat="46.54293" lon="7.47335">
+        <ele>1750.8</ele>
+      </trkpt>
+      <trkpt lat="46.542893" lon="7.473273">
+        <ele>1751.9</ele>
+      </trkpt>
+      <trkpt lat="46.542846" lon="7.473204">
+        <ele>1753.6</ele>
+      </trkpt>
+      <trkpt lat="46.542785" lon="7.473135">
+        <ele>1755.1</ele>
+      </trkpt>
+      <trkpt lat="46.542722" lon="7.473096">
+        <ele>1756.3</ele>
+      </trkpt>
+      <trkpt lat="46.542674" lon="7.473055">
+        <ele>1757.5</ele>
+      </trkpt>
+      <trkpt lat="46.54264" lon="7.473044">
+        <ele>1758.6</ele>
+      </trkpt>
+      <trkpt lat="46.54261" lon="7.473063">
+        <ele>1759.4</ele>
+      </trkpt>
+      <trkpt lat="46.542607" lon="7.473067">
+        <ele>1759.5</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.542591" lon="7.473091">
+        <ele>1760.3</ele>
+      </trkpt>
+      <trkpt lat="46.542593" lon="7.473179">
+        <ele>1762.2</ele>
+      </trkpt>
+      <trkpt lat="46.542602" lon="7.473256">
+        <ele>1763.8</ele>
+      </trkpt>
+      <trkpt lat="46.542602" lon="7.473336">
+        <ele>1764.9</ele>
+      </trkpt>
+      <trkpt lat="46.542579" lon="7.473405">
+        <ele>1765.7</ele>
+      </trkpt>
+      <trkpt lat="46.542533" lon="7.473447">
+        <ele>1767.2</ele>
+      </trkpt>
+      <trkpt lat="46.54248" lon="7.473449">
+        <ele>1767.6</ele>
+      </trkpt>
+      <trkpt lat="46.542417" lon="7.473425">
+        <ele>1768.2</ele>
+      </trkpt>
+      <trkpt lat="46.54237" lon="7.473367">
+        <ele>1768.9</ele>
+      </trkpt>
+      <trkpt lat="46.542315" lon="7.473256">
+        <ele>1769.8</ele>
+      </trkpt>
+      <trkpt lat="46.542269" lon="7.473168">
+        <ele>1770.6</ele>
+      </trkpt>
+      <trkpt lat="46.542214" lon="7.473093">
+        <ele>1771.6</ele>
+      </trkpt>
+      <trkpt lat="46.542157" lon="7.473044">
+        <ele>1772.5</ele>
+      </trkpt>
+      <trkpt lat="46.542088" lon="7.473024">
+        <ele>1773.4</ele>
+      </trkpt>
+      <trkpt lat="46.542006" lon="7.47301">
+        <ele>1774.5</ele>
+      </trkpt>
+      <trkpt lat="46.541936" lon="7.472983">
+        <ele>1775.6</ele>
+      </trkpt>
+      <trkpt lat="46.5419" lon="7.472952">
+        <ele>1776.6</ele>
+      </trkpt>
+      <trkpt lat="46.541852" lon="7.472878">
+        <ele>1777.7</ele>
+      </trkpt>
+      <trkpt lat="46.541806" lon="7.472822">
+        <ele>1778.9</ele>
+        <name>Der Rote Brunnen, Grimmiwasser, Matten (St. Stephan)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.541916" lon="7.472669">
+        <ele>1778.74784</ele>
+      </trkpt>
+      <trkpt lat="46.542016" lon="7.47239">
+        <ele>1785.31512</ele>
+      </trkpt>
+      <trkpt lat="46.541998" lon="7.472229">
+        <ele>1787.65234</ele>
+      </trkpt>
+      <trkpt lat="46.54195" lon="7.472154">
+        <ele>1788.04924</ele>
+      </trkpt>
+      <trkpt lat="46.541927" lon="7.472106">
+        <ele>1789.3846</ele>
+      </trkpt>
+      <trkpt lat="46.54195" lon="7.472031">
+        <ele>1791.19077</ele>
+      </trkpt>
+      <trkpt lat="46.541879" lon="7.471838">
+        <ele>1795.274</ele>
+      </trkpt>
+      <trkpt lat="46.541769" lon="7.471806">
+        <ele>1796.48675</ele>
+      </trkpt>
+      <trkpt lat="46.541643" lon="7.471725">
+        <ele>1800.26703</ele>
+      </trkpt>
+      <trkpt lat="46.541588" lon="7.471704">
+        <ele>1800.58395</ele>
+      </trkpt>
+      <trkpt lat="46.541518" lon="7.47172">
+        <ele>1798.40233</ele>
+      </trkpt>
+      <trkpt lat="46.541437" lon="7.471634">
+        <ele>1801.74869</ele>
+      </trkpt>
+      <trkpt lat="46.541344" lon="7.471527">
+        <ele>1804.31473</ele>
+      </trkpt>
+      <trkpt lat="46.541237" lon="7.471392">
+        <ele>1806.45319</ele>
+      </trkpt>
+      <trkpt lat="46.541116" lon="7.471226">
+        <ele>1809.51942</ele>
+      </trkpt>
+      <trkpt lat="46.540994" lon="7.471054">
+        <ele>1813.14615</ele>
+      </trkpt>
+      <trkpt lat="46.540953" lon="7.470824">
+        <ele>1813.59851</ele>
+      </trkpt>
+      <trkpt lat="46.541042" lon="7.471199">
+        <ele>1811.19158</ele>
+      </trkpt>
+      <trkpt lat="46.541123" lon="7.471505">
+        <ele>1808.54683</ele>
+      </trkpt>
+      <trkpt lat="46.541149" lon="7.471671">
+        <ele>1807.17442</ele>
+      </trkpt>
+      <trkpt lat="46.541178" lon="7.471934">
+        <ele>1805.5132</ele>
+      </trkpt>
+      <trkpt lat="46.541171" lon="7.472063">
+        <ele>1807.32283</ele>
+      </trkpt>
+      <trkpt lat="46.541234" lon="7.472219">
+        <ele>1809.42421</ele>
+      </trkpt>
+      <trkpt lat="46.541319" lon="7.472331">
+        <ele>1809.0679</ele>
+      </trkpt>
+      <trkpt lat="46.541156" lon="7.472498">
+        <ele>1804.14644</ele>
+      </trkpt>
+      <trkpt lat="46.54099" lon="7.472675">
+        <ele>1799.74433</ele>
+      </trkpt>
+      <trkpt lat="46.540929" lon="7.472865">
+        <ele>1799.9</ele>
+        <name>Der Rote Brunnen, Grimmiwasser, Matten (St. Stephan)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.540908" lon="7.472875">
+        <ele>1800.2</ele>
+      </trkpt>
+      <trkpt lat="46.540852" lon="7.472888">
+        <ele>1800.8</ele>
+      </trkpt>
+      <trkpt lat="46.540769" lon="7.472916">
+        <ele>1802.7</ele>
+      </trkpt>
+      <trkpt lat="46.540679" lon="7.47293">
+        <ele>1805.1</ele>
+      </trkpt>
+      <trkpt lat="46.540601" lon="7.472921">
+        <ele>1807.2</ele>
+      </trkpt>
+      <trkpt lat="46.540545" lon="7.472925">
+        <ele>1808.6</ele>
+        <name>Der Rote Brunnen, Grimmiwasser, Matten (St. Stephan)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.540514" lon="7.472926">
+        <ele>1809.4</ele>
+      </trkpt>
+      <trkpt lat="46.54046" lon="7.472928">
+        <ele>1811.1</ele>
+      </trkpt>
+      <trkpt lat="46.540386" lon="7.47295">
+        <ele>1813.3</ele>
+      </trkpt>
+      <trkpt lat="46.540358" lon="7.472958">
+        <ele>1814.2</ele>
+      </trkpt>
+      <trkpt lat="46.540321" lon="7.472944">
+        <ele>1816.1</ele>
+      </trkpt>
+      <trkpt lat="46.54031" lon="7.472911">
+        <ele>1816.5</ele>
+      </trkpt>
+      <trkpt lat="46.540285" lon="7.472903">
+        <ele>1818.1</ele>
+      </trkpt>
+      <trkpt lat="46.540259" lon="7.4729">
+        <ele>1819.1</ele>
+      </trkpt>
+      <trkpt lat="46.540262" lon="7.472873">
+        <ele>1820.2</ele>
+      </trkpt>
+      <trkpt lat="46.540261" lon="7.472851">
+        <ele>1820.7</ele>
+      </trkpt>
+      <trkpt lat="46.540247" lon="7.472841">
+        <ele>1820.9</ele>
+      </trkpt>
+      <trkpt lat="46.54023" lon="7.472835">
+        <ele>1821.2</ele>
+      </trkpt>
+      <trkpt lat="46.540203" lon="7.472826">
+        <ele>1822.2</ele>
+      </trkpt>
+      <trkpt lat="46.540159" lon="7.472808">
+        <ele>1823.1</ele>
+      </trkpt>
+      <trkpt lat="46.540119" lon="7.472811">
+        <ele>1823.9</ele>
+      </trkpt>
+      <trkpt lat="46.540051" lon="7.472849">
+        <ele>1825.8</ele>
+        <name>Der Rote Brunnen, Grimmiwasser, Matten (St. Stephan)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.540041" lon="7.472855">
+        <ele>1826.1</ele>
+      </trkpt>
+      <trkpt lat="46.539997" lon="7.472863">
+        <ele>1827.1</ele>
+      </trkpt>
+      <trkpt lat="46.539931" lon="7.472838">
+        <ele>1828.7</ele>
+      </trkpt>
+      <trkpt lat="46.539879" lon="7.472849">
+        <ele>1829.7</ele>
+      </trkpt>
+      <trkpt lat="46.539786" lon="7.472913">
+        <ele>1831.4</ele>
+      </trkpt>
+      <trkpt lat="46.539702" lon="7.472995">
+        <ele>1833.3</ele>
+      </trkpt>
+      <trkpt lat="46.539643" lon="7.473075">
+        <ele>1834.6</ele>
+      </trkpt>
+      <trkpt lat="46.539586" lon="7.473152">
+        <ele>1837.1</ele>
+      </trkpt>
+      <trkpt lat="46.539565" lon="7.473221">
+        <ele>1838.3</ele>
+      </trkpt>
+      <trkpt lat="46.539552" lon="7.473312">
+        <ele>1839.4</ele>
+      </trkpt>
+      <trkpt lat="46.539537" lon="7.473376">
+        <ele>1840.6</ele>
+        <name>Der Rote Brunnen, Grimmiwasser, Matten (St. Stephan)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.539533" lon="7.473395">
+        <ele>1841.0</ele>
+      </trkpt>
+      <trkpt lat="46.539516" lon="7.473464">
+        <ele>1841.8</ele>
+      </trkpt>
+      <trkpt lat="46.539496" lon="7.473541">
+        <ele>1842.9</ele>
+      </trkpt>
+      <trkpt lat="46.539496" lon="7.473652">
+        <ele>1843.3</ele>
+      </trkpt>
+      <trkpt lat="46.539544" lon="7.473735">
+        <ele>1841.6</ele>
+      </trkpt>
+      <trkpt lat="46.539555" lon="7.473784">
+        <ele>1840.6</ele>
+      </trkpt>
+      <trkpt lat="46.539582" lon="7.473842">
+        <ele>1838.7</ele>
+      </trkpt>
+      <trkpt lat="46.539586" lon="7.473936">
+        <ele>1837.6</ele>
+      </trkpt>
+      <trkpt lat="46.539618" lon="7.473983">
+        <ele>1838.0</ele>
+      </trkpt>
+      <trkpt lat="46.539658" lon="7.47403">
+        <ele>1838.1</ele>
+      </trkpt>
+      <trkpt lat="46.539698" lon="7.474096">
+        <ele>1838.2</ele>
+      </trkpt>
+      <trkpt lat="46.539778" lon="7.474127">
+        <ele>1838.5</ele>
+      </trkpt>
+      <trkpt lat="46.539829" lon="7.474149">
+        <ele>1838.8</ele>
+      </trkpt>
+      <trkpt lat="46.539889" lon="7.474187">
+        <ele>1839.0</ele>
+      </trkpt>
+      <trkpt lat="46.53998" lon="7.474245">
+        <ele>1839.4</ele>
+      </trkpt>
+      <trkpt lat="46.540054" lon="7.474287">
+        <ele>1839.7</ele>
+      </trkpt>
+      <trkpt lat="46.54013" lon="7.474306">
+        <ele>1839.7</ele>
+      </trkpt>
+      <trkpt lat="46.540166" lon="7.474328">
+        <ele>1839.1</ele>
+        <name>Der Rote Brunnen, Grimmiwasser, Matten (St. Stephan)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.540195" lon="7.474345">
+        <ele>1838.6</ele>
+      </trkpt>
+      <trkpt lat="46.540241" lon="7.474378">
+        <ele>1838.5</ele>
+      </trkpt>
+      <trkpt lat="46.540267" lon="7.474436">
+        <ele>1838.0</ele>
+      </trkpt>
+      <trkpt lat="46.540269" lon="7.474499">
+        <ele>1837.5</ele>
+      </trkpt>
+      <trkpt lat="46.540256" lon="7.474541">
+        <ele>1837.9</ele>
+      </trkpt>
+      <trkpt lat="46.54022" lon="7.474588">
+        <ele>1837.5</ele>
+      </trkpt>
+      <trkpt lat="46.540163" lon="7.474662">
+        <ele>1837.3</ele>
+      </trkpt>
+      <trkpt lat="46.54014" lon="7.474734">
+        <ele>1837.1</ele>
+      </trkpt>
+      <trkpt lat="46.540138" lon="7.474781">
+        <ele>1837.2</ele>
+      </trkpt>
+      <trkpt lat="46.540162" lon="7.474842">
+        <ele>1837.2</ele>
+      </trkpt>
+      <trkpt lat="46.540212" lon="7.474888">
+        <ele>1837.3</ele>
+      </trkpt>
+      <trkpt lat="46.540296" lon="7.474962">
+        <ele>1837.8</ele>
+        <name>Der Rote Brunnen, Grimmiwasser, Matten (St. Stephan)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.540309" lon="7.474974">
+        <ele>1837.8</ele>
+      </trkpt>
+      <trkpt lat="46.54037" lon="7.47501">
+        <ele>1838.9</ele>
+      </trkpt>
+      <trkpt lat="46.540418" lon="7.47501">
+        <ele>1839.5</ele>
+      </trkpt>
+      <trkpt lat="46.540465" lon="7.474993">
+        <ele>1839.8</ele>
+      </trkpt>
+      <trkpt lat="46.540501" lon="7.474963">
+        <ele>1839.2</ele>
+      </trkpt>
+      <trkpt lat="46.540518" lon="7.474943">
+        <ele>1838.8</ele>
+      </trkpt>
+      <trkpt lat="46.540528" lon="7.475009">
+        <ele>1838.6</ele>
+      </trkpt>
+      <trkpt lat="46.540517" lon="7.47506">
+        <ele>1838.1</ele>
+      </trkpt>
+      <trkpt lat="46.540478" lon="7.475146">
+        <ele>1836.5</ele>
+      </trkpt>
+      <trkpt lat="46.540462" lon="7.475264">
+        <ele>1836.2</ele>
+      </trkpt>
+      <trkpt lat="46.540446" lon="7.475422">
+        <ele>1836.7</ele>
+      </trkpt>
+      <trkpt lat="46.540444" lon="7.475545">
+        <ele>1835.0</ele>
+        <name>Der Rote Brunnen, Grimmiwasser, Matten (St. Stephan)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.540443" lon="7.475573">
+        <ele>1834.6</ele>
+      </trkpt>
+      <trkpt lat="46.54043" lon="7.475751">
+        <ele>1833.3</ele>
+      </trkpt>
+      <trkpt lat="46.540423" lon="7.475992">
+        <ele>1832.8</ele>
+      </trkpt>
+      <trkpt lat="46.540426" lon="7.476168">
+        <ele>1832.4</ele>
+      </trkpt>
+      <trkpt lat="46.540415" lon="7.476235">
+        <ele>1834.0</ele>
+      </trkpt>
+      <trkpt lat="46.540421" lon="7.476315">
+        <ele>1834.5</ele>
+      </trkpt>
+      <trkpt lat="46.540421" lon="7.476398">
+        <ele>1833.7</ele>
+      </trkpt>
+      <trkpt lat="46.540438" lon="7.476484">
+        <ele>1833.1</ele>
+      </trkpt>
+      <trkpt lat="46.540449" lon="7.476558">
+        <ele>1833.2</ele>
+      </trkpt>
+      <trkpt lat="46.540423" lon="7.476602">
+        <ele>1832.5</ele>
+      </trkpt>
+      <trkpt lat="46.540414" lon="7.476624">
+        <ele>1832.2</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.540389" lon="7.476688">
+        <ele>1831.1</ele>
+      </trkpt>
+      <trkpt lat="46.540388" lon="7.476793">
+        <ele>1830.7</ele>
+      </trkpt>
+      <trkpt lat="46.54039" lon="7.476845">
+        <ele>1831.0</ele>
+      </trkpt>
+      <trkpt lat="46.540364" lon="7.476873">
+        <ele>1831.6</ele>
+      </trkpt>
+      <trkpt lat="46.540345" lon="7.476906">
+        <ele>1831.7</ele>
+      </trkpt>
+      <trkpt lat="46.540346" lon="7.476988">
+        <ele>1830.2</ele>
+      </trkpt>
+      <trkpt lat="46.540362" lon="7.477104">
+        <ele>1828.5</ele>
+      </trkpt>
+      <trkpt lat="46.540358" lon="7.477184">
+        <ele>1827.8</ele>
+      </trkpt>
+      <trkpt lat="46.54035" lon="7.477325">
+        <ele>1825.0</ele>
+      </trkpt>
+      <trkpt lat="46.54036" lon="7.477455">
+        <ele>1822.3</ele>
+      </trkpt>
+      <trkpt lat="46.540365" lon="7.477478">
+        <ele>1821.8</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.540382" lon="7.47756">
+        <ele>1819.9</ele>
+      </trkpt>
+      <trkpt lat="46.540415" lon="7.47764">
+        <ele>1818.4</ele>
+      </trkpt>
+      <trkpt lat="46.540476" lon="7.477728">
+        <ele>1817.5</ele>
+      </trkpt>
+      <trkpt lat="46.540539" lon="7.477816">
+        <ele>1816.7</ele>
+      </trkpt>
+      <trkpt lat="46.540565" lon="7.477877">
+        <ele>1816.5</ele>
+      </trkpt>
+      <trkpt lat="46.54059" lon="7.477943">
+        <ele>1816.5</ele>
+      </trkpt>
+      <trkpt lat="46.540596" lon="7.478012">
+        <ele>1816.4</ele>
+      </trkpt>
+      <trkpt lat="46.540588" lon="7.478103">
+        <ele>1816.4</ele>
+      </trkpt>
+      <trkpt lat="46.54058" lon="7.478194">
+        <ele>1816.4</ele>
+      </trkpt>
+      <trkpt lat="46.540588" lon="7.478274">
+        <ele>1815.6</ele>
+      </trkpt>
+      <trkpt lat="46.540608" lon="7.478329">
+        <ele>1814.8</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.540616" lon="7.478352">
+        <ele>1814.5</ele>
+      </trkpt>
+      <trkpt lat="46.540622" lon="7.478435">
+        <ele>1813.6</ele>
+      </trkpt>
+      <trkpt lat="46.540614" lon="7.478559">
+        <ele>1812.4</ele>
+      </trkpt>
+      <trkpt lat="46.540628" lon="7.478664">
+        <ele>1811.5</ele>
+      </trkpt>
+      <trkpt lat="46.540633" lon="7.478763">
+        <ele>1811.0</ele>
+      </trkpt>
+      <trkpt lat="46.540635" lon="7.478824">
+        <ele>1810.5</ele>
+      </trkpt>
+      <trkpt lat="46.540622" lon="7.478873">
+        <ele>1809.6</ele>
+      </trkpt>
+      <trkpt lat="46.540584" lon="7.478975">
+        <ele>1807.7</ele>
+      </trkpt>
+      <trkpt lat="46.540551" lon="7.479083">
+        <ele>1805.9</ele>
+      </trkpt>
+      <trkpt lat="46.540523" lon="7.479171">
+        <ele>1804.7</ele>
+      </trkpt>
+      <trkpt lat="46.540506" lon="7.479224">
+        <ele>1803.9</ele>
+      </trkpt>
+      <trkpt lat="46.540506" lon="7.479265">
+        <ele>1803.6</ele>
+      </trkpt>
+      <trkpt lat="46.540512" lon="7.479278">
+        <ele>1803.4</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.540536" lon="7.479323">
+        <ele>1802.7</ele>
+      </trkpt>
+      <trkpt lat="46.540574" lon="7.479389">
+        <ele>1801.7</ele>
+      </trkpt>
+      <trkpt lat="46.540605" lon="7.479505">
+        <ele>1800.4</ele>
+      </trkpt>
+      <trkpt lat="46.540639" lon="7.479621">
+        <ele>1799.3</ele>
+      </trkpt>
+      <trkpt lat="46.540683" lon="7.479734">
+        <ele>1798.5</ele>
+      </trkpt>
+      <trkpt lat="46.540736" lon="7.479817">
+        <ele>1797.3</ele>
+      </trkpt>
+      <trkpt lat="46.540808" lon="7.479911">
+        <ele>1796.0</ele>
+      </trkpt>
+      <trkpt lat="46.540879" lon="7.480024">
+        <ele>1794.7</ele>
+      </trkpt>
+      <trkpt lat="46.540941" lon="7.480126">
+        <ele>1793.4</ele>
+      </trkpt>
+      <trkpt lat="46.540968" lon="7.48022">
+        <ele>1792.9</ele>
+      </trkpt>
+      <trkpt lat="46.540983" lon="7.480358">
+        <ele>1792.8</ele>
+      </trkpt>
+      <trkpt lat="46.540999" lon="7.480414">
+        <ele>1792.7</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.541006" lon="7.480441">
+        <ele>1792.6</ele>
+      </trkpt>
+      <trkpt lat="46.541031" lon="7.480493">
+        <ele>1792.4</ele>
+      </trkpt>
+      <trkpt lat="46.541075" lon="7.480554">
+        <ele>1792.4</ele>
+      </trkpt>
+      <trkpt lat="46.541109" lon="7.480623">
+        <ele>1791.9</ele>
+      </trkpt>
+      <trkpt lat="46.541151" lon="7.480651">
+        <ele>1793.0</ele>
+      </trkpt>
+      <trkpt lat="46.541198" lon="7.480659">
+        <ele>1793.1</ele>
+      </trkpt>
+      <trkpt lat="46.541248" lon="7.480684">
+        <ele>1792.9</ele>
+      </trkpt>
+      <trkpt lat="46.541293" lon="7.480723">
+        <ele>1793.5</ele>
+      </trkpt>
+      <trkpt lat="46.541337" lon="7.480753">
+        <ele>1794.4</ele>
+      </trkpt>
+      <trkpt lat="46.541371" lon="7.480811">
+        <ele>1794.2</ele>
+      </trkpt>
+      <trkpt lat="46.541408" lon="7.480833">
+        <ele>1794.5</ele>
+      </trkpt>
+      <trkpt lat="46.541486" lon="7.480836">
+        <ele>1794.5</ele>
+      </trkpt>
+      <trkpt lat="46.541594" lon="7.480853">
+        <ele>1794.7</ele>
+      </trkpt>
+      <trkpt lat="46.541674" lon="7.480872">
+        <ele>1795.0</ele>
+      </trkpt>
+      <trkpt lat="46.541779" lon="7.480894">
+        <ele>1796.5</ele>
+      </trkpt>
+      <trkpt lat="46.541903" lon="7.480908">
+        <ele>1797.9</ele>
+      </trkpt>
+      <trkpt lat="46.541998" lon="7.480936">
+        <ele>1799.6</ele>
+      </trkpt>
+      <trkpt lat="46.542095" lon="7.480963">
+        <ele>1801.6</ele>
+      </trkpt>
+      <trkpt lat="46.542194" lon="7.481027">
+        <ele>1803.2</ele>
+      </trkpt>
+      <trkpt lat="46.542274" lon="7.481068">
+        <ele>1804.7</ele>
+      </trkpt>
+      <trkpt lat="46.542302" lon="7.481081">
+        <ele>1805.0</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.542318" lon="7.481088">
+        <ele>1805.2</ele>
+      </trkpt>
+      <trkpt lat="46.542373" lon="7.481165">
+        <ele>1805.6</ele>
+      </trkpt>
+      <trkpt lat="46.54243" lon="7.48122">
+        <ele>1805.8</ele>
+      </trkpt>
+      <trkpt lat="46.542493" lon="7.481273">
+        <ele>1806.0</ele>
+      </trkpt>
+      <trkpt lat="46.542537" lon="7.481325">
+        <ele>1806.3</ele>
+      </trkpt>
+      <trkpt lat="46.542578" lon="7.481416">
+        <ele>1806.5</ele>
+      </trkpt>
+      <trkpt lat="46.542611" lon="7.48151">
+        <ele>1806.7</ele>
+      </trkpt>
+      <trkpt lat="46.542675" lon="7.481632">
+        <ele>1806.7</ele>
+      </trkpt>
+      <trkpt lat="46.542728" lon="7.481735">
+        <ele>1806.8</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.54274" lon="7.481759">
+        <ele>1806.9</ele>
+      </trkpt>
+      <trkpt lat="46.542835" lon="7.481927">
+        <ele>1806.3</ele>
+      </trkpt>
+      <trkpt lat="46.542906" lon="7.482059">
+        <ele>1806.3</ele>
+      </trkpt>
+      <trkpt lat="46.542986" lon="7.482186">
+        <ele>1806.3</ele>
+      </trkpt>
+      <trkpt lat="46.543058" lon="7.482286">
+        <ele>1806.4</ele>
+      </trkpt>
+      <trkpt lat="46.543119" lon="7.482341">
+        <ele>1806.2</ele>
+      </trkpt>
+      <trkpt lat="46.543144" lon="7.482391">
+        <ele>1806.8</ele>
+      </trkpt>
+      <trkpt lat="46.543184" lon="7.482432">
+        <ele>1807.1</ele>
+      </trkpt>
+      <trkpt lat="46.54325" lon="7.482493">
+        <ele>1807.2</ele>
+      </trkpt>
+      <trkpt lat="46.543298" lon="7.482548">
+        <ele>1807.2</ele>
+      </trkpt>
+      <trkpt lat="46.543326" lon="7.482634">
+        <ele>1807.5</ele>
+      </trkpt>
+      <trkpt lat="46.54334" lon="7.482678">
+        <ele>1807.8</ele>
+      </trkpt>
+      <trkpt lat="46.543362" lon="7.482672">
+        <ele>1807.8</ele>
+      </trkpt>
+      <trkpt lat="46.543402" lon="7.482678">
+        <ele>1807.7</ele>
+      </trkpt>
+      <trkpt lat="46.543454" lon="7.482708">
+        <ele>1808.2</ele>
+      </trkpt>
+      <trkpt lat="46.543498" lon="7.482769">
+        <ele>1808.2</ele>
+      </trkpt>
+      <trkpt lat="46.543562" lon="7.482811">
+        <ele>1808.3</ele>
+      </trkpt>
+      <trkpt lat="46.543606" lon="7.482833">
+        <ele>1808.3</ele>
+      </trkpt>
+      <trkpt lat="46.54364" lon="7.48283">
+        <ele>1808.4</ele>
+      </trkpt>
+      <trkpt lat="46.543675" lon="7.482805">
+        <ele>1808.3</ele>
+      </trkpt>
+      <trkpt lat="46.543713" lon="7.482766">
+        <ele>1807.8</ele>
+      </trkpt>
+      <trkpt lat="46.543753" lon="7.482753">
+        <ele>1807.2</ele>
+      </trkpt>
+      <trkpt lat="46.543795" lon="7.482775">
+        <ele>1806.4</ele>
+      </trkpt>
+      <trkpt lat="46.543827" lon="7.482808">
+        <ele>1805.9</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.543854" lon="7.482836">
+        <ele>1805.5</ele>
+      </trkpt>
+      <trkpt lat="46.54393" lon="7.482902">
+        <ele>1804.1</ele>
+      </trkpt>
+      <trkpt lat="46.543977" lon="7.48293">
+        <ele>1803.6</ele>
+      </trkpt>
+      <trkpt lat="46.544034" lon="7.482935">
+        <ele>1803.3</ele>
+      </trkpt>
+      <trkpt lat="46.544137" lon="7.482927">
+        <ele>1802.8</ele>
+      </trkpt>
+      <trkpt lat="46.544169" lon="7.482933">
+        <ele>1802.9</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.544181" lon="7.482935">
+        <ele>1802.9</ele>
+      </trkpt>
+      <trkpt lat="46.544215" lon="7.48296">
+        <ele>1803.2</ele>
+      </trkpt>
+      <trkpt lat="46.544263" lon="7.483029">
+        <ele>1801.3</ele>
+      </trkpt>
+      <trkpt lat="46.544305" lon="7.483073">
+        <ele>1800.6</ele>
+      </trkpt>
+      <trkpt lat="46.54435" lon="7.483098">
+        <ele>1799.4</ele>
+      </trkpt>
+      <trkpt lat="46.544427" lon="7.483098">
+        <ele>1798.0</ele>
+      </trkpt>
+      <trkpt lat="46.544562" lon="7.48309">
+        <ele>1794.5</ele>
+      </trkpt>
+      <trkpt lat="46.544672" lon="7.483076">
+        <ele>1791.8</ele>
+      </trkpt>
+      <trkpt lat="46.544783" lon="7.483046">
+        <ele>1790.5</ele>
+      </trkpt>
+      <trkpt lat="46.544887" lon="7.483038">
+        <ele>1788.1</ele>
+      </trkpt>
+      <trkpt lat="46.544966" lon="7.483035">
+        <ele>1787.2</ele>
+      </trkpt>
+      <trkpt lat="46.545051" lon="7.483046">
+        <ele>1785.5</ele>
+      </trkpt>
+      <trkpt lat="46.545154" lon="7.483079">
+        <ele>1784.7</ele>
+      </trkpt>
+      <trkpt lat="46.545224" lon="7.483099">
+        <ele>1785.0</ele>
+      </trkpt>
+      <trkpt lat="46.545311" lon="7.483103">
+        <ele>1784.6</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.545331" lon="7.483104">
+        <ele>1784.5</ele>
+      </trkpt>
+      <trkpt lat="46.545419" lon="7.483116">
+        <ele>1785.0</ele>
+      </trkpt>
+      <trkpt lat="46.545537" lon="7.483141">
+        <ele>1784.0</ele>
+      </trkpt>
+      <trkpt lat="46.54567" lon="7.483174">
+        <ele>1783.5</ele>
+      </trkpt>
+      <trkpt lat="46.545801" lon="7.483193">
+        <ele>1782.3</ele>
+      </trkpt>
+      <trkpt lat="46.545937" lon="7.483204">
+        <ele>1781.2</ele>
+      </trkpt>
+      <trkpt lat="46.546043" lon="7.483193">
+        <ele>1778.8</ele>
+      </trkpt>
+      <trkpt lat="46.546152" lon="7.483193">
+        <ele>1778.7</ele>
+      </trkpt>
+      <trkpt lat="46.546268" lon="7.483205">
+        <ele>1778.8</ele>
+      </trkpt>
+      <trkpt lat="46.54639" lon="7.483222">
+        <ele>1777.6</ele>
+      </trkpt>
+      <trkpt lat="46.546517" lon="7.48323">
+        <ele>1778.1</ele>
+      </trkpt>
+      <trkpt lat="46.546601" lon="7.483238">
+        <ele>1777.2</ele>
+      </trkpt>
+      <trkpt lat="46.546683" lon="7.483238">
+        <ele>1776.6</ele>
+      </trkpt>
+      <trkpt lat="46.546695" lon="7.483235">
+        <ele>1776.6</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.546759" lon="7.483222">
+        <ele>1776.1</ele>
+      </trkpt>
+      <trkpt lat="46.546736" lon="7.483194">
+        <ele>1775.5</ele>
+      </trkpt>
+      <trkpt lat="46.546711" lon="7.483183">
+        <ele>1775.0</ele>
+      </trkpt>
+      <trkpt lat="46.54667" lon="7.483166">
+        <ele>1774.9</ele>
+      </trkpt>
+      <trkpt lat="46.546638" lon="7.483159">
+        <ele>1774.5</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.546609" lon="7.483152">
+        <ele>1774.1</ele>
+      </trkpt>
+      <trkpt lat="46.546582" lon="7.48313">
+        <ele>1773.3</ele>
+      </trkpt>
+      <trkpt lat="46.546613" lon="7.483081">
+        <ele>1772.1</ele>
+      </trkpt>
+      <trkpt lat="46.546632" lon="7.483066">
+        <ele>1771.8</ele>
+      </trkpt>
+      <trkpt lat="46.546631" lon="7.482988">
+        <ele>1769.8</ele>
+      </trkpt>
+      <trkpt lat="46.546667" lon="7.482966">
+        <ele>1768.9</ele>
+      </trkpt>
+      <trkpt lat="46.546689" lon="7.482934">
+        <ele>1768.5</ele>
+      </trkpt>
+      <trkpt lat="46.546771" lon="7.482846">
+        <ele>1765.8</ele>
+      </trkpt>
+      <trkpt lat="46.546815" lon="7.482819">
+        <ele>1764.8</ele>
+      </trkpt>
+      <trkpt lat="46.546877" lon="7.482793">
+        <ele>1764.3</ele>
+      </trkpt>
+      <trkpt lat="46.546894" lon="7.482795">
+        <ele>1764.3</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.546974" lon="7.482807">
+        <ele>1763.9</ele>
+      </trkpt>
+      <trkpt lat="46.547012" lon="7.482805">
+        <ele>1763.2</ele>
+      </trkpt>
+      <trkpt lat="46.547066" lon="7.482802">
+        <ele>1761.8</ele>
+      </trkpt>
+      <trkpt lat="46.547134" lon="7.482824">
+        <ele>1761.3</ele>
+      </trkpt>
+      <trkpt lat="46.547184" lon="7.482819">
+        <ele>1758.8</ele>
+      </trkpt>
+      <trkpt lat="46.547198" lon="7.482824">
+        <ele>1758.4</ele>
+        <name>Alp Grimmi, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.547241" lon="7.482838">
+        <ele>1757.4</ele>
+      </trkpt>
+      <trkpt lat="46.547275" lon="7.482874">
+        <ele>1756.9</ele>
+      </trkpt>
+      <trkpt lat="46.547323" lon="7.48291">
+        <ele>1756.9</ele>
+      </trkpt>
+      <trkpt lat="46.547382" lon="7.482924">
+        <ele>1755.3</ele>
+      </trkpt>
+      <trkpt lat="46.547456" lon="7.48291">
+        <ele>1752.8</ele>
+      </trkpt>
+      <trkpt lat="46.547542" lon="7.48291">
+        <ele>1750.5</ele>
+      </trkpt>
+      <trkpt lat="46.547641" lon="7.482899">
+        <ele>1747.4</ele>
+      </trkpt>
+      <trkpt lat="46.5477" lon="7.482899">
+        <ele>1745.6</ele>
+      </trkpt>
+      <trkpt lat="46.547749" lon="7.482916">
+        <ele>1743.9</ele>
+      </trkpt>
+      <trkpt lat="46.547787" lon="7.482946">
+        <ele>1742.4</ele>
+      </trkpt>
+      <trkpt lat="46.547833" lon="7.48293">
+        <ele>1740.7</ele>
+      </trkpt>
+      <trkpt lat="46.5479" lon="7.482908">
+        <ele>1739.6</ele>
+      </trkpt>
+      <trkpt lat="46.547968" lon="7.482908">
+        <ele>1739.3</ele>
+      </trkpt>
+      <trkpt lat="46.548039" lon="7.482944">
+        <ele>1737.7</ele>
+      </trkpt>
+      <trkpt lat="46.548086" lon="7.483005">
+        <ele>1737.0</ele>
+      </trkpt>
+      <trkpt lat="46.548162" lon="7.483021">
+        <ele>1734.9</ele>
+      </trkpt>
+      <trkpt lat="46.548208" lon="7.483079">
+        <ele>1734.2</ele>
+      </trkpt>
+      <trkpt lat="46.548223" lon="7.483091">
+        <ele>1733.8</ele>
+        <name>Bergrestaurant zum Oberen Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.548244" lon="7.483107">
+        <ele>1733.2</ele>
+      </trkpt>
+      <trkpt lat="46.548294" lon="7.483107">
+        <ele>1731.9</ele>
+      </trkpt>
+      <trkpt lat="46.548347" lon="7.483129">
+        <ele>1731.5</ele>
+      </trkpt>
+      <trkpt lat="46.548389" lon="7.483118">
+        <ele>1730.4</ele>
+      </trkpt>
+      <trkpt lat="46.548425" lon="7.483129">
+        <ele>1729.8</ele>
+      </trkpt>
+      <trkpt lat="46.548469" lon="7.48314">
+        <ele>1728.7</ele>
+      </trkpt>
+      <trkpt lat="46.54848" lon="7.483099">
+        <ele>1727.5</ele>
+      </trkpt>
+      <trkpt lat="46.548509" lon="7.483052">
+        <ele>1725.6</ele>
+      </trkpt>
+      <trkpt lat="46.548551" lon="7.483063">
+        <ele>1725.3</ele>
+      </trkpt>
+      <trkpt lat="46.548595" lon="7.483071">
+        <ele>1724.0</ele>
+      </trkpt>
+      <trkpt lat="46.548644" lon="7.483099">
+        <ele>1722.7</ele>
+      </trkpt>
+      <trkpt lat="46.548692" lon="7.48316">
+        <ele>1721.3</ele>
+      </trkpt>
+      <trkpt lat="46.548722" lon="7.483162">
+        <ele>1720.4</ele>
+      </trkpt>
+      <trkpt lat="46.548762" lon="7.483143">
+        <ele>1719.1</ele>
+      </trkpt>
+      <trkpt lat="46.54881" lon="7.483143">
+        <ele>1718.6</ele>
+      </trkpt>
+      <trkpt lat="46.548875" lon="7.483178">
+        <ele>1717.7</ele>
+        <name>Bergrestaurant zum Oberen Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.548882" lon="7.483182">
+        <ele>1717.6</ele>
+      </trkpt>
+      <trkpt lat="46.548953" lon="7.483204">
+        <ele>1716.3</ele>
+      </trkpt>
+      <trkpt lat="46.549015" lon="7.483237">
+        <ele>1715.4</ele>
+      </trkpt>
+      <trkpt lat="46.549074" lon="7.483254">
+        <ele>1714.3</ele>
+      </trkpt>
+      <trkpt lat="46.549122" lon="7.483279">
+        <ele>1714.4</ele>
+      </trkpt>
+      <trkpt lat="46.549206" lon="7.483353">
+        <ele>1713.3</ele>
+      </trkpt>
+      <trkpt lat="46.54925" lon="7.483386">
+        <ele>1712.0</ele>
+      </trkpt>
+      <trkpt lat="46.54928" lon="7.483425">
+        <ele>1711.7</ele>
+      </trkpt>
+      <trkpt lat="46.549305" lon="7.483486">
+        <ele>1712.2</ele>
+      </trkpt>
+      <trkpt lat="46.549345" lon="7.4835">
+        <ele>1711.1</ele>
+      </trkpt>
+      <trkpt lat="46.54939" lon="7.483497">
+        <ele>1709.4</ele>
+      </trkpt>
+      <trkpt lat="46.549438" lon="7.483475">
+        <ele>1707.8</ele>
+      </trkpt>
+      <trkpt lat="46.549468" lon="7.483475">
+        <ele>1706.7</ele>
+      </trkpt>
+      <trkpt lat="46.549516" lon="7.483519">
+        <ele>1706.0</ele>
+      </trkpt>
+      <trkpt lat="46.549569" lon="7.483525">
+        <ele>1704.6</ele>
+      </trkpt>
+      <trkpt lat="46.549625" lon="7.483514">
+        <ele>1703.5</ele>
+      </trkpt>
+      <trkpt lat="46.549708" lon="7.483453">
+        <ele>1701.1</ele>
+      </trkpt>
+      <trkpt lat="46.5498" lon="7.483423">
+        <ele>1699.1</ele>
+      </trkpt>
+      <trkpt lat="46.54988" lon="7.483392">
+        <ele>1698.0</ele>
+      </trkpt>
+      <trkpt lat="46.549937" lon="7.483384">
+        <ele>1697.3</ele>
+      </trkpt>
+      <trkpt lat="46.549981" lon="7.483376">
+        <ele>1696.6</ele>
+      </trkpt>
+      <trkpt lat="46.550047" lon="7.483296">
+        <ele>1696.1</ele>
+      </trkpt>
+      <trkpt lat="46.550072" lon="7.483277">
+        <ele>1695.9</ele>
+        <name>Bergrestaurant zum Oberen Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.550101" lon="7.483255">
+        <ele>1695.7</ele>
+      </trkpt>
+      <trkpt lat="46.550154" lon="7.483249">
+        <ele>1695.6</ele>
+      </trkpt>
+      <trkpt lat="46.55024" lon="7.483197">
+        <ele>1695.3</ele>
+      </trkpt>
+      <trkpt lat="46.550331" lon="7.483111">
+        <ele>1694.8</ele>
+      </trkpt>
+      <trkpt lat="46.550415" lon="7.483048">
+        <ele>1694.8</ele>
+      </trkpt>
+      <trkpt lat="46.550487" lon="7.483012">
+        <ele>1695.5</ele>
+      </trkpt>
+      <trkpt lat="46.550558" lon="7.482976">
+        <ele>1695.7</ele>
+      </trkpt>
+      <trkpt lat="46.550603" lon="7.482921">
+        <ele>1694.1</ele>
+      </trkpt>
+      <trkpt lat="46.550659" lon="7.482918">
+        <ele>1693.6</ele>
+      </trkpt>
+      <trkpt lat="46.550714" lon="7.482943">
+        <ele>1693.4</ele>
+      </trkpt>
+      <trkpt lat="46.550769" lon="7.482996">
+        <ele>1694.1</ele>
+      </trkpt>
+      <trkpt lat="46.550841" lon="7.483026">
+        <ele>1693.3</ele>
+      </trkpt>
+      <trkpt lat="46.550891" lon="7.483053">
+        <ele>1692.9</ele>
+        <name>Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.550973" lon="7.483098">
+        <ele>1692.1</ele>
+      </trkpt>
+      <trkpt lat="46.551078" lon="7.483142">
+        <ele>1689.9</ele>
+      </trkpt>
+      <trkpt lat="46.551157" lon="7.483184">
+        <ele>1689.5</ele>
+      </trkpt>
+      <trkpt lat="46.551319" lon="7.48328">
+        <ele>1688.1</ele>
+      </trkpt>
+      <trkpt lat="46.551477" lon="7.483355">
+        <ele>1686.1</ele>
+      </trkpt>
+      <trkpt lat="46.551557" lon="7.483388">
+        <ele>1684.8</ele>
+      </trkpt>
+      <trkpt lat="46.55167" lon="7.48341">
+        <ele>1682.5</ele>
+      </trkpt>
+      <trkpt lat="46.551732" lon="7.48341">
+        <ele>1680.8</ele>
+      </trkpt>
+      <trkpt lat="46.551793" lon="7.483402">
+        <ele>1679.3</ele>
+      </trkpt>
+      <trkpt lat="46.551811" lon="7.483396">
+        <ele>1679.1</ele>
+      </trkpt>
+      <trkpt lat="46.551863" lon="7.483392">
+        <ele>1678.2</ele>
+        <name>Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.551912" lon="7.483389">
+        <ele>1677.5</ele>
+      </trkpt>
+      <trkpt lat="46.551973" lon="7.4834">
+        <ele>1677.4</ele>
+      </trkpt>
+      <trkpt lat="46.55202" lon="7.483392">
+        <ele>1675.9</ele>
+      </trkpt>
+      <trkpt lat="46.552085" lon="7.483389">
+        <ele>1673.2</ele>
+      </trkpt>
+      <trkpt lat="46.552135" lon="7.483356">
+        <ele>1671.2</ele>
+      </trkpt>
+      <trkpt lat="46.552196" lon="7.483295">
+        <ele>1669.5</ele>
+      </trkpt>
+      <trkpt lat="46.552228" lon="7.48327">
+        <ele>1669.1</ele>
+      </trkpt>
+      <trkpt lat="46.552247" lon="7.483261">
+        <ele>1668.6</ele>
+      </trkpt>
+      <trkpt lat="46.552283" lon="7.483243">
+        <ele>1668.5</ele>
+      </trkpt>
+      <trkpt lat="46.552346" lon="7.483259">
+        <ele>1666.9</ele>
+      </trkpt>
+      <trkpt lat="46.552389" lon="7.483251">
+        <ele>1665.3</ele>
+      </trkpt>
+      <trkpt lat="46.552473" lon="7.483218">
+        <ele>1662.5</ele>
+      </trkpt>
+      <trkpt lat="46.552553" lon="7.483157">
+        <ele>1659.9</ele>
+      </trkpt>
+      <trkpt lat="46.552643" lon="7.483094">
+        <ele>1658.0</ele>
+      </trkpt>
+      <trkpt lat="46.552694" lon="7.483047">
+        <ele>1656.2</ele>
+        <name>Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.55273" lon="7.483014">
+        <ele>1654.9</ele>
+      </trkpt>
+      <trkpt lat="46.552799" lon="7.482981">
+        <ele>1652.2</ele>
+      </trkpt>
+      <trkpt lat="46.552896" lon="7.482942">
+        <ele>1648.6</ele>
+      </trkpt>
+      <trkpt lat="46.552959" lon="7.482918">
+        <ele>1645.9</ele>
+      </trkpt>
+      <trkpt lat="46.553041" lon="7.48289">
+        <ele>1642.3</ele>
+      </trkpt>
+      <trkpt lat="46.55306" lon="7.482885">
+        <ele>1641.7</ele>
+      </trkpt>
+      <trkpt lat="46.553138" lon="7.48287">
+        <ele>1639.4</ele>
+      </trkpt>
+      <trkpt lat="46.553155" lon="7.482871">
+        <ele>1639.1</ele>
+      </trkpt>
+      <trkpt lat="46.553218" lon="7.482896">
+        <ele>1638.5</ele>
+      </trkpt>
+      <trkpt lat="46.553279" lon="7.482929">
+        <ele>1638.6</ele>
+      </trkpt>
+      <trkpt lat="46.553332" lon="7.482956">
+        <ele>1636.8</ele>
+      </trkpt>
+      <trkpt lat="46.553429" lon="7.48297">
+        <ele>1635.4</ele>
+      </trkpt>
+      <trkpt lat="46.553492" lon="7.482965">
+        <ele>1634.4</ele>
+      </trkpt>
+      <trkpt lat="46.553538" lon="7.482948">
+        <ele>1633.9</ele>
+      </trkpt>
+      <trkpt lat="46.553599" lon="7.482918">
+        <ele>1632.9</ele>
+      </trkpt>
+      <trkpt lat="46.553654" lon="7.482929">
+        <ele>1630.9</ele>
+      </trkpt>
+      <trkpt lat="46.553709" lon="7.482957">
+        <ele>1630.1</ele>
+      </trkpt>
+      <trkpt lat="46.553753" lon="7.482976">
+        <ele>1629.2</ele>
+      </trkpt>
+      <trkpt lat="46.553759" lon="7.482974">
+        <ele>1628.8</ele>
+        <name>Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.553791" lon="7.482962">
+        <ele>1626.9</ele>
+      </trkpt>
+      <trkpt lat="46.553835" lon="7.482971">
+        <ele>1625.2</ele>
+      </trkpt>
+      <trkpt lat="46.553892" lon="7.483009">
+        <ele>1625.1</ele>
+      </trkpt>
+      <trkpt lat="46.553955" lon="7.483034">
+        <ele>1623.9</ele>
+      </trkpt>
+      <trkpt lat="46.554004" lon="7.483034">
+        <ele>1622.6</ele>
+      </trkpt>
+      <trkpt lat="46.55405" lon="7.483029">
+        <ele>1621.7</ele>
+      </trkpt>
+      <trkpt lat="46.554109" lon="7.483018">
+        <ele>1620.8</ele>
+      </trkpt>
+      <trkpt lat="46.554175" lon="7.482998">
+        <ele>1620.3</ele>
+      </trkpt>
+      <trkpt lat="46.554214" lon="7.482976">
+        <ele>1619.7</ele>
+      </trkpt>
+      <trkpt lat="46.554219" lon="7.48294">
+        <ele>1619.3</ele>
+      </trkpt>
+      <trkpt lat="46.554244" lon="7.482907">
+        <ele>1619.0</ele>
+      </trkpt>
+      <trkpt lat="46.554297" lon="7.482907">
+        <ele>1619.2</ele>
+      </trkpt>
+      <trkpt lat="46.554316" lon="7.482911">
+        <ele>1619.2</ele>
+        <name>Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.554351" lon="7.482918">
+        <ele>1619.3</ele>
+      </trkpt>
+      <trkpt lat="46.554393" lon="7.482899">
+        <ele>1619.4</ele>
+      </trkpt>
+      <trkpt lat="46.554438" lon="7.482883">
+        <ele>1619.8</ele>
+      </trkpt>
+      <trkpt lat="46.554484" lon="7.482883">
+        <ele>1620.0</ele>
+      </trkpt>
+      <trkpt lat="46.554547" lon="7.482891">
+        <ele>1620.2</ele>
+      </trkpt>
+      <trkpt lat="46.554593" lon="7.482877">
+        <ele>1620.1</ele>
+      </trkpt>
+      <trkpt lat="46.55468" lon="7.482803">
+        <ele>1618.6</ele>
+      </trkpt>
+      <trkpt lat="46.554753" lon="7.482731">
+        <ele>1617.2</ele>
+      </trkpt>
+      <trkpt lat="46.554798" lon="7.482695">
+        <ele>1615.5</ele>
+      </trkpt>
+      <trkpt lat="46.5548" lon="7.482694">
+        <ele>1615.5</ele>
+      </trkpt>
+      <trkpt lat="46.5548" lon="7.482695">
+        <ele>1615.5</ele>
+        <name>Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.554871" lon="7.482668">
+        <ele>1613.5</ele>
+      </trkpt>
+      <trkpt lat="46.554951" lon="7.482635">
+        <ele>1611.2</ele>
+      </trkpt>
+      <trkpt lat="46.554996" lon="7.482602">
+        <ele>1609.7</ele>
+      </trkpt>
+      <trkpt lat="46.555034" lon="7.482544">
+        <ele>1608.4</ele>
+      </trkpt>
+      <trkpt lat="46.555097" lon="7.482425">
+        <ele>1605.9</ele>
+      </trkpt>
+      <trkpt lat="46.555133" lon="7.482381">
+        <ele>1604.6</ele>
+      </trkpt>
+      <trkpt lat="46.555187" lon="7.482328">
+        <ele>1602.2</ele>
+      </trkpt>
+      <trkpt lat="46.555229" lon="7.482273">
+        <ele>1600.4</ele>
+      </trkpt>
+      <trkpt lat="46.55528" lon="7.482196">
+        <ele>1598.1</ele>
+      </trkpt>
+      <trkpt lat="46.555328" lon="7.482127">
+        <ele>1596.1</ele>
+      </trkpt>
+      <trkpt lat="46.555402" lon="7.482047">
+        <ele>1593.4</ele>
+      </trkpt>
+      <trkpt lat="46.555453" lon="7.481981">
+        <ele>1591.5</ele>
+      </trkpt>
+      <trkpt lat="46.555486" lon="7.481909">
+        <ele>1589.9</ele>
+      </trkpt>
+      <trkpt lat="46.555514" lon="7.481821">
+        <ele>1588.6</ele>
+      </trkpt>
+      <trkpt lat="46.555555" lon="7.481661">
+        <ele>1585.7</ele>
+      </trkpt>
+      <trkpt lat="46.555596" lon="7.481542">
+        <ele>1584.1</ele>
+      </trkpt>
+      <trkpt lat="46.555652" lon="7.481418">
+        <ele>1582.0</ele>
+      </trkpt>
+      <trkpt lat="46.555688" lon="7.481327">
+        <ele>1580.5</ele>
+      </trkpt>
+      <trkpt lat="46.555728" lon="7.48125">
+        <ele>1579.2</ele>
+      </trkpt>
+      <trkpt lat="46.55577" lon="7.481197">
+        <ele>1577.9</ele>
+      </trkpt>
+      <trkpt lat="46.555774" lon="7.481194">
+        <ele>1577.8</ele>
+        <name>Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.555821" lon="7.48115">
+        <ele>1576.6</ele>
+      </trkpt>
+      <trkpt lat="46.555751" lon="7.481141">
+        <ele>1576.9</ele>
+      </trkpt>
+      <trkpt lat="46.555667" lon="7.481154">
+        <ele>1577.2</ele>
+      </trkpt>
+      <trkpt lat="46.555579" lon="7.481208">
+        <ele>1577.2</ele>
+      </trkpt>
+      <trkpt lat="46.555494" lon="7.481237">
+        <ele>1576.8</ele>
+      </trkpt>
+      <trkpt lat="46.555411" lon="7.481275">
+        <ele>1576.0</ele>
+      </trkpt>
+      <trkpt lat="46.555326" lon="7.481281">
+        <ele>1573.5</ele>
+      </trkpt>
+      <trkpt lat="46.555293" lon="7.481259">
+        <ele>1572.1</ele>
+      </trkpt>
+      <trkpt lat="46.555227" lon="7.481255">
+        <ele>1570.5</ele>
+      </trkpt>
+      <trkpt lat="46.555168" lon="7.481254">
+        <ele>1570.2</ele>
+      </trkpt>
+      <trkpt lat="46.555168" lon="7.481253">
+        <ele>1570.2</ele>
+        <name>Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.555164" lon="7.481253">
+        <ele>1570.2</ele>
+      </trkpt>
+      <trkpt lat="46.555069" lon="7.481224">
+        <ele>1570.3</ele>
+      </trkpt>
+      <trkpt lat="46.554967" lon="7.481196">
+        <ele>1570.5</ele>
+      </trkpt>
+      <trkpt lat="46.554882" lon="7.481161">
+        <ele>1570.8</ele>
+      </trkpt>
+      <trkpt lat="46.554813" lon="7.481122">
+        <ele>1570.9</ele>
+      </trkpt>
+      <trkpt lat="46.554757" lon="7.481097">
+        <ele>1570.7</ele>
+      </trkpt>
+      <trkpt lat="46.554714" lon="7.481088">
+        <ele>1570.4</ele>
+      </trkpt>
+      <trkpt lat="46.554658" lon="7.481079">
+        <ele>1569.8</ele>
+      </trkpt>
+      <trkpt lat="46.554596" lon="7.481041">
+        <ele>1568.6</ele>
+      </trkpt>
+      <trkpt lat="46.554563" lon="7.481022">
+        <ele>1567.8</ele>
+      </trkpt>
+      <trkpt lat="46.554511" lon="7.481017">
+        <ele>1566.7</ele>
+      </trkpt>
+      <trkpt lat="46.554448" lon="7.481021">
+        <ele>1565.8</ele>
+      </trkpt>
+      <trkpt lat="46.554445" lon="7.48102">
+        <ele>1565.8</ele>
+        <name>Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.554392" lon="7.481003">
+        <ele>1564.7</ele>
+      </trkpt>
+      <trkpt lat="46.554338" lon="7.480993">
+        <ele>1563.6</ele>
+      </trkpt>
+      <trkpt lat="46.554301" lon="7.480967">
+        <ele>1562.2</ele>
+      </trkpt>
+      <trkpt lat="46.554213" lon="7.480979">
+        <ele>1561.2</ele>
+      </trkpt>
+      <trkpt lat="46.554116" lon="7.480993">
+        <ele>1560.6</ele>
+      </trkpt>
+      <trkpt lat="46.554058" lon="7.480974">
+        <ele>1559.9</ele>
+      </trkpt>
+      <trkpt lat="46.554006" lon="7.480935">
+        <ele>1558.9</ele>
+      </trkpt>
+      <trkpt lat="46.553937" lon="7.480885">
+        <ele>1557.9</ele>
+        <name>Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.553932" lon="7.480881">
+        <ele>1557.8</ele>
+      </trkpt>
+      <trkpt lat="46.553874" lon="7.480818">
+        <ele>1556.1</ele>
+      </trkpt>
+      <trkpt lat="46.553822" lon="7.480743">
+        <ele>1554.8</ele>
+      </trkpt>
+      <trkpt lat="46.553772" lon="7.480717">
+        <ele>1553.2</ele>
+      </trkpt>
+      <trkpt lat="46.553726" lon="7.480723">
+        <ele>1551.8</ele>
+      </trkpt>
+      <trkpt lat="46.553683" lon="7.480721">
+        <ele>1550.6</ele>
+      </trkpt>
+      <trkpt lat="46.553678" lon="7.480691">
+        <ele>1550.2</ele>
+        <name>Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.553671" lon="7.480642">
+        <ele>1549.6</ele>
+      </trkpt>
+      <trkpt lat="46.553654" lon="7.480571">
+        <ele>1548.1</ele>
+      </trkpt>
+      <trkpt lat="46.553608" lon="7.480435">
+        <ele>1545.6</ele>
+      </trkpt>
+      <trkpt lat="46.55357" lon="7.480359">
+        <ele>1545.3</ele>
+      </trkpt>
+      <trkpt lat="46.553534" lon="7.480305">
+        <ele>1544.3</ele>
+      </trkpt>
+      <trkpt lat="46.553537" lon="7.480236">
+        <ele>1543.6</ele>
+      </trkpt>
+      <trkpt lat="46.553517" lon="7.480184">
+        <ele>1543.2</ele>
+      </trkpt>
+      <trkpt lat="46.553493" lon="7.480152">
+        <ele>1542.3</ele>
+      </trkpt>
+      <trkpt lat="46.553488" lon="7.480086">
+        <ele>1541.3</ele>
+      </trkpt>
+      <trkpt lat="46.553509" lon="7.480023">
+        <ele>1540.1</ele>
+      </trkpt>
+      <trkpt lat="46.55352" lon="7.480005">
+        <ele>1539.8</ele>
+        <name>Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.553546" lon="7.479963">
+        <ele>1538.9</ele>
+      </trkpt>
+      <trkpt lat="46.553617" lon="7.479864">
+        <ele>1536.0</ele>
+      </trkpt>
+      <trkpt lat="46.553685" lon="7.479824">
+        <ele>1533.6</ele>
+      </trkpt>
+      <trkpt lat="46.55374" lon="7.47977">
+        <ele>1531.5</ele>
+        <name>Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.553726" lon="7.479694">
+        <ele>1530.3</ele>
+      </trkpt>
+      <trkpt lat="46.553658" lon="7.479561">
+        <ele>1527.1</ele>
+      </trkpt>
+      <trkpt lat="46.553584" lon="7.479455">
+        <ele>1523.7</ele>
+      </trkpt>
+      <trkpt lat="46.553539" lon="7.479417">
+        <ele>1522.0</ele>
+      </trkpt>
+      <trkpt lat="46.553456" lon="7.479396">
+        <ele>1519.6</ele>
+      </trkpt>
+      <trkpt lat="46.553398" lon="7.47937">
+        <ele>1517.7</ele>
+      </trkpt>
+      <trkpt lat="46.553298" lon="7.479328">
+        <ele>1514.0</ele>
+      </trkpt>
+      <trkpt lat="46.553203" lon="7.479305">
+        <ele>1512.3</ele>
+        <name>Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.553198" lon="7.479304">
+        <ele>1512.2</ele>
+      </trkpt>
+      <trkpt lat="46.553119" lon="7.479352">
+        <ele>1511.4</ele>
+      </trkpt>
+      <trkpt lat="46.553019" lon="7.479349">
+        <ele>1508.8</ele>
+      </trkpt>
+      <trkpt lat="46.552904" lon="7.47932">
+        <ele>1506.0</ele>
+      </trkpt>
+      <trkpt lat="46.552808" lon="7.479301">
+        <ele>1503.5</ele>
+      </trkpt>
+      <trkpt lat="46.552755" lon="7.479266">
+        <ele>1502.3</ele>
+      </trkpt>
+      <trkpt lat="46.552737" lon="7.479224">
+        <ele>1501.5</ele>
+      </trkpt>
+      <trkpt lat="46.552736" lon="7.479217">
+        <ele>1501.4</ele>
+        <name>Stierenberg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.552729" lon="7.479154">
+        <ele>1500.4</ele>
+      </trkpt>
+      <trkpt lat="46.552741" lon="7.479103">
+        <ele>1499.4</ele>
+      </trkpt>
+      <trkpt lat="46.552764" lon="7.479028">
+        <ele>1499.8</ele>
+      </trkpt>
+      <trkpt lat="46.552783" lon="7.478901">
+        <ele>1497.5</ele>
+      </trkpt>
+      <trkpt lat="46.552766" lon="7.478781">
+        <ele>1493.6</ele>
+      </trkpt>
+      <trkpt lat="46.552744" lon="7.478675">
+        <ele>1489.1</ele>
+      </trkpt>
+      <trkpt lat="46.552734" lon="7.478575">
+        <ele>1486.5</ele>
+      </trkpt>
+      <trkpt lat="46.55273" lon="7.478464">
+        <ele>1484.9</ele>
+      </trkpt>
+      <trkpt lat="46.552744" lon="7.478318">
+        <ele>1484.6</ele>
+      </trkpt>
+      <trkpt lat="46.552765" lon="7.478273">
+        <ele>1484.4</ele>
+      </trkpt>
+      <trkpt lat="46.552801" lon="7.478238">
+        <ele>1484.5</ele>
+      </trkpt>
+      <trkpt lat="46.552764" lon="7.478217">
+        <ele>1484.3</ele>
+      </trkpt>
+      <trkpt lat="46.552703" lon="7.478169">
+        <ele>1483.2</ele>
+        <name>Türli, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.552694" lon="7.478162">
+        <ele>1483.1</ele>
+      </trkpt>
+      <trkpt lat="46.552614" lon="7.478101">
+        <ele>1481.5</ele>
+      </trkpt>
+      <trkpt lat="46.552536" lon="7.478062">
+        <ele>1480.7</ele>
+      </trkpt>
+      <trkpt lat="46.552469" lon="7.47804">
+        <ele>1479.7</ele>
+      </trkpt>
+      <trkpt lat="46.552405" lon="7.478051">
+        <ele>1478.8</ele>
+      </trkpt>
+      <trkpt lat="46.552315" lon="7.478095">
+        <ele>1476.9</ele>
+      </trkpt>
+      <trkpt lat="46.552227" lon="7.478128">
+        <ele>1474.7</ele>
+      </trkpt>
+      <trkpt lat="46.552149" lon="7.478142">
+        <ele>1472.8</ele>
+      </trkpt>
+      <trkpt lat="46.552071" lon="7.478125">
+        <ele>1471.2</ele>
+      </trkpt>
+      <trkpt lat="46.552012" lon="7.478095">
+        <ele>1470.2</ele>
+      </trkpt>
+      <trkpt lat="46.551955" lon="7.478103">
+        <ele>1468.8</ele>
+      </trkpt>
+      <trkpt lat="46.55192" lon="7.478124">
+        <ele>1468.1</ele>
+        <name>Türli, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.551894" lon="7.478139">
+        <ele>1467.6</ele>
+      </trkpt>
+      <trkpt lat="46.551824" lon="7.478194">
+        <ele>1465.4</ele>
+      </trkpt>
+      <trkpt lat="46.551725" lon="7.478271">
+        <ele>1462.7</ele>
+      </trkpt>
+      <trkpt lat="46.551635" lon="7.478327">
+        <ele>1461.4</ele>
+      </trkpt>
+      <trkpt lat="46.551536" lon="7.478349">
+        <ele>1459.0</ele>
+      </trkpt>
+      <trkpt lat="46.551477" lon="7.478348">
+        <ele>1458.1</ele>
+      </trkpt>
+      <trkpt lat="46.551464" lon="7.478344">
+        <ele>1457.9</ele>
+      </trkpt>
+      <trkpt lat="46.551427" lon="7.478329">
+        <ele>1457.5</ele>
+      </trkpt>
+      <trkpt lat="46.551387" lon="7.478316">
+        <ele>1457.4</ele>
+      </trkpt>
+      <trkpt lat="46.551348" lon="7.478287">
+        <ele>1457.0</ele>
+      </trkpt>
+      <trkpt lat="46.55133" lon="7.478264">
+        <ele>1456.8</ele>
+      </trkpt>
+      <trkpt lat="46.551315" lon="7.478225">
+        <ele>1456.6</ele>
+      </trkpt>
+      <trkpt lat="46.551308" lon="7.47819">
+        <ele>1456.4</ele>
+      </trkpt>
+      <trkpt lat="46.551307" lon="7.478128">
+        <ele>1455.5</ele>
+      </trkpt>
+      <trkpt lat="46.551301" lon="7.478081">
+        <ele>1454.7</ele>
+      </trkpt>
+      <trkpt lat="46.551282" lon="7.47804">
+        <ele>1453.9</ele>
+      </trkpt>
+      <trkpt lat="46.551265" lon="7.478012">
+        <ele>1453.1</ele>
+      </trkpt>
+      <trkpt lat="46.551239" lon="7.477981">
+        <ele>1452.4</ele>
+      </trkpt>
+      <trkpt lat="46.551217" lon="7.477953">
+        <ele>1451.9</ele>
+      </trkpt>
+      <trkpt lat="46.5512" lon="7.477919">
+        <ele>1451.6</ele>
+      </trkpt>
+      <trkpt lat="46.551194" lon="7.477895">
+        <ele>1451.4</ele>
+      </trkpt>
+      <trkpt lat="46.55119" lon="7.477869">
+        <ele>1451.2</ele>
+      </trkpt>
+      <trkpt lat="46.551192" lon="7.477844">
+        <ele>1451.1</ele>
+      </trkpt>
+      <trkpt lat="46.5512" lon="7.47779">
+        <ele>1450.7</ele>
+      </trkpt>
+      <trkpt lat="46.551205" lon="7.477749">
+        <ele>1450.4</ele>
+      </trkpt>
+      <trkpt lat="46.551236" lon="7.477617">
+        <ele>1449.2</ele>
+      </trkpt>
+      <trkpt lat="46.551243" lon="7.477594">
+        <ele>1449.0</ele>
+      </trkpt>
+      <trkpt lat="46.551279" lon="7.477482">
+        <ele>1448.5</ele>
+      </trkpt>
+      <trkpt lat="46.551337" lon="7.477377">
+        <ele>1448.2</ele>
+      </trkpt>
+      <trkpt lat="46.551377" lon="7.477333">
+        <ele>1447.9</ele>
+      </trkpt>
+      <trkpt lat="46.551487" lon="7.477275">
+        <ele>1446.9</ele>
+      </trkpt>
+      <trkpt lat="46.551603" lon="7.477225">
+        <ele>1446.0</ele>
+      </trkpt>
+      <trkpt lat="46.55163" lon="7.477205">
+        <ele>1445.8</ele>
+        <name>Türli, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.551677" lon="7.47717">
+        <ele>1445.4</ele>
+      </trkpt>
+      <trkpt lat="46.551748" lon="7.477096">
+        <ele>1444.4</ele>
+      </trkpt>
+      <trkpt lat="46.55182" lon="7.476991">
+        <ele>1443.3</ele>
+      </trkpt>
+      <trkpt lat="46.551891" lon="7.47688">
+        <ele>1441.7</ele>
+      </trkpt>
+      <trkpt lat="46.551967" lon="7.476795">
+        <ele>1440.3</ele>
+      </trkpt>
+      <trkpt lat="46.552066" lon="7.476729">
+        <ele>1438.5</ele>
+      </trkpt>
+      <trkpt lat="46.552154" lon="7.47669">
+        <ele>1437.4</ele>
+      </trkpt>
+      <trkpt lat="46.552277" lon="7.476635">
+        <ele>1435.8</ele>
+      </trkpt>
+      <trkpt lat="46.552346" lon="7.476588">
+        <ele>1434.8</ele>
+      </trkpt>
+      <trkpt lat="46.552411" lon="7.476536">
+        <ele>1433.9</ele>
+      </trkpt>
+      <trkpt lat="46.552529" lon="7.476475">
+        <ele>1432.2</ele>
+      </trkpt>
+      <trkpt lat="46.55266" lon="7.476392">
+        <ele>1430.3</ele>
+      </trkpt>
+      <trkpt lat="46.552763" lon="7.476324">
+        <ele>1428.7</ele>
+      </trkpt>
+      <trkpt lat="46.552853" lon="7.476277">
+        <ele>1427.5</ele>
+      </trkpt>
+      <trkpt lat="46.552997" lon="7.476199">
+        <ele>1425.3</ele>
+      </trkpt>
+      <trkpt lat="46.553112" lon="7.47612">
+        <ele>1423.7</ele>
+      </trkpt>
+      <trkpt lat="46.553161" lon="7.476084">
+        <ele>1422.9</ele>
+      </trkpt>
+      <trkpt lat="46.553161" lon="7.476083">
+        <ele>1422.9</ele>
+        <name>Türli, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.553262" lon="7.476009">
+        <ele>1421.3</ele>
+      </trkpt>
+      <trkpt lat="46.553424" lon="7.47588">
+        <ele>1419.0</ele>
+      </trkpt>
+      <trkpt lat="46.553593" lon="7.475747">
+        <ele>1416.3</ele>
+      </trkpt>
+      <trkpt lat="46.553691" lon="7.475659">
+        <ele>1414.6</ele>
+      </trkpt>
+      <trkpt lat="46.553811" lon="7.475565">
+        <ele>1412.9</ele>
+      </trkpt>
+      <trkpt lat="46.553894" lon="7.475502">
+        <ele>1411.8</ele>
+      </trkpt>
+      <trkpt lat="46.553969" lon="7.475458">
+        <ele>1410.7</ele>
+      </trkpt>
+      <trkpt lat="46.554047" lon="7.475419">
+        <ele>1409.8</ele>
+      </trkpt>
+      <trkpt lat="46.554091" lon="7.4754">
+        <ele>1409.3</ele>
+      </trkpt>
+      <trkpt lat="46.55403" lon="7.47548">
+        <ele>1410.2</ele>
+      </trkpt>
+      <trkpt lat="46.553971" lon="7.475552">
+        <ele>1410.2</ele>
+      </trkpt>
+      <trkpt lat="46.553891" lon="7.475634">
+        <ele>1409.4</ele>
+      </trkpt>
+      <trkpt lat="46.553809" lon="7.47572">
+        <ele>1408.7</ele>
+      </trkpt>
+      <trkpt lat="46.553774" lon="7.475786">
+        <ele>1408.1</ele>
+      </trkpt>
+      <trkpt lat="46.553765" lon="7.475833">
+        <ele>1407.8</ele>
+      </trkpt>
+      <trkpt lat="46.553769" lon="7.475874">
+        <ele>1407.7</ele>
+      </trkpt>
+      <trkpt lat="46.553801" lon="7.475974">
+        <ele>1407.3</ele>
+      </trkpt>
+      <trkpt lat="46.553824" lon="7.476001">
+        <ele>1407.2</ele>
+      </trkpt>
+      <trkpt lat="46.553868" lon="7.476021">
+        <ele>1407.0</ele>
+      </trkpt>
+      <trkpt lat="46.553911" lon="7.476027">
+        <ele>1406.7</ele>
+        <name>Türli, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.553949" lon="7.476032">
+        <ele>1406.5</ele>
+      </trkpt>
+      <trkpt lat="46.554058" lon="7.476032">
+        <ele>1406.1</ele>
+      </trkpt>
+      <trkpt lat="46.554153" lon="7.476035">
+        <ele>1405.5</ele>
+      </trkpt>
+      <trkpt lat="46.554267" lon="7.476049">
+        <ele>1404.4</ele>
+      </trkpt>
+      <trkpt lat="46.554422" lon="7.476071">
+        <ele>1403.1</ele>
+      </trkpt>
+      <trkpt lat="46.554583" lon="7.476096">
+        <ele>1401.7</ele>
+      </trkpt>
+      <trkpt lat="46.554658" lon="7.476093">
+        <ele>1401.2</ele>
+      </trkpt>
+      <trkpt lat="46.55473" lon="7.476074">
+        <ele>1400.9</ele>
+      </trkpt>
+      <trkpt lat="46.554829" lon="7.47603">
+        <ele>1400.5</ele>
+      </trkpt>
+      <trkpt lat="46.554898" lon="7.47601">
+        <ele>1400.3</ele>
+      </trkpt>
+      <trkpt lat="46.554935" lon="7.476007">
+        <ele>1400.0</ele>
+        <name>Türli, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.554955" lon="7.476005">
+        <ele>1399.9</ele>
+      </trkpt>
+      <trkpt lat="46.555033" lon="7.476021">
+        <ele>1399.5</ele>
+      </trkpt>
+      <trkpt lat="46.555113" lon="7.47601">
+        <ele>1398.8</ele>
+      </trkpt>
+      <trkpt lat="46.555278" lon="7.475964">
+        <ele>1396.8</ele>
+      </trkpt>
+      <trkpt lat="46.555433" lon="7.475933">
+        <ele>1395.3</ele>
+      </trkpt>
+      <trkpt lat="46.555619" lon="7.475903">
+        <ele>1393.1</ele>
+      </trkpt>
+      <trkpt lat="46.555737" lon="7.475876">
+        <ele>1391.9</ele>
+      </trkpt>
+      <trkpt lat="46.555772" lon="7.475862">
+        <ele>1391.5</ele>
+      </trkpt>
+      <trkpt lat="46.555807" lon="7.475844">
+        <ele>1391.0</ele>
+      </trkpt>
+      <trkpt lat="46.555909" lon="7.475796">
+        <ele>1389.9</ele>
+      </trkpt>
+      <trkpt lat="46.555956" lon="7.475787">
+        <ele>1389.5</ele>
+      </trkpt>
+      <trkpt lat="46.556013" lon="7.475804">
+        <ele>1388.8</ele>
+      </trkpt>
+      <trkpt lat="46.556063" lon="7.475834">
+        <ele>1388.5</ele>
+      </trkpt>
+      <trkpt lat="46.556124" lon="7.475843">
+        <ele>1388.3</ele>
+      </trkpt>
+      <trkpt lat="46.556225" lon="7.475812">
+        <ele>1388.1</ele>
+      </trkpt>
+      <trkpt lat="46.556246" lon="7.475805">
+        <ele>1388.1</ele>
+      </trkpt>
+      <trkpt lat="46.556256" lon="7.475801">
+        <ele>1388.1</ele>
+        <name>Tränenbrunnen, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.556368" lon="7.47576">
+        <ele>1388.5</ele>
+      </trkpt>
+      <trkpt lat="46.556448" lon="7.475735">
+        <ele>1388.9</ele>
+      </trkpt>
+      <trkpt lat="46.556518" lon="7.47573">
+        <ele>1389.4</ele>
+      </trkpt>
+      <trkpt lat="46.556604" lon="7.475738">
+        <ele>1389.8</ele>
+      </trkpt>
+      <trkpt lat="46.556682" lon="7.475741">
+        <ele>1389.8</ele>
+      </trkpt>
+      <trkpt lat="46.556781" lon="7.475711">
+        <ele>1389.9</ele>
+      </trkpt>
+      <trkpt lat="46.556899" lon="7.475664">
+        <ele>1390.8</ele>
+      </trkpt>
+      <trkpt lat="46.557002" lon="7.475636">
+        <ele>1391.8</ele>
+      </trkpt>
+      <trkpt lat="46.557061" lon="7.475636">
+        <ele>1392.1</ele>
+      </trkpt>
+      <trkpt lat="46.55708" lon="7.475644">
+        <ele>1392.2</ele>
+        <name>Tränenbrunnen, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.557103" lon="7.475653">
+        <ele>1392.2</ele>
+      </trkpt>
+      <trkpt lat="46.557122" lon="7.475708">
+        <ele>1392.6</ele>
+      </trkpt>
+      <trkpt lat="46.557146" lon="7.475769">
+        <ele>1392.7</ele>
+      </trkpt>
+      <trkpt lat="46.557204" lon="7.475843">
+        <ele>1391.0</ele>
+      </trkpt>
+      <trkpt lat="46.557245" lon="7.475899">
+        <ele>1390.6</ele>
+      </trkpt>
+      <trkpt lat="46.557291" lon="7.475926">
+        <ele>1390.9</ele>
+      </trkpt>
+      <trkpt lat="46.557346" lon="7.475935">
+        <ele>1391.3</ele>
+      </trkpt>
+      <trkpt lat="46.557443" lon="7.475935">
+        <ele>1392.5</ele>
+      </trkpt>
+      <trkpt lat="46.557501" lon="7.475929">
+        <ele>1392.7</ele>
+      </trkpt>
+      <trkpt lat="46.557563" lon="7.475946">
+        <ele>1392.9</ele>
+      </trkpt>
+      <trkpt lat="46.557613" lon="7.475971">
+        <ele>1393.6</ele>
+      </trkpt>
+      <trkpt lat="46.557695" lon="7.475979">
+        <ele>1393.6</ele>
+      </trkpt>
+      <trkpt lat="46.557737" lon="7.475993">
+        <ele>1394.2</ele>
+      </trkpt>
+      <trkpt lat="46.55778" lon="7.476009">
+        <ele>1395.0</ele>
+      </trkpt>
+      <trkpt lat="46.557809" lon="7.475998">
+        <ele>1394.5</ele>
+      </trkpt>
+      <trkpt lat="46.557857" lon="7.475979">
+        <ele>1394.4</ele>
+      </trkpt>
+      <trkpt lat="46.557957" lon="7.475968">
+        <ele>1395.3</ele>
+      </trkpt>
+      <trkpt lat="46.55807" lon="7.475952">
+        <ele>1396.1</ele>
+      </trkpt>
+      <trkpt lat="46.558156" lon="7.475946">
+        <ele>1396.7</ele>
+      </trkpt>
+      <trkpt lat="46.558216" lon="7.475968">
+        <ele>1397.4</ele>
+      </trkpt>
+      <trkpt lat="46.558298" lon="7.475985">
+        <ele>1397.8</ele>
+      </trkpt>
+      <trkpt lat="46.558332" lon="7.47599">
+        <ele>1397.8</ele>
+        <name>Robidog, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.55838" lon="7.475996">
+        <ele>1397.8</ele>
+      </trkpt>
+      <trkpt lat="46.558468" lon="7.476032">
+        <ele>1398.8</ele>
+      </trkpt>
+      <trkpt lat="46.558523" lon="7.476051">
+        <ele>1399.1</ele>
+      </trkpt>
+      <trkpt lat="46.558593" lon="7.476107">
+        <ele>1399.8</ele>
+      </trkpt>
+      <trkpt lat="46.558668" lon="7.476187">
+        <ele>1398.8</ele>
+      </trkpt>
+      <trkpt lat="46.558702" lon="7.476256">
+        <ele>1400.4</ele>
+      </trkpt>
+      <trkpt lat="46.558736" lon="7.4763">
+        <ele>1401.6</ele>
+      </trkpt>
+      <trkpt lat="46.558786" lon="7.476314">
+        <ele>1402.4</ele>
+      </trkpt>
+      <trkpt lat="46.558877" lon="7.476319">
+        <ele>1402.8</ele>
+      </trkpt>
+      <trkpt lat="46.55897" lon="7.476339">
+        <ele>1402.7</ele>
+      </trkpt>
+      <trkpt lat="46.559037" lon="7.476372">
+        <ele>1402.7</ele>
+      </trkpt>
+      <trkpt lat="46.559096" lon="7.476408">
+        <ele>1402.7</ele>
+      </trkpt>
+      <trkpt lat="46.55914" lon="7.476463">
+        <ele>1403.2</ele>
+      </trkpt>
+      <trkpt lat="46.559178" lon="7.476535">
+        <ele>1404.2</ele>
+      </trkpt>
+      <trkpt lat="46.559241" lon="7.476593">
+        <ele>1403.9</ele>
+      </trkpt>
+      <trkpt lat="46.559282" lon="7.476659">
+        <ele>1403.6</ele>
+      </trkpt>
+      <trkpt lat="46.559292" lon="7.47668">
+        <ele>1403.6</ele>
+        <name>Egg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.559338" lon="7.476778">
+        <ele>1403.7</ele>
+      </trkpt>
+      <trkpt lat="46.559374" lon="7.476872">
+        <ele>1404.4</ele>
+      </trkpt>
+      <trkpt lat="46.559402" lon="7.476924">
+        <ele>1404.6</ele>
+      </trkpt>
+      <trkpt lat="46.559437" lon="7.476971">
+        <ele>1403.8</ele>
+      </trkpt>
+      <trkpt lat="46.559467" lon="7.477054">
+        <ele>1403.6</ele>
+      </trkpt>
+      <trkpt lat="46.559507" lon="7.477118">
+        <ele>1403.6</ele>
+      </trkpt>
+      <trkpt lat="46.559576" lon="7.477192">
+        <ele>1404.5</ele>
+      </trkpt>
+      <trkpt lat="46.559621" lon="7.47722">
+        <ele>1404.4</ele>
+      </trkpt>
+      <trkpt lat="46.559659" lon="7.477261">
+        <ele>1404.3</ele>
+      </trkpt>
+      <trkpt lat="46.559745" lon="7.477339">
+        <ele>1404.0</ele>
+      </trkpt>
+      <trkpt lat="46.559787" lon="7.477402">
+        <ele>1404.5</ele>
+      </trkpt>
+      <trkpt lat="46.559852" lon="7.477526">
+        <ele>1404.1</ele>
+      </trkpt>
+      <trkpt lat="46.559867" lon="7.477576">
+        <ele>1404.3</ele>
+      </trkpt>
+      <trkpt lat="46.559882" lon="7.477634">
+        <ele>1404.6</ele>
+      </trkpt>
+      <trkpt lat="46.559901" lon="7.477667">
+        <ele>1404.2</ele>
+      </trkpt>
+      <trkpt lat="46.559922" lon="7.477728">
+        <ele>1404.2</ele>
+      </trkpt>
+      <trkpt lat="46.559956" lon="7.477819">
+        <ele>1404.9</ele>
+      </trkpt>
+      <trkpt lat="46.559998" lon="7.477849">
+        <ele>1404.8</ele>
+      </trkpt>
+      <trkpt lat="46.56003" lon="7.477883">
+        <ele>1404.9</ele>
+      </trkpt>
+      <trkpt lat="46.560061" lon="7.47793">
+        <ele>1405.3</ele>
+      </trkpt>
+      <trkpt lat="46.560105" lon="7.477979">
+        <ele>1405.3</ele>
+      </trkpt>
+      <trkpt lat="46.560156" lon="7.478032">
+        <ele>1405.0</ele>
+      </trkpt>
+      <trkpt lat="46.560215" lon="7.478062">
+        <ele>1404.6</ele>
+      </trkpt>
+      <trkpt lat="46.56028" lon="7.478084">
+        <ele>1403.8</ele>
+      </trkpt>
+      <trkpt lat="46.560362" lon="7.478106">
+        <ele>1401.9</ele>
+      </trkpt>
+      <trkpt lat="46.560415" lon="7.478115">
+        <ele>1401.4</ele>
+      </trkpt>
+      <trkpt lat="46.56047" lon="7.478142">
+        <ele>1401.0</ele>
+      </trkpt>
+      <trkpt lat="46.560546" lon="7.478211">
+        <ele>1399.9</ele>
+      </trkpt>
+      <trkpt lat="46.560593" lon="7.478259">
+        <ele>1399.5</ele>
+        <name>Egg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.560609" lon="7.478275">
+        <ele>1399.3</ele>
+      </trkpt>
+      <trkpt lat="46.560685" lon="7.47833">
+        <ele>1398.6</ele>
+      </trkpt>
+      <trkpt lat="46.560782" lon="7.47841">
+        <ele>1397.2</ele>
+      </trkpt>
+      <trkpt lat="46.560843" lon="7.478468">
+        <ele>1396.5</ele>
+      </trkpt>
+      <trkpt lat="46.560879" lon="7.478532">
+        <ele>1395.8</ele>
+      </trkpt>
+      <trkpt lat="46.560942" lon="7.478615">
+        <ele>1395.3</ele>
+      </trkpt>
+      <trkpt lat="46.561001" lon="7.478673">
+        <ele>1395.1</ele>
+      </trkpt>
+      <trkpt lat="46.561012" lon="7.478682">
+        <ele>1395.0</ele>
+        <name>Egg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.561093" lon="7.47875">
+        <ele>1393.7</ele>
+      </trkpt>
+      <trkpt lat="46.561197" lon="7.478827">
+        <ele>1392.7</ele>
+      </trkpt>
+      <trkpt lat="46.561306" lon="7.47891">
+        <ele>1392.2</ele>
+      </trkpt>
+      <trkpt lat="46.561363" lon="7.478979">
+        <ele>1392.3</ele>
+      </trkpt>
+      <trkpt lat="46.561435" lon="7.479073">
+        <ele>1392.2</ele>
+      </trkpt>
+      <trkpt lat="46.5615" lon="7.47917">
+        <ele>1392.2</ele>
+      </trkpt>
+      <trkpt lat="46.561576" lon="7.479264">
+        <ele>1391.9</ele>
+      </trkpt>
+      <trkpt lat="46.56166" lon="7.479383">
+        <ele>1390.7</ele>
+      </trkpt>
+      <trkpt lat="46.561734" lon="7.479504">
+        <ele>1390.2</ele>
+      </trkpt>
+      <trkpt lat="46.561801" lon="7.479612">
+        <ele>1389.3</ele>
+      </trkpt>
+      <trkpt lat="46.561888" lon="7.479753">
+        <ele>1388.7</ele>
+      </trkpt>
+      <trkpt lat="46.561947" lon="7.479858">
+        <ele>1387.6</ele>
+      </trkpt>
+      <trkpt lat="46.562008" lon="7.47999">
+        <ele>1385.6</ele>
+      </trkpt>
+      <trkpt lat="46.562046" lon="7.480084">
+        <ele>1384.3</ele>
+      </trkpt>
+      <trkpt lat="46.562063" lon="7.480172">
+        <ele>1384.1</ele>
+      </trkpt>
+      <trkpt lat="46.56208" lon="7.480225">
+        <ele>1383.8</ele>
+      </trkpt>
+      <trkpt lat="46.562113" lon="7.48028">
+        <ele>1383.8</ele>
+      </trkpt>
+      <trkpt lat="46.562149" lon="7.480352">
+        <ele>1384.2</ele>
+      </trkpt>
+      <trkpt lat="46.562181" lon="7.480391">
+        <ele>1384.1</ele>
+      </trkpt>
+      <trkpt lat="46.562242" lon="7.480446">
+        <ele>1383.8</ele>
+      </trkpt>
+      <trkpt lat="46.56232" lon="7.480507">
+        <ele>1383.4</ele>
+      </trkpt>
+      <trkpt lat="46.562349" lon="7.480545">
+        <ele>1383.2</ele>
+      </trkpt>
+      <trkpt lat="46.562411" lon="7.480614">
+        <ele>1383.0</ele>
+      </trkpt>
+      <trkpt lat="46.562482" lon="7.480692">
+        <ele>1382.6</ele>
+      </trkpt>
+      <trkpt lat="46.562537" lon="7.480736">
+        <ele>1382.2</ele>
+      </trkpt>
+      <trkpt lat="46.562642" lon="7.480791">
+        <ele>1381.2</ele>
+      </trkpt>
+      <trkpt lat="46.562731" lon="7.480835">
+        <ele>1380.3</ele>
+      </trkpt>
+      <trkpt lat="46.562794" lon="7.480891">
+        <ele>1380.0</ele>
+      </trkpt>
+      <trkpt lat="46.56288" lon="7.480987">
+        <ele>1379.5</ele>
+      </trkpt>
+      <trkpt lat="46.562939" lon="7.481048">
+        <ele>1378.7</ele>
+      </trkpt>
+      <trkpt lat="46.562998" lon="7.481101">
+        <ele>1378.5</ele>
+      </trkpt>
+      <trkpt lat="46.563087" lon="7.481164">
+        <ele>1377.8</ele>
+      </trkpt>
+      <trkpt lat="46.563152" lon="7.481228">
+        <ele>1377.4</ele>
+      </trkpt>
+      <trkpt lat="46.563165" lon="7.481243">
+        <ele>1377.4</ele>
+        <name>Egg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.563228" lon="7.481316">
+        <ele>1377.2</ele>
+      </trkpt>
+      <trkpt lat="46.563264" lon="7.481355">
+        <ele>1377.3</ele>
+      </trkpt>
+      <trkpt lat="46.563279" lon="7.481382">
+        <ele>1377.5</ele>
+      </trkpt>
+      <trkpt lat="46.563291" lon="7.481427">
+        <ele>1377.6</ele>
+      </trkpt>
+      <trkpt lat="46.563435" lon="7.48149">
+        <ele>1375.2</ele>
+      </trkpt>
+      <trkpt lat="46.563521" lon="7.481537">
+        <ele>1373.5</ele>
+      </trkpt>
+      <trkpt lat="46.563679" lon="7.481651">
+        <ele>1368.9</ele>
+      </trkpt>
+      <trkpt lat="46.563759" lon="7.481717">
+        <ele>1366.4</ele>
+      </trkpt>
+      <trkpt lat="46.563862" lon="7.481819">
+        <ele>1363.0</ele>
+      </trkpt>
+      <trkpt lat="46.563982" lon="7.481949">
+        <ele>1357.9</ele>
+      </trkpt>
+      <trkpt lat="46.564085" lon="7.482062">
+        <ele>1354.9</ele>
+      </trkpt>
+      <trkpt lat="46.564147" lon="7.482151">
+        <ele>1352.8</ele>
+      </trkpt>
+      <trkpt lat="46.56421" lon="7.482258">
+        <ele>1350.5</ele>
+      </trkpt>
+      <trkpt lat="46.564303" lon="7.482427">
+        <ele>1346.9</ele>
+      </trkpt>
+      <trkpt lat="46.564395" lon="7.482601">
+        <ele>1343.4</ele>
+      </trkpt>
+      <trkpt lat="46.564456" lon="7.482684">
+        <ele>1341.4</ele>
+      </trkpt>
+      <trkpt lat="46.564517" lon="7.482744">
+        <ele>1340.1</ele>
+      </trkpt>
+      <trkpt lat="46.564617" lon="7.482813">
+        <ele>1337.8</ele>
+      </trkpt>
+      <trkpt lat="46.564735" lon="7.482893">
+        <ele>1335.9</ele>
+        <name>Egg, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.564735" lon="7.482894">
+        <ele>1335.8</ele>
+      </trkpt>
+      <trkpt lat="46.564844" lon="7.482971">
+        <ele>1334.3</ele>
+      </trkpt>
+      <trkpt lat="46.564916" lon="7.483037">
+        <ele>1333.8</ele>
+      </trkpt>
+      <trkpt lat="46.565032" lon="7.483151">
+        <ele>1332.2</ele>
+      </trkpt>
+      <trkpt lat="46.56516" lon="7.483286">
+        <ele>1330.5</ele>
+      </trkpt>
+      <trkpt lat="46.56524" lon="7.483361">
+        <ele>1329.2</ele>
+      </trkpt>
+      <trkpt lat="46.565329" lon="7.483421">
+        <ele>1328.4</ele>
+      </trkpt>
+      <trkpt lat="46.565383" lon="7.483485">
+        <ele>1327.6</ele>
+      </trkpt>
+      <trkpt lat="46.565436" lon="7.483584">
+        <ele>1326.9</ele>
+      </trkpt>
+      <trkpt lat="46.565514" lon="7.483761">
+        <ele>1325.1</ele>
+      </trkpt>
+      <trkpt lat="46.565592" lon="7.483883">
+        <ele>1324.4</ele>
+      </trkpt>
+      <trkpt lat="46.565693" lon="7.48401">
+        <ele>1323.1</ele>
+      </trkpt>
+      <trkpt lat="46.565761" lon="7.484095">
+        <ele>1322.0</ele>
+      </trkpt>
+      <trkpt lat="46.565832" lon="7.484189">
+        <ele>1320.7</ele>
+      </trkpt>
+      <trkpt lat="46.565923" lon="7.484311">
+        <ele>1319.7</ele>
+      </trkpt>
+      <trkpt lat="46.566011" lon="7.484421">
+        <ele>1315.9</ele>
+      </trkpt>
+      <trkpt lat="46.566091" lon="7.484493">
+        <ele>1314.8</ele>
+      </trkpt>
+      <trkpt lat="46.566161" lon="7.48453">
+        <ele>1312.3</ele>
+        <name>Egg, Diemtigen</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.566186" lon="7.484543">
+        <ele>1311.4</ele>
+      </trkpt>
+      <trkpt lat="46.566285" lon="7.484582">
+        <ele>1308.4</ele>
+      </trkpt>
+      <trkpt lat="46.566353" lon="7.484615">
+        <ele>1306.8</ele>
+      </trkpt>
+      <trkpt lat="46.566433" lon="7.484673">
+        <ele>1304.2</ele>
+      </trkpt>
+      <trkpt lat="46.566526" lon="7.484753">
+        <ele>1302.4</ele>
+      </trkpt>
+      <trkpt lat="46.566582" lon="7.484808">
+        <ele>1300.5</ele>
+      </trkpt>
+      <trkpt lat="46.566703" lon="7.484935">
+        <ele>1297.6</ele>
+      </trkpt>
+      <trkpt lat="46.56681" lon="7.485046">
+        <ele>1294.5</ele>
+      </trkpt>
+      <trkpt lat="46.566882" lon="7.485143">
+        <ele>1292.0</ele>
+      </trkpt>
+      <trkpt lat="46.566947" lon="7.485259">
+        <ele>1289.2</ele>
+      </trkpt>
+      <trkpt lat="46.566989" lon="7.48533">
+        <ele>1287.5</ele>
+      </trkpt>
+      <trkpt lat="46.567025" lon="7.485375">
+        <ele>1285.6</ele>
+      </trkpt>
+      <trkpt lat="46.567076" lon="7.485402">
+        <ele>1284.3</ele>
+      </trkpt>
+      <trkpt lat="46.5672" lon="7.485447">
+        <ele>1280.8</ele>
+      </trkpt>
+      <trkpt lat="46.567333" lon="7.485491">
+        <ele>1278.2</ele>
+      </trkpt>
+      <trkpt lat="46.567398" lon="7.485524">
+        <ele>1276.4</ele>
+      </trkpt>
+      <trkpt lat="46.567463" lon="7.485588">
+        <ele>1275.4</ele>
+      </trkpt>
+      <trkpt lat="46.567547" lon="7.485698">
+        <ele>1272.8</ele>
+      </trkpt>
+      <trkpt lat="46.567611" lon="7.485767">
+        <ele>1270.9</ele>
+      </trkpt>
+      <trkpt lat="46.567676" lon="7.485822">
+        <ele>1269.1</ele>
+      </trkpt>
+      <trkpt lat="46.567764" lon="7.485889">
+        <ele>1266.8</ele>
+      </trkpt>
+      <trkpt lat="46.567832" lon="7.485939">
+        <ele>1265.5</ele>
+      </trkpt>
+      <trkpt lat="46.56792" lon="7.48601">
+        <ele>1263.5</ele>
+      </trkpt>
+      <trkpt lat="46.567988" lon="7.486055">
+        <ele>1262.1</ele>
+      </trkpt>
+      <trkpt lat="46.568106" lon="7.486115">
+        <ele>1259.7</ele>
+      </trkpt>
+      <trkpt lat="46.568165" lon="7.486151">
+        <ele>1259.4</ele>
+      </trkpt>
+      <trkpt lat="46.568222" lon="7.486198">
+        <ele>1258.7</ele>
+      </trkpt>
+      <trkpt lat="46.5683" lon="7.48629">
+        <ele>1257.7</ele>
+      </trkpt>
+      <trkpt lat="46.568403" lon="7.4864">
+        <ele>1256.4</ele>
+      </trkpt>
+      <trkpt lat="46.568496" lon="7.486477">
+        <ele>1255.8</ele>
+      </trkpt>
+      <trkpt lat="46.568569" lon="7.486522">
+        <ele>1256.2</ele>
+      </trkpt>
+      <trkpt lat="46.568645" lon="7.486555">
+        <ele>1256.4</ele>
+      </trkpt>
+      <trkpt lat="46.568715" lon="7.486583">
+        <ele>1255.1</ele>
+      </trkpt>
+      <trkpt lat="46.568771" lon="7.486613">
+        <ele>1254.4</ele>
+      </trkpt>
+      <trkpt lat="46.568841" lon="7.486663">
+        <ele>1252.6</ele>
+      </trkpt>
+      <trkpt lat="46.568959" lon="7.486743">
+        <ele>1249.9</ele>
+      </trkpt>
+      <trkpt lat="46.569041" lon="7.486801">
+        <ele>1248.7</ele>
+      </trkpt>
+      <trkpt lat="46.569107" lon="7.486856">
+        <ele>1247.8</ele>
+      </trkpt>
+      <trkpt lat="46.569161" lon="7.486898">
+        <ele>1247.0</ele>
+      </trkpt>
+      <trkpt lat="46.569197" lon="7.486909">
+        <ele>1246.6</ele>
+      </trkpt>
+      <trkpt lat="46.569235" lon="7.4869">
+        <ele>1246.3</ele>
+      </trkpt>
+      <trkpt lat="46.569298" lon="7.486865">
+        <ele>1245.4</ele>
+      </trkpt>
+      <trkpt lat="46.569397" lon="7.486801">
+        <ele>1244.9</ele>
+      </trkpt>
+      <trkpt lat="46.569479" lon="7.48673">
+        <ele>1243.6</ele>
+      </trkpt>
+      <trkpt lat="46.569582" lon="7.486655">
+        <ele>1242.1</ele>
+      </trkpt>
+      <trkpt lat="46.56964" lon="7.486626">
+        <ele>1241.6</ele>
+        <name>Egg, Diemtigen</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.56966" lon="7.486616">
+        <ele>1241.4</ele>
+      </trkpt>
+      <trkpt lat="46.569732" lon="7.4866">
+        <ele>1240.2</ele>
+      </trkpt>
+      <trkpt lat="46.569812" lon="7.486606">
+        <ele>1239.7</ele>
+      </trkpt>
+      <trkpt lat="46.56989" lon="7.486642">
+        <ele>1238.4</ele>
+      </trkpt>
+      <trkpt lat="46.569951" lon="7.486686">
+        <ele>1238.2</ele>
+      </trkpt>
+      <trkpt lat="46.570016" lon="7.48676">
+        <ele>1238.0</ele>
+      </trkpt>
+      <trkpt lat="46.570081" lon="7.486744">
+        <ele>1237.0</ele>
+      </trkpt>
+      <trkpt lat="46.57014" lon="7.48673">
+        <ele>1236.5</ele>
+      </trkpt>
+      <trkpt lat="46.570193" lon="7.486708">
+        <ele>1235.8</ele>
+      </trkpt>
+      <trkpt lat="46.570267" lon="7.486672">
+        <ele>1235.2</ele>
+      </trkpt>
+      <trkpt lat="46.570223" lon="7.486656">
+        <ele>1235.6</ele>
+      </trkpt>
+      <trkpt lat="46.570185" lon="7.486622">
+        <ele>1235.6</ele>
+      </trkpt>
+      <trkpt lat="46.570134" lon="7.486548">
+        <ele>1234.9</ele>
+      </trkpt>
+      <trkpt lat="46.570054" lon="7.486424">
+        <ele>1233.9</ele>
+      </trkpt>
+      <trkpt lat="46.56998" lon="7.486302">
+        <ele>1232.9</ele>
+      </trkpt>
+      <trkpt lat="46.569936" lon="7.486192">
+        <ele>1232.5</ele>
+      </trkpt>
+      <trkpt lat="46.569911" lon="7.486065">
+        <ele>1231.4</ele>
+      </trkpt>
+      <trkpt lat="46.569908" lon="7.485888">
+        <ele>1231.2</ele>
+      </trkpt>
+      <trkpt lat="46.56989" lon="7.485772">
+        <ele>1230.6</ele>
+      </trkpt>
+      <trkpt lat="46.569851" lon="7.485656">
+        <ele>1230.1</ele>
+      </trkpt>
+      <trkpt lat="46.569771" lon="7.485515">
+        <ele>1229.9</ele>
+      </trkpt>
+      <trkpt lat="46.569655" lon="7.485322">
+        <ele>1229.8</ele>
+      </trkpt>
+      <trkpt lat="46.569497" lon="7.485051">
+        <ele>1230.5</ele>
+      </trkpt>
+      <trkpt lat="46.569454" lon="7.484978">
+        <ele>1230.8</ele>
+        <name>Eggli, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.569443" lon="7.48496">
+        <ele>1230.9</ele>
+      </trkpt>
+      <trkpt lat="46.569352" lon="7.484808">
+        <ele>1231.3</ele>
+      </trkpt>
+      <trkpt lat="46.569276" lon="7.484661">
+        <ele>1231.2</ele>
+      </trkpt>
+      <trkpt lat="46.569169" lon="7.484435">
+        <ele>1230.0</ele>
+      </trkpt>
+      <trkpt lat="46.569048" lon="7.484186">
+        <ele>1229.3</ele>
+      </trkpt>
+      <trkpt lat="46.569028" lon="7.484146">
+        <ele>1229.3</ele>
+      </trkpt>
+      <trkpt lat="46.568954" lon="7.48399">
+        <ele>1229.4</ele>
+      </trkpt>
+      <trkpt lat="46.568935" lon="7.483952">
+        <ele>1229.4</ele>
+      </trkpt>
+      <trkpt lat="46.568869" lon="7.483822">
+        <ele>1229.2</ele>
+      </trkpt>
+      <trkpt lat="46.568806" lon="7.483736">
+        <ele>1229.2</ele>
+      </trkpt>
+      <trkpt lat="46.568713" lon="7.483651">
+        <ele>1229.2</ele>
+      </trkpt>
+      <trkpt lat="46.568593" lon="7.483562">
+        <ele>1229.0</ele>
+      </trkpt>
+      <trkpt lat="46.568532" lon="7.483493">
+        <ele>1228.8</ele>
+      </trkpt>
+      <trkpt lat="46.56846" lon="7.483369">
+        <ele>1228.2</ele>
+      </trkpt>
+      <trkpt lat="46.568344" lon="7.483156">
+        <ele>1227.5</ele>
+      </trkpt>
+      <trkpt lat="46.568263" lon="7.483008">
+        <ele>1227.3</ele>
+        <name>Grimmialp, Schwenden im Diemtigtal</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

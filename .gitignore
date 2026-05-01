@@ -1,0 +1,20 @@
+.DS_Store
+Thumbs.db
+
+# Editor and workspace files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Download leftovers
+download.gpx
+route.gpx
+track.gpx
+tour.gpx
