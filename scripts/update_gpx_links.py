@@ -193,23 +193,23 @@ def build_map_cells(markdown_file, local_gpx_path):
     abs_gpx_path = os.path.normpath(
         os.path.join(os.path.dirname(markdown_file), local_gpx_path)
     )
-    local_gpx_cell = f"[GPX]({local_gpx_path})"
     cdn_url = cdn_url_for_local_gpx(local_gpx_path)
+    gpx_cell = f"[GPX]({cdn_url})"
 
     if not os.path.exists(abs_gpx_path):
         print(f"  Missing GPX file: {os.path.relpath(abs_gpx_path, repo_root)}")
-        return "offen", "offen", local_gpx_cell
+        return "offen", "offen", gpx_cell
 
     try:
         root = ET.parse(abs_gpx_path).getroot()
     except ET.ParseError as error:
         print(f"  Invalid GPX file {os.path.relpath(abs_gpx_path, repo_root)}: {error}")
-        return "offen", "offen", local_gpx_cell
+        return "offen", "offen", gpx_cell
 
     bounds = get_bounds(root)
     if bounds is None:
         print(f"  No coordinates in GPX file: {os.path.relpath(abs_gpx_path, repo_root)}")
-        return "offen", "offen", local_gpx_cell
+        return "offen", "offen", gpx_cell
 
     minlat, maxlat, minlon, maxlon = bounds
     center_lat = (minlat + maxlat) / 2
@@ -224,7 +224,7 @@ def build_map_cells(markdown_file, local_gpx_path):
         f"&center={east:.2f},{north:.2f}&z={zoom})"
     )
 
-    return swisstopo, karte, local_gpx_cell
+    return swisstopo, karte, gpx_cell
 
 
 def normalize_data_row(markdown_file, header, cells):

@@ -6,11 +6,13 @@ Sommerwanderungen für Magic-Pass-Destinationen, mit GPX-Dateien und Links zu de
 
 Die Sammlung hilft bei der Auswahl von Wanderungen rund um Magic-Pass-Sommerdestinationen. Pro Destination sind in der Regel zwei bis drei passende Touren aufgeführt.
 
+Stand der Recherche: Mai 2026.
+
 ## Kriterien
 
 - Distanz: ca. 5-20 km
 - bevorzugt offizielle Webseiten der Bahnbetreiber oder Destinationen
-- wenn möglich mit lokaler GPX-Datei
+- wenn möglich mit direktem GPX-Download
 - zusätzliche Kartenlinks zu swisstopo und map.geo.admin.ch, wenn eine GPX-Datei vorhanden ist
 - Rundwanderungen bevorzugt
 - keine unnötig alpinen oder heiklen Routen ohne Hinweis
@@ -18,6 +20,15 @@ Die Sammlung hilft bei der Auswahl von Wanderungen rund um Magic-Pass-Sommerdest
 ## Quellen
 
 Jede Wanderung verweist auf die ursprüngliche Quelle. Wenn der Bahnbetreiber keine detaillierte Tourenseite oder GPX-Datei anbietet, sind offizielle regionale Tourismusquellen verlinkt.
+
+Die Rechte an Tourenbeschreibungen, Karten, GPX-Daten und weiteren Inhalten liegen bei den jeweiligen Originalquellen. Dieses Repository ist eine kuratierte Übersicht mit Quellenangaben.
+
+## Spalten erklärt
+
+- `Swisstopo`: öffnet die GPX-Datei in der swisstopo-App
+- `Karte`: öffnet die Route auf map.geo.admin.ch
+- `GPX`: direkter Download der GPX-Datei
+- `Quelle`: ursprüngliche Webseite der Route oder Destination
 
 ## Vor der Tour prüfen
 
@@ -32,6 +43,8 @@ Bitte prüfe vor jeder Wanderung die aktuellen Informationen direkt bei der Berg
 - Ticket- und Transportinformationen
 
 Die Angaben hier sind eine Planungshilfe und ersetzen keine aktuelle Tourenplanung.
+
+Alle Angaben ohne Gewähr. Nutzung der GPX-Dateien, Kartenlinks und Routenvorschläge auf eigene Verantwortung.
 
 ## Destinationen
 
@@ -55,3 +68,9 @@ Die Angaben hier sind eine Planungshilfe und ersetzen keine aktuelle Tourenplanu
 destinations/<kanton-oder-land>.md
 gpx/<kanton-oder-land>/<destination>/<wanderung>.gpx
 ```
+
+## Mitmachen
+
+Hinweise zum Ergänzen neuer Touren stehen in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+Hinweise zu Quellen, Rechten und Gewähr stehen in [NOTICE.md](NOTICE.md).
