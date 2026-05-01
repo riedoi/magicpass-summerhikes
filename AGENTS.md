@@ -40,9 +40,13 @@ Jede Destination soll enthalten:
 Standardtabelle:
 
 ```markdown
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
+| Wanderung | Distanz | Dauer | Schwierigkeit | Swisstopo | Karte | GPX | Quelle |
+|---|---:|---:|---|---|---|---|---|
 ```
+
+- `Swisstopo`: Link zur swisstopo-App, falls eine lokale GPX-Datei vorhanden ist, sonst `offen`.
+- `Karte`: Link zu map.geo.admin.ch mit GPX-Layer, falls eine lokale GPX-Datei vorhanden ist, sonst `offen`.
+- `GPX`: relativer Link zur lokalen GPX-Datei, sonst `offen`.
 
 Aktualitätshinweis:
 

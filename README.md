@@ -11,6 +11,7 @@ Die Sammlung hilft bei der Auswahl von Wanderungen rund um Magic-Pass-Sommerdest
 - Distanz: ca. 5-20 km
 - bevorzugt offizielle Webseiten der Bahnbetreiber oder Destinationen
 - wenn möglich mit lokaler GPX-Datei
+- zusätzliche Kartenlinks zu swisstopo und map.geo.admin.ch, wenn eine GPX-Datei vorhanden ist
 - Rundwanderungen bevorzugt
 - keine unnötig alpinen oder heiklen Routen ohne Hinweis
 
