@@ -24,11 +24,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Areuse-Schlucht | 12 km | 3 h 7 | familienfreundlich / mittelschwer | [GPX](../gpx/neuenburg/robella-val-de-travers/areuse-schlucht.gpx) | [J3L / Neuenburg Tourismus](https://www.j3l.ch/de/V1571/erlebnisse/sport-freizeit/wandern/areuse-schlucht) |
-| Poëta-Raisse-Schluchten | 19 km | 5 h 25 | sportlich / anspruchsvoll | [GPX](../gpx/neuenburg/robella-val-de-travers/poeta-raisse-schluchten.gpx) | [J3L / Neuenburg Tourismus](https://www.j3l.ch/de/V1605/erlebnisse/sport-freizeit/wandern/poeta-raisse-schluchten) |
-| Creux du Van | 14 km | 4 h 32 | sportlich / sehr anspruchsvoll | [GPX](../gpx/neuenburg/robella-val-de-travers/creux-du-van.gpx) | [J3L / Neuenburg Tourismus](https://www.j3l.ch/de/V1600/erlebnisse/sport-freizeit/wandern/creux-du-van) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Areuse-Schlucht | 12 km | 3 h 7 | familienfreundlich / mittelschwer | [GPX](../gpx/neuenburg/robella-val-de-travers/areuse-schlucht.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/neuenburg/robella-val-de-travers/areuse-schlucht.gpx&center=2549896.21,1200853.21&z=4) | [J3L / Neuenburg Tourismus](https://www.j3l.ch/de/V1571/erlebnisse/sport-freizeit/wandern/areuse-schlucht) |
+| Poëta-Raisse-Schluchten | 19 km | 5 h 25 | sportlich / anspruchsvoll | [GPX](../gpx/neuenburg/robella-val-de-travers/poeta-raisse-schluchten.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/neuenburg/robella-val-de-travers/poeta-raisse-schluchten.gpx&center=2534763.98,1193378.74&z=5) | [J3L / Neuenburg Tourismus](https://www.j3l.ch/de/V1605/erlebnisse/sport-freizeit/wandern/poeta-raisse-schluchten) |
+| Creux du Van | 14 km | 4 h 32 | sportlich / sehr anspruchsvoll | [GPX](../gpx/neuenburg/robella-val-de-travers/creux-du-van.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/neuenburg/robella-val-de-travers/creux-du-van.gpx&center=2546430.14,1199327.73&z=6) | [J3L / Neuenburg Tourismus](https://www.j3l.ch/de/V1600/erlebnisse/sport-freizeit/wandern/creux-du-van) |
 
 ### Hinweise
 

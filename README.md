@@ -34,19 +34,19 @@ Die Angaben hier sind eine Planungshilfe und ersetzen keine aktuelle Tourenplanu
 
 ## Destinationen
 
-| Kanton / Land | Datei |
-|---|---|
-| Wallis | [wallis.md](destinations/wallis.md) |
-| Bern | [bern.md](destinations/bern.md) |
-| Freiburg | [freiburg.md](destinations/freiburg.md) |
-| Waadt | [waadt.md](destinations/waadt.md) |
-| Luzern | [luzern.md](destinations/luzern.md) |
-| Obwalden | [obwalden.md](destinations/obwalden.md) |
-| Neuenburg | [neuenburg.md](destinations/neuenburg.md) |
-| Nidwalden | [nidwalden.md](destinations/nidwalden.md) |
-| Schwyz | [schwyz.md](destinations/schwyz.md) |
-| Frankreich | [frankreich.md](destinations/frankreich.md) |
-| Italien | [italien.md](destinations/italien.md) |
+| Kanton / Land | Destinationen |
+|---|---:|
+| [Wallis](destinations/wallis.md) | 15 |
+| [Bern](destinations/bern.md) | 8 |
+| [Freiburg](destinations/freiburg.md) | 5 |
+| [Waadt](destinations/waadt.md) | 3 |
+| [Luzern](destinations/luzern.md) | 2 |
+| [Obwalden](destinations/obwalden.md) | 1 |
+| [Neuenburg](destinations/neuenburg.md) | 1 |
+| [Nidwalden](destinations/nidwalden.md) | 1 |
+| [Schwyz](destinations/schwyz.md) | 1 |
+| [Frankreich](destinations/frankreich.md) | 8 |
+| [Italien](destinations/italien.md) | 2 |
 
 ## Struktur
 

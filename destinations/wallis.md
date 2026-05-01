@@ -38,11 +38,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Fünf-Teichetour | 5 km | 1 Std | einfach | [GPX](../gpx/wallis/anzere/fuenf-teichetour.gpx) | [Anzère Tourismus](https://www.anzere.ch/de/aktivitaten/aktivitaten-im-sommer/wanderung-und-trail/funf-teichetour/) |
-| Dahu Tour | 10 km | 3 Std | mittel | [GPX](../gpx/wallis/anzere/dahu-tour.gpx) | [Anzère Tourismus](https://www.anzere.ch/de/aktivitaten/aktivitaten-im-sommer/wanderung-und-trail/dahu-tour/) |
-| Die Almentour | 16,7 km | 4 Std | mittel | [GPX](../gpx/wallis/anzere/almentour.gpx) | [Anzère Tourismus](https://www.anzere.ch/de/aktivitaten/aktivitaten-im-sommer/wanderung-und-trail/die-almentour-1616) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Fünf-Teichetour | 5 km | 1 Std | einfach | [GPX](../gpx/wallis/anzere/fuenf-teichetour.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/anzere/fuenf-teichetour.gpx&center=2596130.83,1125455.82&z=6) | [Anzère Tourismus](https://www.anzere.ch/de/aktivitaten/aktivitaten-im-sommer/wanderung-und-trail/funf-teichetour/) |
+| Dahu Tour | 10 km | 3 Std | mittel | [GPX](../gpx/wallis/anzere/dahu-tour.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/anzere/dahu-tour.gpx&center=2596722.28,1128036.80&z=6) | [Anzère Tourismus](https://www.anzere.ch/de/aktivitaten/aktivitaten-im-sommer/wanderung-und-trail/dahu-tour/) |
+| Die Almentour | 16,7 km | 4 Std | mittel | [GPX](../gpx/wallis/anzere/almentour.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/anzere/almentour.gpx&center=2597734.14,1128958.99&z=5) | [Anzère Tourismus](https://www.anzere.ch/de/aktivitaten/aktivitaten-im-sommer/wanderung-und-trail/die-almentour-1616) |
 
 ### Hinweise
 
@@ -63,11 +63,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Wildlehrpfad Belalp - Blatten | 6,68 km | 2 h 10 min | leicht | [GPX](../gpx/wallis/blatten-belalp/wildlehrpfad-belalp-blatten.gpx) | [Blatten-Belalp Tourismus](https://www.belalp.ch/de/tour/wildlehrpfad-belalp-blatten) |
-| Rundwanderung Massegga Hängebrücke | 6,45 km | 2 h 5 min | leicht | [GPX](../gpx/wallis/blatten-belalp/rundwanderung-massegga-haengebruecke.gpx) | [Blatten-Belalp Tourismus](https://www.belalp.ch/de/tour/rundwanderung-massegga-haengebruecke) |
-| Hängebrücke Riederalp - Belalp | 11,56 km | 4 h 30 min | mittel | [GPX](../gpx/wallis/blatten-belalp/haengebruecke-riederalp-belalp.gpx) | [Blatten-Belalp Tourismus](https://www.belalp.ch/de/tour/haengebruecke-riederalp-belalp) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Wildlehrpfad Belalp - Blatten | 6,68 km | 2 h 10 min | leicht | [GPX](../gpx/wallis/blatten-belalp/wildlehrpfad-belalp-blatten.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/blatten-belalp/wildlehrpfad-belalp-blatten.gpx&center=2642136.46,1135547.75&z=6) | [Blatten-Belalp Tourismus](https://www.belalp.ch/de/tour/wildlehrpfad-belalp-blatten) |
+| Rundwanderung Massegga Hängebrücke | 6,45 km | 2 h 5 min | leicht | [GPX](../gpx/wallis/blatten-belalp/rundwanderung-massegga-haengebruecke.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/blatten-belalp/rundwanderung-massegga-haengebruecke.gpx&center=2643175.67,1131078.91&z=6) | [Blatten-Belalp Tourismus](https://www.belalp.ch/de/tour/rundwanderung-massegga-haengebruecke) |
+| Hängebrücke Riederalp - Belalp | 11,56 km | 4 h 30 min | mittel | [GPX](../gpx/wallis/blatten-belalp/haengebruecke-riederalp-belalp.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/blatten-belalp/haengebruecke-riederalp-belalp.gpx&center=2643495.88,1137196.00&z=5) | [Blatten-Belalp Tourismus](https://www.belalp.ch/de/tour/haengebruecke-riederalp-belalp) |
 
 ### Hinweise
 
@@ -89,11 +89,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Kapellenweg | offen | kleine Runde 2 h / grosse Runde 4 h 30 min | mittel | offen | [Eischoll Tourismus](https://www.eischoll.ch/aktivitaeten/kapellenweg/) |
-| Wolfspfad | offen | 2 h 25 min | mittel | offen | [Eischoll Tourismus](https://www.eischoll.ch/aktivitaeten/wolfspfad/) |
-| Lichtblumenweg | offen | ca. 2 h | einfach | offen | [Eischoll Tourismus](https://www.eischoll.ch/aktivitaeten/lichtblumenweg/) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Kapellenweg | offen | kleine Runde 2 h / grosse Runde 4 h 30 min | mittel | offen | - | [Eischoll Tourismus](https://www.eischoll.ch/aktivitaeten/kapellenweg/) |
+| Wolfspfad | offen | 2 h 25 min | mittel | offen | - | [Eischoll Tourismus](https://www.eischoll.ch/aktivitaeten/wolfspfad/) |
+| Lichtblumenweg | offen | ca. 2 h | einfach | offen | - | [Eischoll Tourismus](https://www.eischoll.ch/aktivitaeten/lichtblumenweg/) |
 
 ### Hinweise
 
@@ -116,11 +116,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Evolène - Euseigne | 10.8 km | 3h00min | leicht | [GPX](../gpx/wallis/espace-dent-blanche-evolene/evolene-euseigne.gpx) | [Val d'Hérens Tourismus](https://www.valdherens.ch/de/evolene-euseigne-fp40345) |
-| Weg durch die Dörfer von Evolène | 11 km | 3h25min | mittel | [GPX](../gpx/wallis/espace-dent-blanche-evolene/weg-durch-die-doerfer-von-evolene.gpx) | [Val d'Hérens Tourismus](https://www.valdherens.ch/de/weg-durch-die-dorfer-von-evolene-fp50419) |
-| Evolène - Lac d'Arbey - Evolène | 7.6 km | 3h00min | mittel | [GPX](../gpx/wallis/espace-dent-blanche-evolene/evolene-lac-d-arbey-evolene.gpx) | [Val d'Hérens Tourismus](https://www.valdherens.ch/de/evolene-lac-d-arbey-evolene-fp40387) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Evolène - Euseigne | 10.8 km | 3h00min | leicht | [GPX](../gpx/wallis/espace-dent-blanche-evolene/evolene-euseigne.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/espace-dent-blanche-evolene/evolene-euseigne.gpx&center=2601681.78,1110044.14&z=5) | [Val d'Hérens Tourismus](https://www.valdherens.ch/de/evolene-euseigne-fp40345) |
+| Weg durch die Dörfer von Evolène | 11 km | 3h25min | mittel | [GPX](../gpx/wallis/espace-dent-blanche-evolene/weg-durch-die-doerfer-von-evolene.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/espace-dent-blanche-evolene/weg-durch-die-doerfer-von-evolene.gpx&center=2605277.95,1105088.50&z=6) | [Val d'Hérens Tourismus](https://www.valdherens.ch/de/weg-durch-die-dorfer-von-evolene-fp50419) |
+| Evolène - Lac d'Arbey - Evolène | 7.6 km | 3h00min | mittel | [GPX](../gpx/wallis/espace-dent-blanche-evolene/evolene-lac-d-arbey-evolene.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/espace-dent-blanche-evolene/evolene-lac-d-arbey-evolene.gpx&center=2603597.66,1106917.35&z=6) | [Val d'Hérens Tourismus](https://www.valdherens.ch/de/evolene-lac-d-arbey-evolene-fp40387) |
 
 ### Hinweise
 
@@ -143,11 +143,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Mottec - Grimentz n°15 | 5.4 km | 1:45 h | leicht | offen | [Val d'Anniviers](https://www.valdanniviers.ch/de/V3755/freizeit/sommer/mottec-grimentz-nr-15), [Outdooractive / Val d'Anniviers](https://www.outdooractive.com/mobile/en/route/hiking-trail/grimentz-mottec-n-4/36440324/) |
-| Grimentz - Mayoux par le Grand Bisse n°2 | 5.3 km | 1:30 h | leicht | offen | [Val d'Anniviers](https://www.valdanniviers.ch/de/V3646/freizeit/sommer/grimentz-mayoux-ueber-den-grand-bisse-nr-2), [Outdooractive / Val d'Anniviers](https://www.outdooractive.com/fr/route/randonnee/grimentz-mayoux-par-le-grand-bisse-n-2/34669575/) |
-| Grande Boucle Grimentz - Mayens 1903 - Mottec - ancien bisse des Morasses - Grimentz | 12.1 km | 4:20 h | offen | offen | [Val d'Anniviers](https://www.valdanniviers.ch/fr/V3782/a-faire/en-ete/grande-boucle-grimentz-mayens-1903-mottec-ancien-bisse-des-morasses-grimentz), [Outdooractive / Val d'Anniviers](https://www.outdooractive.com/fr/route/grande-randonnee-et-trekking/sierre-anniviers-vercorin/grande-boucle-grimentz-mayens-1903-mottec-ancien-bisse-des/57331245/) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Mottec - Grimentz n°15 | 5.4 km | 1:45 h | leicht | offen | - | [Val d'Anniviers](https://www.valdanniviers.ch/de/V3755/freizeit/sommer/mottec-grimentz-nr-15), [Outdooractive / Val d'Anniviers](https://www.outdooractive.com/mobile/en/route/hiking-trail/grimentz-mottec-n-4/36440324/) |
+| Grimentz - Mayoux par le Grand Bisse n°2 | 5.3 km | 1:30 h | leicht | offen | - | [Val d'Anniviers](https://www.valdanniviers.ch/de/V3646/freizeit/sommer/grimentz-mayoux-ueber-den-grand-bisse-nr-2), [Outdooractive / Val d'Anniviers](https://www.outdooractive.com/fr/route/randonnee/grimentz-mayoux-par-le-grand-bisse-n-2/34669575/) |
+| Grande Boucle Grimentz - Mayens 1903 - Mottec - ancien bisse des Morasses - Grimentz | 12.1 km | 4:20 h | offen | offen | - | [Val d'Anniviers](https://www.valdanniviers.ch/fr/V3782/a-faire/en-ete/grande-boucle-grimentz-mayens-1903-mottec-ancien-bisse-des-morasses-grimentz), [Outdooractive / Val d'Anniviers](https://www.outdooractive.com/fr/route/grande-randonnee-et-trekking/sierre-anniviers-vercorin/grande-boucle-grimentz-mayens-1903-mottec-ancien-bisse-des/57331245/) |
 
 ### Hinweise
 
@@ -170,11 +170,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Lötschentaler Höhenweg Lauchernalp - Fafleralp | 9.4 km | 2:40 h | mittel | [GPX](../gpx/wallis/lauchernalp/loetschentaler-hoehenweg-lauchernalp-fafleralp.gpx) | [Lötschental Tourismus](https://www.loetschental.ch/de/aktivitaeten/wandern-und-alpinismus/wanderhighlights-loetschental/loetschentaler-hoehenweg-lauchernalp-fafleralp-348) |
-| Lauchernalp - Blatten | 5.9 km | 1:45 h | leicht | [GPX](../gpx/wallis/lauchernalp/lauchernalp-blatten.gpx) | [Lötschental Tourismus](https://www.loetschental.ch/de/aktivitaeten/wandern-und-alpinismus/wanderhighlights-loetschental/lauchernalp--blatten-363) |
-| Lauchernalp - Restipass - Rinderhütte Leukerbad | 14.8 km | 5:30 h | mittel | [GPX](../gpx/wallis/lauchernalp/lauchernalp-restipass-rinderhuette.gpx) | [Lötschental Tourismus](https://www.loetschental.ch/de/aktivitaeten/wandern-und-alpinismus/wanderhighlights-loetschental/lauchernalp--restipass--rinderhuette-leukerbad-352) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Lötschentaler Höhenweg Lauchernalp - Fafleralp | 9.4 km | 2:40 h | mittel | [GPX](../gpx/wallis/lauchernalp/loetschentaler-hoehenweg-lauchernalp-fafleralp.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/lauchernalp/loetschentaler-hoehenweg-lauchernalp-fafleralp.gpx&center=2629188.16,1141463.06&z=5) | [Lötschental Tourismus](https://www.loetschental.ch/de/aktivitaeten/wandern-und-alpinismus/wanderhighlights-loetschental/loetschentaler-hoehenweg-lauchernalp-fafleralp-348) |
+| Lauchernalp - Blatten | 5.9 km | 1:45 h | leicht | [GPX](../gpx/wallis/lauchernalp/lauchernalp-blatten.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/lauchernalp/lauchernalp-blatten.gpx&center=2627667.38,1140686.14&z=6) | [Lötschental Tourismus](https://www.loetschental.ch/de/aktivitaeten/wandern-und-alpinismus/wanderhighlights-loetschental/lauchernalp--blatten-363) |
+| Lauchernalp - Restipass - Rinderhütte Leukerbad | 14.8 km | 5:30 h | mittel | [GPX](../gpx/wallis/lauchernalp/lauchernalp-restipass-rinderhuette.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/lauchernalp/lauchernalp-restipass-rinderhuette.gpx&center=2620991.84,1137148.93&z=4) | [Lötschental Tourismus](https://www.loetschental.ch/de/aktivitaeten/wandern-und-alpinismus/wanderhighlights-loetschental/lauchernalp--restipass--rinderhuette-leukerbad-352) |
 
 ### Hinweise
 
@@ -198,11 +198,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Majingsee Wanderung | 6.2 km | 02:00 h | einfach | [GPX](../gpx/wallis/leukerbad-torrent-gemmi/majingsee-wanderung.gpx) | [Leukerbad Tourismus](https://leukerbad.ch/tour/majingsee-wanderung-57717344) |
-| Rundwanderung zur Flüealp | 13.4 km | 04:30 h | offen | [GPX](../gpx/wallis/leukerbad-torrent-gemmi/rundwanderung-zur-flueealp.gpx) | [Leukerbad Tourismus](https://leukerbad.ch/tour/rundwanderung-zur-flueealp-29149691) |
-| Restipass Wanderung | 14.9 km | 05:00 h | anspruchsvoll | [GPX](../gpx/wallis/leukerbad-torrent-gemmi/restipass-wanderung.gpx) | [Leukerbad Tourismus](https://leukerbad.ch/tour/restipass-wanderung-57738559) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Majingsee Wanderung | 6.2 km | 02:00 h | einfach | [GPX](../gpx/wallis/leukerbad-torrent-gemmi/majingsee-wanderung.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/leukerbad-torrent-gemmi/majingsee-wanderung.gpx&center=2615560.49,1136855.13&z=6) | [Leukerbad Tourismus](https://leukerbad.ch/tour/majingsee-wanderung-57717344) |
+| Rundwanderung zur Flüealp | 13.4 km | 04:30 h | offen | [GPX](../gpx/wallis/leukerbad-torrent-gemmi/rundwanderung-zur-flueealp.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/leukerbad-torrent-gemmi/rundwanderung-zur-flueealp.gpx&center=2616470.26,1137500.29&z=6) | [Leukerbad Tourismus](https://leukerbad.ch/tour/rundwanderung-zur-flueealp-29149691) |
+| Restipass Wanderung | 14.9 km | 05:00 h | anspruchsvoll | [GPX](../gpx/wallis/leukerbad-torrent-gemmi/restipass-wanderung.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/leukerbad-torrent-gemmi/restipass-wanderung.gpx&center=2620988.68,1137149.59&z=4) | [Leukerbad Tourismus](https://leukerbad.ch/tour/restipass-wanderung-57738559) |
 
 ### Hinweise
 
@@ -226,11 +226,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Scex des Granges | 9.2 km | 3h45min | offen | [GPX](../gpx/wallis/les-marecottes/scex-des-granges.gpx) | [VerticAlp Les Marécottes](https://www.verticalp-lesmarecottes.ch/fr/scex-des-granges-fp220) |
-| La Creusaz - Emaney - Les Marécottes | 8.5 km | 3h00min | offen | [GPX](../gpx/wallis/les-marecottes/la-creusaz-emaney-les-marecottes.gpx) | [VerticAlp Les Marécottes](https://www.verticalp-lesmarecottes.ch/fr/la-creusaz-emaney-les-marecottes-fp352) |
-| Col de la Golettaz - Van d'en haut | 10.8 km | 4h35min | offen | [GPX](../gpx/wallis/les-marecottes/col-de-la-golettaz-van-den-haut.gpx) | [VerticAlp Les Marécottes](https://www.verticalp-lesmarecottes.ch/fr/col-de-la-golettaz-fp222) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Scex des Granges | 9.2 km | 3h45min | offen | [GPX](../gpx/wallis/les-marecottes/scex-des-granges.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/les-marecottes/scex-des-granges.gpx&center=2566426.63,1108250.01&z=6) | [VerticAlp Les Marécottes](https://www.verticalp-lesmarecottes.ch/fr/scex-des-granges-fp220) |
+| La Creusaz - Emaney - Les Marécottes | 8.5 km | 3h00min | offen | [GPX](../gpx/wallis/les-marecottes/la-creusaz-emaney-les-marecottes.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/les-marecottes/la-creusaz-emaney-les-marecottes.gpx&center=2564699.47,1106979.80&z=6) | [VerticAlp Les Marécottes](https://www.verticalp-lesmarecottes.ch/fr/la-creusaz-emaney-les-marecottes-fp352) |
+| Col de la Golettaz - Van d'en haut | 10.8 km | 4h35min | offen | [GPX](../gpx/wallis/les-marecottes/col-de-la-golettaz-van-den-haut.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/les-marecottes/col-de-la-golettaz-van-den-haut.gpx&center=2564258.68,1108907.15&z=6) | [VerticAlp Les Marécottes](https://www.verticalp-lesmarecottes.ch/fr/col-de-la-golettaz-fp222) |
 
 ### Hinweise
 
@@ -253,11 +253,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Tour de Loutze | 6.70 km | 2h15 | Facile / T1 | [GPX](../gpx/wallis/ovronnaz/tour-de-loutze.gpx) | [Ovronnaz Tourismus](https://www.ovronnaz.ch/event/loutze/) |
-| Sentier botanique - Tour de la Seya | 8.10 km | 3h10 | Moyenne / T2 | [GPX](../gpx/wallis/ovronnaz/sentier-botanique-tour-de-la-seya.gpx) | [Ovronnaz Tourismus](https://www.ovronnaz.ch/event/sentier-botanique-tour-de-la-seya/) |
-| Tour de Rambert | 13.40 km | 5h30 | Moyenne / T3 | [GPX](../gpx/wallis/ovronnaz/tour-de-rambert.gpx) | [Ovronnaz Tourismus](https://www.ovronnaz.ch/event/tour-de-rambert/) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Tour de Loutze | 6.70 km | 2h15 | Facile / T1 | [GPX](../gpx/wallis/ovronnaz/tour-de-loutze.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/ovronnaz/tour-de-loutze.gpx&center=2579353.15,1117414.07&z=7) | [Ovronnaz Tourismus](https://www.ovronnaz.ch/event/loutze/) |
+| Sentier botanique - Tour de la Seya | 8.10 km | 3h10 | Moyenne / T2 | [GPX](../gpx/wallis/ovronnaz/sentier-botanique-tour-de-la-seya.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/ovronnaz/sentier-botanique-tour-de-la-seya.gpx&center=2577659.96,1115550.38&z=6) | [Ovronnaz Tourismus](https://www.ovronnaz.ch/event/sentier-botanique-tour-de-la-seya/) |
+| Tour de Rambert | 13.40 km | 5h30 | Moyenne / T3 | [GPX](../gpx/wallis/ovronnaz/tour-de-rambert.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/ovronnaz/tour-de-rambert.gpx&center=2577956.37,1118422.32&z=6) | [Ovronnaz Tourismus](https://www.ovronnaz.ch/event/tour-de-rambert/) |
 
 ### Hinweise
 
@@ -281,11 +281,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Rosswald: Rundweg Rosswald | 6.63 km | 2h 30min | mittel | [GPX](../gpx/wallis/rosswald/rosswald-rundweg-rosswald.gpx) | [Rosswald Bahnen](https://www.rosswald-bahnen.ch/rosswald/sommer/wandern/), [Brig Simplon](https://www.brig-simplon.ch/tour/rosswald-rundweg-rosswald) |
-| Rosswald - Schallberg - Talstation | 6.48 km | 2h | mittel | [GPX](../gpx/wallis/rosswald/rosswald-schallberg-talstation.gpx) | [Rosswald Bahnen](https://www.rosswald-bahnen.ch/rosswald/sommer/wandern/), [Brig Simplon](https://www.brig-simplon.ch/tour/rosswald-schallberg-talstation) |
-| Bortelhütte | 10.98 km | 3h 45min | mittel | [GPX](../gpx/wallis/rosswald/bortelhuette.gpx) | [Rosswald Bahnen](https://www.rosswald-bahnen.ch/rosswald/sommer/wandern/), [Brig Simplon](https://www.brig-simplon.ch/tour/bortelhuette) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Rosswald: Rundweg Rosswald | 6.63 km | 2h 30min | mittel | [GPX](../gpx/wallis/rosswald/rosswald-rundweg-rosswald.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/rosswald/rosswald-rundweg-rosswald.gpx&center=2647367.51,1128445.03&z=6) | [Rosswald Bahnen](https://www.rosswald-bahnen.ch/rosswald/sommer/wandern/), [Brig Simplon](https://www.brig-simplon.ch/tour/rosswald-rundweg-rosswald) |
+| Rosswald - Schallberg - Talstation | 6.48 km | 2h | mittel | [GPX](../gpx/wallis/rosswald/rosswald-schallberg-talstation.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/rosswald/rosswald-schallberg-talstation.gpx&center=2645339.49,1128220.49&z=6) | [Rosswald Bahnen](https://www.rosswald-bahnen.ch/rosswald/sommer/wandern/), [Brig Simplon](https://www.brig-simplon.ch/tour/rosswald-schallberg-talstation) |
+| Bortelhütte | 10.98 km | 3h 45min | mittel | [GPX](../gpx/wallis/rosswald/bortelhuette.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/wallis/rosswald/bortelhuette.gpx&center=2648434.29,1127805.36&z=5) | [Rosswald Bahnen](https://www.rosswald-bahnen.ch/rosswald/sommer/wandern/), [Brig Simplon](https://www.brig-simplon.ch/tour/bortelhuette) |
 
 ### Hinweise
 
@@ -312,11 +312,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Steinwildpfad | 8.3 km | 4 h | 3/5 | offen | [Saas-Fee/Saastal Blog](https://www.saas-fee.ch/blog/2020/09/steinwildpfad/), [Hannig im Sommer](https://www.saas-fee.ch/de/erlebniswelten/hannig-im-sommer) |
-| Mattmark Circular Walk | 8 km | 2h30 | T2 / mittel | offen | [Saas-Almagell: offene Anlagen](https://www.saas-fee.ch/de/offene-anlagen/saas-almagell), [Outdooractive / Saastal Tourismus AG](https://www.outdooractive.com/mobile/en/route/hiking-trail/saas-almagell/mattmark-circular-walk/23425755/) |
-| Erlebnisweg Saas-Almagell | 2.8 km | 1.5 h ohne Abstieg | 3/5 | offen | [Saas-Fee/Saastal Blog](https://www.saas-fee.ch/blog/2020/09/erlebnisweg-saas-almagell/), [Furggstalden & Heidbodmen](https://www.saas-fee.ch/de/erlebniswelten/furggstalden-heidbodmen-im-sommer) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Steinwildpfad | 8.3 km | 4 h | 3/5 | offen | - | [Saas-Fee/Saastal Blog](https://www.saas-fee.ch/blog/2020/09/steinwildpfad/), [Hannig im Sommer](https://www.saas-fee.ch/de/erlebniswelten/hannig-im-sommer) |
+| Mattmark Circular Walk | 8 km | 2h30 | T2 / mittel | offen | - | [Saas-Almagell: offene Anlagen](https://www.saas-fee.ch/de/offene-anlagen/saas-almagell), [Outdooractive / Saastal Tourismus AG](https://www.outdooractive.com/mobile/en/route/hiking-trail/saas-almagell/mattmark-circular-walk/23425755/) |
+| Erlebnisweg Saas-Almagell | 2.8 km | 1.5 h ohne Abstieg | 3/5 | offen | - | [Saas-Fee/Saastal Blog](https://www.saas-fee.ch/blog/2020/09/erlebnisweg-saas-almagell/), [Furggstalden & Heidbodmen](https://www.saas-fee.ch/de/erlebniswelten/furggstalden-heidbodmen-im-sommer) |
 
 ### Hinweise
 
@@ -341,11 +341,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| St-Luc/Tignousa - Chemin des Planètes n°20 | 6.2 km | 2:10 h | mittel | offen | [Val d'Anniviers](https://www.valdanniviers.ch/fr/V3727/a-faire/en-ete/st-luc-tignousa-chemin-des-planetes-n020), [Outdooractive / Val d'Anniviers](https://www.outdooractive.com/fr/route/randonnee/st-luc-tignousa-chemin-des-planetes-n-20/39111822/) |
-| Trail St-Luc/Chandolin | 16.8 km | 3:42 h | mittel | offen | [Valais/Wallis Promotion](https://www.valais.ch/fr/explorer/activites/randonnees/trail-running/trail-st-lucchandolin), [Val d'Anniviers](https://www.valdanniviers.ch/fr/V3739/a-faire/en-ete/trail-de-st-luc-chandolin) |
-| St-Luc/Tignousa - Tsapé n°24 | 3.9 km | 1:30 h | einfach | offen | [Val d'Anniviers](https://www.valdanniviers.ch/fr/V3690/a-faire/en-ete/st-luc-tignousa-tsape-n024), [Outdooractive / Val d'Anniviers](https://www.outdooractive.com/fr/route/randonnee/st-luc-tignousa-tsape-n-24/38379742/) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| St-Luc/Tignousa - Chemin des Planètes n°20 | 6.2 km | 2:10 h | mittel | offen | - | [Val d'Anniviers](https://www.valdanniviers.ch/fr/V3727/a-faire/en-ete/st-luc-tignousa-chemin-des-planetes-n020), [Outdooractive / Val d'Anniviers](https://www.outdooractive.com/fr/route/randonnee/st-luc-tignousa-chemin-des-planetes-n-20/39111822/) |
+| Trail St-Luc/Chandolin | 16.8 km | 3:42 h | mittel | offen | - | [Valais/Wallis Promotion](https://www.valais.ch/fr/explorer/activites/randonnees/trail-running/trail-st-lucchandolin), [Val d'Anniviers](https://www.valdanniviers.ch/fr/V3739/a-faire/en-ete/trail-de-st-luc-chandolin) |
+| St-Luc/Tignousa - Tsapé n°24 | 3.9 km | 1:30 h | einfach | offen | - | [Val d'Anniviers](https://www.valdanniviers.ch/fr/V3690/a-faire/en-ete/st-luc-tignousa-tsape-n024), [Outdooractive / Val d'Anniviers](https://www.outdooractive.com/fr/route/randonnee/st-luc-tignousa-tsape-n-24/38379742/) |
 
 ### Hinweise
 
@@ -371,11 +371,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Rundwanderung Brandalp - Strygge - Hängebrücke | offen | 3h 55 | offen | offen | [Unterbäch Tourismus](https://unterbaech.ch/unterbaech/sommer/wandern/wanderwege-augstbordregion/rundwanderung-brandalp/) |
-| Suonen Rundwanderung | offen | 2h 50 | offen | offen | [Unterbäch Tourismus](https://unterbaech.ch/unterbaech/sommer/wandern/wanderwege-augstbordregion/suonen-rundwanderung/) |
-| Rundwanderung Alte Eischlersuon | offen | 3h 20 | offen | offen | [Unterbäch Tourismus](https://unterbaech.ch/unterbaech/sommer/wandern/wanderwege-augstbordregion/rundwanderung-alte-eischlersuon/) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Rundwanderung Brandalp - Strygge - Hängebrücke | offen | 3h 55 | offen | offen | - | [Unterbäch Tourismus](https://unterbaech.ch/unterbaech/sommer/wandern/wanderwege-augstbordregion/rundwanderung-brandalp/) |
+| Suonen Rundwanderung | offen | 2h 50 | offen | offen | - | [Unterbäch Tourismus](https://unterbaech.ch/unterbaech/sommer/wandern/wanderwege-augstbordregion/suonen-rundwanderung/) |
+| Rundwanderung Alte Eischlersuon | offen | 3h 20 | offen | offen | - | [Unterbäch Tourismus](https://unterbaech.ch/unterbaech/sommer/wandern/wanderwege-augstbordregion/rundwanderung-alte-eischlersuon/) |
 
 ### Hinweise
 
@@ -400,11 +400,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Vercorin - Bisse de Vercorin | 11.7 km | 3:25 h | mittel | offen | [Vercorin](https://www.vercorin.ch/fr/V3875/a-faire/en-ete-et-en-automne/vercorin-bisse-de-vercorin), [Outdooractive / Vercorin](https://www.outdooractive.com/en/route/hiking-trail/valais/vercorin-bisse-de-vercorin/54480765/) |
-| Bisse des Sarrasins - Vercorin-Pinsec | 8.3 km | 3:30 h | mittel | offen | [Vercorin](https://www.vercorin.ch/fr/V3881), [Outdooractive / Vercorin](https://www.outdooractive.com/fr/route/randonnee/valais/bisse-des-sarrasins-vercorin-pinsec/30241092/) |
-| Bisse de Savannes Bellecrête - Vercorin | 3.9 km | 1:05 h | einfach | offen | [Vercorin](https://www.vercorin.ch/fr/V3876/a-faire/en-ete-et-en-automne/bisse-de-savannes-bellecrete-vercorin), [Outdooractive / Vercorin](https://www.outdooractive.com/fr/route/randonnee/valais/bisse-de-savannes-bellecrete-vercorin/38139079/) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Vercorin - Bisse de Vercorin | 11.7 km | 3:25 h | mittel | offen | - | [Vercorin](https://www.vercorin.ch/fr/V3875/a-faire/en-ete-et-en-automne/vercorin-bisse-de-vercorin), [Outdooractive / Vercorin](https://www.outdooractive.com/en/route/hiking-trail/valais/vercorin-bisse-de-vercorin/54480765/) |
+| Bisse des Sarrasins - Vercorin-Pinsec | 8.3 km | 3:30 h | mittel | offen | - | [Vercorin](https://www.vercorin.ch/fr/V3881), [Outdooractive / Vercorin](https://www.outdooractive.com/fr/route/randonnee/valais/bisse-des-sarrasins-vercorin-pinsec/30241092/) |
+| Bisse de Savannes Bellecrête - Vercorin | 3.9 km | 1:05 h | einfach | offen | - | [Vercorin](https://www.vercorin.ch/fr/V3876/a-faire/en-ete-et-en-automne/bisse-de-savannes-bellecrete-vercorin), [Outdooractive / Vercorin](https://www.outdooractive.com/fr/route/randonnee/valais/bisse-de-savannes-bellecrete-vercorin/38139079/) |
 
 ### Hinweise
 
@@ -430,11 +430,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Brunnenweg | 5.32 km | 1h 45min | Technik: mittel / Kondition: mittel | offen | [Heidadorf Visperterminen](https://www.heidadorf.ch/freizeit/wanderungen-ordner/brunnenweg) |
-| Panoramaweg Gebidem | 8.44 km | 2h 30min | Technik: mittel / Kondition: mittel | offen | [Heidadorf Visperterminen](https://www.heidadorf.ch/freizeit/wanderungen-ordner/panoramaweg-gebidem) |
-| Gsponer Höhenweg | 8.30 km | 2h 30min | Technik: leicht / Kondition: mittel | offen | [Heidadorf Visperterminen](https://www.heidadorf.ch/freizeit/wanderungen-ordner/gsponer-hoehenweg) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Brunnenweg | 5.32 km | 1h 45min | Technik: mittel / Kondition: mittel | offen | - | [Heidadorf Visperterminen](https://www.heidadorf.ch/freizeit/wanderungen-ordner/brunnenweg) |
+| Panoramaweg Gebidem | 8.44 km | 2h 30min | Technik: mittel / Kondition: mittel | offen | - | [Heidadorf Visperterminen](https://www.heidadorf.ch/freizeit/wanderungen-ordner/panoramaweg-gebidem) |
+| Gsponer Höhenweg | 8.30 km | 2h 30min | Technik: leicht / Kondition: mittel | offen | - | [Heidadorf Visperterminen](https://www.heidadorf.ch/freizeit/wanderungen-ordner/gsponer-hoehenweg) |
 
 ### Hinweise
 

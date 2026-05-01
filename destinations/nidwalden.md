@@ -24,11 +24,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Klewenalp-Stockhütte | 5,31 km | 1 h 20 min | leicht | [GPX](../gpx/nidwalden/klewenalp-stockhuette/klewenalp-stockhuette.gpx) | [Klewenalp-Stockhütte](https://www.klewenalp.ch/tour/klewenalp-stockhuette) |
-| Klewenalp-Twäregg-Stockhütte | 5,39 km | 1 h 25 min | leicht | [GPX](../gpx/nidwalden/klewenalp-stockhuette/klewenalp-twaeregg-stockhuette.gpx) | [Klewenalp-Stockhütte](https://www.klewenalp.ch/tour/klewenalp-twaeregg-stockhuette) |
-| Goldi-Gwundernasenweg Klewenalp-Stockhütte | 5,41 km | 1 h 30 min | leicht | [GPX](../gpx/nidwalden/klewenalp-stockhuette/goldi-gwundernasenweg-klewenalp-stockhuette.gpx) | [Klewenalp-Stockhütte](https://www.klewenalp.ch/tour/goldi-gwundernasenweg-klewenalp-stockhuette) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Klewenalp-Stockhütte | 5,31 km | 1 h 20 min | leicht | [GPX](../gpx/nidwalden/klewenalp-stockhuette/klewenalp-stockhuette.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/nidwalden/klewenalp-stockhuette/klewenalp-stockhuette.gpx&center=2679990.53,1198890.39&z=6) | [Klewenalp-Stockhütte](https://www.klewenalp.ch/tour/klewenalp-stockhuette) |
+| Klewenalp-Twäregg-Stockhütte | 5,39 km | 1 h 25 min | leicht | [GPX](../gpx/nidwalden/klewenalp-stockhuette/klewenalp-twaeregg-stockhuette.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/nidwalden/klewenalp-stockhuette/klewenalp-twaeregg-stockhuette.gpx&center=2679987.65,1198878.12&z=6) | [Klewenalp-Stockhütte](https://www.klewenalp.ch/tour/klewenalp-twaeregg-stockhuette) |
+| Goldi-Gwundernasenweg Klewenalp-Stockhütte | 5,41 km | 1 h 30 min | leicht | [GPX](../gpx/nidwalden/klewenalp-stockhuette/goldi-gwundernasenweg-klewenalp-stockhuette.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/nidwalden/klewenalp-stockhuette/goldi-gwundernasenweg-klewenalp-stockhuette.gpx&center=2679986.13,1198878.10&z=6) | [Klewenalp-Stockhütte](https://www.klewenalp.ch/tour/goldi-gwundernasenweg-klewenalp-stockhuette) |
 
 ### Hinweise
 

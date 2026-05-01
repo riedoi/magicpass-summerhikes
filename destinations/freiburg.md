@@ -28,11 +28,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| La Chéta | 5.12 km | 2:20 h Aufstieg / 1:40 h Abstieg | ziemlich einfach | [GPX](../gpx/freiburg/charmey/la-cheta.gpx) | [Charmey.ch](https://www.charmey.ch/activites/randonnees/la-cheta/) |
-| Le Ganet | 7.89 km | 2:40 h Aufstieg / 1:50 h Abstieg | ziemlich einfach | [GPX](../gpx/freiburg/charmey/le-ganet.gpx) | [Charmey.ch](https://www.charmey.ch/activites/randonnees/le-ganet/) |
-| Les Reposoirs | 10.21 km | 3:25 h Aufstieg / 2:40 h Abstieg | mittel | [GPX](../gpx/freiburg/charmey/les-reposoirs.gpx) | [Charmey.ch](https://www.charmey.ch/activites/randonnees/les-reposoirs/) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| La Chéta | 5.12 km | 2:20 h Aufstieg / 1:40 h Abstieg | ziemlich einfach | [GPX](../gpx/freiburg/charmey/la-cheta.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/freiburg/charmey/la-cheta.gpx&center=2580809.11,1163270.89&z=6) | [Charmey.ch](https://www.charmey.ch/activites/randonnees/la-cheta/) |
+| Le Ganet | 7.89 km | 2:40 h Aufstieg / 1:50 h Abstieg | ziemlich einfach | [GPX](../gpx/freiburg/charmey/le-ganet.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/freiburg/charmey/le-ganet.gpx&center=2580764.10,1163446.08&z=6) | [Charmey.ch](https://www.charmey.ch/activites/randonnees/le-ganet/) |
+| Les Reposoirs | 10.21 km | 3:25 h Aufstieg / 2:40 h Abstieg | mittel | [GPX](../gpx/freiburg/charmey/les-reposoirs.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/freiburg/charmey/les-reposoirs.gpx&center=2580616.51,1164659.87&z=6) | [Charmey.ch](https://www.charmey.ch/activites/randonnees/les-reposoirs/) |
 
 ### Hinweise
 
@@ -54,11 +54,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Gastlosen-Tour in Jaun | 12 km | 5:00 h | mittelschwer | [GPX](../gpx/freiburg/jaun/gastlosen-tour-in-jaun.gpx) | [Jaun-Gastlosen Bergbahnen](https://www.jaun-bergbahnen.ch/wandern), [La Gruyère](https://fribourg.ch/de/la-gruyere/wanderungen/gastlosen-tour-in-jaun/) |
-| Geologischer Pfad der Gastlosen | 8 km | 3:00 h | mittelschwer | [GPX](../gpx/freiburg/jaun/geologischer-pfad-gastlosen.gpx) | [Jaun-Gastlosen Bergbahnen](https://www.jaun-bergbahnen.ch/wandern), [La Gruyère](https://fribourg.ch/de/la-gruyere/wanderungen/geologischer-pfad-der-gastlosen/) |
-| Alpenpanoramaweg: Schwarzsee - Jaun | 12 km | 4:15 h | mittelschwer | [GPX](../gpx/freiburg/jaun/alpenpanoramaweg-schwarzsee-jaun.gpx) | [Jaun-Gastlosen Bergbahnen](https://www.jaun-bergbahnen.ch/wandern), [Region Freiburg](https://fribourg.ch/de/all/wanderungen/alpenpanoramaweg-schwarzsee-jaun/) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Gastlosen-Tour in Jaun | 12 km | 5:00 h | mittelschwer | [GPX](../gpx/freiburg/jaun/gastlosen-tour-in-jaun.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/freiburg/jaun/gastlosen-tour-in-jaun.gpx&center=2587916.11,1158943.54&z=6) | [Jaun-Gastlosen Bergbahnen](https://www.jaun-bergbahnen.ch/wandern), [La Gruyère](https://fribourg.ch/de/la-gruyere/wanderungen/gastlosen-tour-in-jaun/) |
+| Geologischer Pfad der Gastlosen | 8 km | 3:00 h | mittelschwer | [GPX](../gpx/freiburg/jaun/geologischer-pfad-gastlosen.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/freiburg/jaun/geologischer-pfad-gastlosen.gpx&center=2586615.99,1159332.28&z=6) | [Jaun-Gastlosen Bergbahnen](https://www.jaun-bergbahnen.ch/wandern), [La Gruyère](https://fribourg.ch/de/la-gruyere/wanderungen/geologischer-pfad-der-gastlosen/) |
+| Alpenpanoramaweg: Schwarzsee - Jaun | 12 km | 4:15 h | mittelschwer | [GPX](../gpx/freiburg/jaun/alpenpanoramaweg-schwarzsee-jaun.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/freiburg/jaun/alpenpanoramaweg-schwarzsee-jaun.gpx&center=2587837.21,1165510.77&z=5) | [Jaun-Gastlosen Bergbahnen](https://www.jaun-bergbahnen.ch/wandern), [Region Freiburg](https://fribourg.ch/de/all/wanderungen/alpenpanoramaweg-schwarzsee-jaun/) |
 
 ### Hinweise
 
@@ -80,11 +80,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Gipfel von la Berra | 9 km | 4:00 h | einfach | [GPX](../gpx/freiburg/la-berra/gipfel-von-la-berra.gpx) | [La Berra](https://www.laberra.ch/fr/activites-details/randonnees), [La Gruyère](https://fribourg.ch/de/la-gruyere/wanderungen/gipfel-von-la-berra/) |
-| La Berra via die Hauta Chia und La Valsainte | 14 km | 4:45 h | anspruchsvoll | [GPX](../gpx/freiburg/la-berra/la-berra-hauta-chia-valsainte.gpx) | [La Berra](https://www.laberra.ch/fr/activites-details/randonnees), [La Gruyère](https://fribourg.ch/de/la-gruyere/wanderungen/la-berra-via-die-hauta-chia-und-la-valsainte/) |
-| La Berra - Cousimbert - La Berra | offen | offen | offen | offen | [La Berra](https://www.laberra.ch/fr/activites-details/randonnees) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Gipfel von la Berra | 9 km | 4:00 h | einfach | [GPX](../gpx/freiburg/la-berra/gipfel-von-la-berra.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/freiburg/la-berra/gipfel-von-la-berra.gpx&center=2579396.41,1169889.20&z=6) | [La Berra](https://www.laberra.ch/fr/activites-details/randonnees), [La Gruyère](https://fribourg.ch/de/la-gruyere/wanderungen/gipfel-von-la-berra/) |
+| La Berra via die Hauta Chia und La Valsainte | 14 km | 4:45 h | anspruchsvoll | [GPX](../gpx/freiburg/la-berra/la-berra-hauta-chia-valsainte.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/freiburg/la-berra/la-berra-hauta-chia-valsainte.gpx&center=2581697.61,1167912.49&z=5) | [La Berra](https://www.laberra.ch/fr/activites-details/randonnees), [La Gruyère](https://fribourg.ch/de/la-gruyere/wanderungen/la-berra-via-die-hauta-chia-und-la-valsainte/) |
+| La Berra - Cousimbert - La Berra | offen | offen | offen | offen | - | [La Berra](https://www.laberra.ch/fr/activites-details/randonnees) |
 
 ### Hinweise
 
@@ -106,11 +106,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Tour de Plan-Francey | 7 km | 2:30 h | mittelschwer | [GPX](../gpx/freiburg/moleson/tour-de-plan-francey.gpx) | [Moléson](https://www.moleson.ch/rando/tour-de-plan-francey/), [La Gruyère](https://fribourg.ch/de/la-gruyere/wanderungen/rund-um-plan-francey/) |
-| Tour de Moléson | 13 km | 3:45 h | mittelschwer | [GPX](../gpx/freiburg/moleson/tour-du-moleson.gpx) | [Moléson](https://www.moleson.ch/rando/tour-de-moleson-2/), [La Gruyère](https://fribourg.ch/de/la-gruyere/wanderungen/tour-du-moleson/) |
-| La Crête du Moléson | 8 km | 3:00 h | mittelschwer | [GPX](../gpx/freiburg/moleson/der-grat-moleson.gpx) | [Moléson](https://www.moleson.ch/rando/crete/), [La Gruyère](https://fribourg.ch/de/la-gruyere/wanderungen/der-grat-moleson/) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Tour de Plan-Francey | 7 km | 2:30 h | mittelschwer | [GPX](../gpx/freiburg/moleson/tour-de-plan-francey.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/freiburg/moleson/tour-de-plan-francey.gpx&center=2568751.48,1156843.11&z=6) | [Moléson](https://www.moleson.ch/rando/tour-de-plan-francey/), [La Gruyère](https://fribourg.ch/de/la-gruyere/wanderungen/rund-um-plan-francey/) |
+| Tour de Moléson | 13 km | 3:45 h | mittelschwer | [GPX](../gpx/freiburg/moleson/tour-du-moleson.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/freiburg/moleson/tour-du-moleson.gpx&center=2566950.44,1154576.08&z=6) | [Moléson](https://www.moleson.ch/rando/tour-de-moleson-2/), [La Gruyère](https://fribourg.ch/de/la-gruyere/wanderungen/tour-du-moleson/) |
+| La Crête du Moléson | 8 km | 3:00 h | mittelschwer | [GPX](../gpx/freiburg/moleson/der-grat-moleson.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/freiburg/moleson/der-grat-moleson.gpx&center=2566938.45,1155018.62&z=6) | [Moléson](https://www.moleson.ch/rando/crete/), [La Gruyère](https://fribourg.ch/de/la-gruyere/wanderungen/der-grat-moleson/) |
 
 ### Hinweise
 
@@ -132,11 +132,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Kaiseregg | 11 km | 4:40 h | mittelschwer | [GPX](../gpx/freiburg/schwarzsee/kaiseregg.gpx) | [Kaisereggbahnen Schwarzsee AG](https://fribourg.ch/de/schwarzsee/bergbahnen/kaisereggbahnen-schwarzsee-ag/), [Schwarzsee-Senseland](https://fribourg.ch/de/schwarzsee/wanderungen/kaiseregg/) |
-| Schwarzsee Höhenweg | 18 km | 6:20 h | mittelschwer | [GPX](../gpx/freiburg/schwarzsee/schwarzsee-hoehenweg.gpx) | [Kaisereggbahnen Schwarzsee AG](https://fribourg.ch/de/schwarzsee/bergbahnen/kaisereggbahnen-schwarzsee-ag/), [Schwarzsee-Senseland](https://fribourg.ch/de/schwarzsee/wanderungen/schwarzsee-hoehenweg/) |
-| Zwei-Täler-Wanderung Schwarzsee | 10 km | 4:35 h | mittelschwer | [GPX](../gpx/freiburg/schwarzsee/zwei-taeler-wanderung.gpx) | [Schwarzsee-Senseland](https://fribourg.ch/de/schwarzsee/wanderungen/zwei-taeler-wanderung/) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Kaiseregg | 11 km | 4:40 h | mittelschwer | [GPX](../gpx/freiburg/schwarzsee/kaiseregg.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/freiburg/schwarzsee/kaiseregg.gpx&center=2589687.26,1167678.45&z=6) | [Kaisereggbahnen Schwarzsee AG](https://fribourg.ch/de/schwarzsee/bergbahnen/kaisereggbahnen-schwarzsee-ag/), [Schwarzsee-Senseland](https://fribourg.ch/de/schwarzsee/wanderungen/kaiseregg/) |
+| Schwarzsee Höhenweg | 18 km | 6:20 h | mittelschwer | [GPX](../gpx/freiburg/schwarzsee/schwarzsee-hoehenweg.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/freiburg/schwarzsee/schwarzsee-hoehenweg.gpx&center=2586860.59,1167924.91&z=5) | [Kaisereggbahnen Schwarzsee AG](https://fribourg.ch/de/schwarzsee/bergbahnen/kaisereggbahnen-schwarzsee-ag/), [Schwarzsee-Senseland](https://fribourg.ch/de/schwarzsee/wanderungen/schwarzsee-hoehenweg/) |
+| Zwei-Täler-Wanderung Schwarzsee | 10 km | 4:35 h | mittelschwer | [GPX](../gpx/freiburg/schwarzsee/zwei-taeler-wanderung.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/freiburg/schwarzsee/zwei-taeler-wanderung.gpx&center=2586303.92,1166771.92&z=6) | [Schwarzsee-Senseland](https://fribourg.ch/de/schwarzsee/wanderungen/zwei-taeler-wanderung/) |
 
 ### Hinweise
 

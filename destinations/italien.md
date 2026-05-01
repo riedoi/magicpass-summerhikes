@@ -26,11 +26,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| Hiking - Flower Trail from Alpe Ciamporino to Alpe Veglia | 11,5 km | 3 h 40 min | medium | [GPX](../gpx/italien/san-domenico/flower-trail-ciamporino-alpe-veglia.gpx) | [VisitOssola](https://www.visitossola.it/en/itineraries/hiking-flower-trail-from-alpe-ciamporino-to-alpe-veglia/), [San Domenico Ski](https://www.san-domenico.com/en/activities-experiences/hiking) |
-| Hiking - Alpe Veglia and the Forest Park | 5,7 km | 2 h | easy | [GPX](../gpx/italien/san-domenico/alpe-veglia-forest-park.gpx) | [VisitOssola](https://www.visitossola.it/en/itineraries/hiking-alpe-veglia-and-the-forest-park/) |
-| Hiking - Tour of Alpe Veglia and Witches' Lake | 5,3 km | 1 h 30 min | easy | [GPX](../gpx/italien/san-domenico/alpe-veglia-witches-lake.gpx) | [VisitOssola](https://www.visitossola.it/en/itineraries/hiking-tour-of-alpe-veglia-and-witches-lake/) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| Hiking - Flower Trail from Alpe Ciamporino to Alpe Veglia | 11,5 km | 3 h 40 min | medium | [GPX](../gpx/italien/san-domenico/flower-trail-ciamporino-alpe-veglia.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/italien/san-domenico/flower-trail-ciamporino-alpe-veglia.gpx&center=2656495.85,1123635.44&z=6) | [VisitOssola](https://www.visitossola.it/en/itineraries/hiking-flower-trail-from-alpe-ciamporino-to-alpe-veglia/), [San Domenico Ski](https://www.san-domenico.com/en/activities-experiences/hiking) |
+| Hiking - Alpe Veglia and the Forest Park | 5,7 km | 2 h | easy | [GPX](../gpx/italien/san-domenico/alpe-veglia-forest-park.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/italien/san-domenico/alpe-veglia-forest-park.gpx&center=2655334.48,1125303.84&z=7) | [VisitOssola](https://www.visitossola.it/en/itineraries/hiking-alpe-veglia-and-the-forest-park/) |
+| Hiking - Tour of Alpe Veglia and Witches' Lake | 5,3 km | 1 h 30 min | easy | [GPX](../gpx/italien/san-domenico/alpe-veglia-witches-lake.gpx) | [Karte](https://map.geo.admin.ch/?bgLayer=ch.swisstopo.pixelkarte-farbe&layers=GPX||https://cdn.jsdelivr.net/gh/riedoi/magicpass-summerhikes/gpx/italien/san-domenico/alpe-veglia-witches-lake.gpx&center=2654270.34,1124623.06&z=7) | [VisitOssola](https://www.visitossola.it/en/itineraries/hiking-tour-of-alpe-veglia-and-witches-lake/) |
 
 ### Hinweise
 
@@ -53,11 +53,11 @@ Offizielle Informationen:
 
 ### Wanderungen
 
-| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Quelle |
-|---|---:|---:|---|---|---|
-| 602 Lusetrek | 6,5 km | 3 h | e-avanzato | offen | [Domobianca365](https://www.domobianca365.it/estate/trekking/) |
-| 604 Strada Bianca | 4 km | 2 h | e-media | offen | [Domobianca365](https://www.domobianca365.it/estate/trekking/) |
-| 606 Anello Casale | 4,1 km | 1 h 30 min | e-media | offen | [Domobianca365](https://www.domobianca365.it/estate/trekking/) |
+| Wanderung | Distanz | Dauer | Schwierigkeit | GPX | Karte | Quelle |
+| --- | ---: | ---: | --- | --- | --- | --- |
+| 602 Lusetrek | 6,5 km | 3 h | e-avanzato | offen | - | [Domobianca365](https://www.domobianca365.it/estate/trekking/) |
+| 604 Strada Bianca | 4 km | 2 h | e-media | offen | - | [Domobianca365](https://www.domobianca365.it/estate/trekking/) |
+| 606 Anello Casale | 4,1 km | 1 h 30 min | e-media | offen | - | [Domobianca365](https://www.domobianca365.it/estate/trekking/) |
 
 ### Hinweise
 
